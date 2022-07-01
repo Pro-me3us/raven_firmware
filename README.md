@@ -1,5 +1,5 @@
 # FireTV 2nd gen Cube Firmware
-Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for full and differential OTA firmware, and <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code</a>. 
+Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for full and differential OTA firmware, and <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code</a>.  Firmware for the Firestick 4k (Mantis) can be found <a href="https://gist.github.com/JulyIghor/d3d3dd460527a1d2b5b67954160d4abf">here</a>.
 
 ### Full Firmware Update
 | Date | Version | Download | Size | MD5 |
