@@ -5,10 +5,13 @@ Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for full and
 | Date | Version | Download | Size | MD5 |
 |:----:|:-------:|:--------:|:----:|:---:|
 | 2020-05-15 | FireOS 7.2.1.2 (PS7212/1333) | [update-kindle-raven-PS7212_user_1333_0017951962500.bin](https://d1s31zyz7dcc2d.cloudfront.net/f8c7a4c4207aa02d0ee1404c28c8bd6d/update-kindle-raven-PS7212_user_1333_0017951962500.bin) | 869.7MB | 9fbbd2490d4232af91940e0ad73f2e6f |
+| 2020-12-21 | FireOS 7.2.2.9 (PS7229/1853) | [update-kindle-raven-PS7229_user_1853_0019562708356.bin](https://d1s31zyz7dcc2d.cloudfront.net/547475808a4599501d4f6e2af25eaa70/update-kindle-raven-PS7229_user_1853_0019562708356.bin) | 871.4MB | 20f0759aba774eb98d2e67231ac1a53f |
+| 2022-03-15 | FireOS 7.2.4.2 (PS7242/3516) | [update-kindle-raven-PS7242_user_3516_0021710617732.bin](https://d1s31zyz7dcc2d.cloudfront.net/687c198b93c1b5bbc372630839d37ca6/update-kindle-raven-PS7242_user_3516_0021710617732.bin) | 877.7MB | 4fff4d20b8eb4a71c3e0eed2f38dad7a |
 | 2022-03-24 | FireOS 7.2.7.3 (PS7273/2625) | [update-kindle-raven-PS7273_user_2625_0022851240324.bin](https://d1s31zyz7dcc2d.cloudfront.net/a7ab0960dbce73b3dadef971a6a6e841/update-kindle-raven-PS7273_user_2625_0022851240324.bin) | 885.3MB | 21aaa390ceda55ad1d6f035f055d1e7d | 
 | 2022-04-07 | FireOS 7.2.7.9 (PS7279/2766) | [update-kindle-raven-PS7279_user_2766_0023253929604.bin](https://d1s31zyz7dcc2d.cloudfront.net/5adc0bb8184ed3cafaa81e5689b0b9c9/update-kindle-raven-PS7279_user_2766_0023253929604.bin) | 878.5MB | 59eb447ac768ddcf2ca6c40a39c1072c | 
 | 2022-05-26 | FireOS 7.2.8.5 (PS7285/2877) | [update-kindle-raven-PS7285_user_2877_0023723720068.bin](https://d1s31zyz7dcc2d.cloudfront.net/368f59cde83bc75cdd89a0b025693bc1/update-kindle-raven-PS7285_user_2877_0023723720068.bin) | 872.8MB | 9d8b64c9e1634292651b292c0ad2a0a6 | 
 | 2022-06-28 | FireOS 7.2.8.5 (PS7285/2880) | [update-kindle-raven-PS7285_user_2880_0023723720836.bin](https://d1s31zyz7dcc2d.cloudfront.net/d056bf58606508bef13bcae92b01f708/update-kindle-raven-PS7285_user_2880_0023723720836.bin) | 873.9MB | 32b851ee658481d97a29d9b9e461ef69 | 
+| 2022-07-27 | FireOS 7.2.9.2 (PS7292/2982) | [update-kindle-raven-PS7292_user_2982_0024126400132.bin](https://d1s31zyz7dcc2d.cloudfront.net/936178a33b5b5be2aa48be91d073cb24/update-kindle-raven-PS7292_user_2982_0024126400132.bin) | 864.9MB | a0617b8b14aa6c337ec2486913cfea19 | 
 
 
 
@@ -27,9 +30,8 @@ Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for full and
 | <sub>2022-05-26</sub> | <sub>FireOS 7.2.4.2 (PS7242/2906)</sub> | <sub>FireOS 7.2.8.5 (PS7285/2877)</sub> | <sub>[update-raven-diff-PS7242_2906_0021710461572-to-PS7285_user_2877_0023723720068.bin](https://d1s31zyz7dcc2d.cloudfront.net/26289de11c777e25dc254ddcb20f83f0/update-raven-diff-PS7242_2906_0021710461572-to-PS7285_user_2877_0023723720068.bin)</sub> | <sub>319.6MB<sub> | <sub>d854efe24a9a1e013737b6608ebd4f07<sub> |
 | <sub>2022-06-28</sub> | <sub>FireOS 7.2.7.9 (PS7279/2766N)</sub> | <sub>FireOS 7.2.8.5 (PS7285/2880)</sub> | <sub>[update-raven-diff-PS7279.2766N_2766_0023253929604-to-PS7285_user_2880_0023723720836.bin](https://d1s31zyz7dcc2d.cloudfront.net/28df45b694ddc8dbc07fd540267ac95f/update-raven-diff-PS7279.2766N_2766_0023253929604-to-PS7285_user_2880_0023723720836.bin)</sub> | <sub>108.4MB<sub> | <sub>1cc4f98189ea1682690871ef8fec7511<sub> |
 | <sub>2022-06-28</sub> | <sub>FireOS 7.2.8.5 (PS7285/2877N)</sub> | <sub>FireOS 7.2.8.5 (PS7285/2880)</sub> | <sub>[update-raven-diff-PS7285.2877N_2877_0023723720068-to-PS7285_user_2880_0023723720836.bin](https://d1s31zyz7dcc2d.cloudfront.net/dc251303b3b3405d97c9ec3467fde4b7/update-raven-diff-PS7285.2877N_2877_0023723720068-to-PS7285_user_2880_0023723720836.bin)</sub> | <sub>36.6MB<sub> | <sub>5609154748559eee52439e4eaf31f4e2<sub> |
-  
+| <sub>2022-07-27</sub> | <sub>FireOS 7.2.8.5 (PS7285/2880)</sub> | <sub>FireOS 7.2.9.2 (PS7292/2982)</sub> | <sub>[update-raven-diff-PS7285.2880N_2880_0023723720836-to-PS7292_user_2982_0024126400132.bin](https://d1s31zyz7dcc2d.cloudfront.net/3d4082a9579313ca96cbba089425ee6a/update-raven-diff-PS7285.2880N_2880_0023723720836-to-PS7292_user_2982_0024126400132.bin)</sub> | <sub>134.0MB<sub> | <sub>dfef05e4bebe2cb467bea9fa69186ced<sub> |
 
-  
 
 ### Source Code
 | Date | Version | Download | Size | MD5 |
