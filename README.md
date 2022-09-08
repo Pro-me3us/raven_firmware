@@ -12,7 +12,7 @@ Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for full and
 | 2022-05-26 | FireOS 7.2.8.5 (PS7285/2877) | [update-kindle-raven-PS7285_user_2877_0023723720068.bin](https://d1s31zyz7dcc2d.cloudfront.net/368f59cde83bc75cdd89a0b025693bc1/update-kindle-raven-PS7285_user_2877_0023723720068.bin) | 872.8MB | 9d8b64c9e1634292651b292c0ad2a0a6 | 
 | 2022-06-28 | FireOS 7.2.8.5 (PS7285/2880) | [update-kindle-raven-PS7285_user_2880_0023723720836.bin](https://d1s31zyz7dcc2d.cloudfront.net/d056bf58606508bef13bcae92b01f708/update-kindle-raven-PS7285_user_2880_0023723720836.bin) | 873.9MB | 32b851ee658481d97a29d9b9e461ef69 | 
 | 2022-07-27 | FireOS 7.2.9.2 (PS7292/2982) | [update-kindle-raven-PS7292_user_2982_0024126400132.bin](https://d1s31zyz7dcc2d.cloudfront.net/936178a33b5b5be2aa48be91d073cb24/update-kindle-raven-PS7292_user_2982_0024126400132.bin) | 864.9MB | a0617b8b14aa6c337ec2486913cfea19 | 
-
+| 2022-08-23 | FireOS 7.2.9.2 (PS7292/2984) | [update-kindle-raven-PS7292_user_2984_0024126400644.bin](https://d1s31zyz7dcc2d.cloudfront.net/c68e352844b25464bec5d3d7adf616a5/update-kindle-raven-PS7292_user_2984_0024126400644.bin) | 864.9MB | 6d8be6d630a11781736217852be3d24a | 
 
 
 ### Differential Firmware Update
