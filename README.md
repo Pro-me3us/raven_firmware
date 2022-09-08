@@ -56,8 +56,7 @@ FireTVCubeGen2-7.2.4.2-20210628.tar.bz2 = FireTVCubeGen2-7.2.4.2-20220214.tar.bz
 FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz2 (same file)<br>
 
 
-**Stock apps**
-================================
+### Stock apps
 | Name | Download | Size | MD5 |
 |:----:|:--------:|:----:|:---:|
 | ACA FireTV Android Client | [ACAFireTVAndroidClient-2019.3.0-1.1.1179.0-30170010](https://d1s31zyz7dcc2d.cloudfront.net/334c93fd023f060211b99f7d43738edb/ACAFireTVAndroidClient-fos5-release-signed1179.apk) | 7.3MB | f2be55b87ecec06cd2428fe091ab503f |
