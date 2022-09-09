@@ -70,14 +70,18 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Alexa Shopping on FireTV | [2.0.147.0](https://d1s31zyz7dcc2d.cloudfront.net/539164335c11ca0caa3360651d6c340d/signed_AlexaShoppingOnFireTV-release_RC1.apk) | 7.2MB | eaad5890a4106b9eb3b68df952fc6c34 |
 |||||
 | Amazon App Store | [release-8.5008.5.v.x.217228.0_422192810](https://d1s31zyz7dcc2d.cloudfront.net/43ac9f3a54fe7b0cb774f4be8f041958/com.amazon.venezia.apk) | 20.3MB | 462dae6ef05a806e6ecb67cf7ff313fd |
+| Amazon App Store | [release-8.5009.5.v.x.217419.0_422229310](https://d1s31zyz7dcc2d.cloudfront.net/e7aa630fadb8e5819b4ec5ce4a55d832/Cincinnati_Signed_5.v.x.217419.0.apk) | 20.4MB | 9e8b2e165ef074b123a8c12e6e22fb88 |
 |||||
 | Amazon Music | [3.4.495.0 (304048710)](https://d1s31zyz7dcc2d.cloudfront.net/0ba33a795feeb233d618a9097a3909d1/signed_DMTVAndroid-firetv-prod-arm32-rel-3.4.495.apk) | 20.5MB | 64eb191c677bf0f2e68429fc61ad3773 |
+| Amazon Music | [3.4.577.0 (304057410)](https://d1s31zyz7dcc2d.cloudfront.net/df5bac87748eb26b2f98887e7b52a749/signed_DMTVAndroid-firetv-prod-arm32-release-3.4.577.apk) | 20.6MB | 7e4dd75a1ba53253404cbd3a6e623f60 |
 |||||
 | Amazon Photos | [2.14.0-883278710](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
 |||||
 | Amazon System WebView (Chromium) | [100.amazon-webview-v100-4896-tv.4896.127.36 (60334632)](https://d1s31zyz7dcc2d.cloudfront.net/fb86d93c0919cf733d3a8a76004896ce/signed_AmazonWebView-debug-32-signed.apk) | 48.7MB | 3e9c436025fd2be6da60fde5016750b2 |
+| Amazon System WebView (Chromium) | [102.amazon-webview-v102-5005-tv.5005.125.58 (60372032)](https://d1s31zyz7dcc2d.cloudfront.net/e3a87520bc92a5489ecaf3db12a3a359/signed_AmazonWebView-debug-32-signed.apk) | 50.4MB | 06d1b6725f246699ba90690affa20b41 |
 |||||
 | Aria | [AriaRuntime-1.10.334.0 (3894410)](https://d1s31zyz7dcc2d.cloudfront.net/c5e9a97ead16e216fed59fa456106921/signed_AriaRuntime-1.10.334.0-standard-universal-release.apk) | 12.4MB | 09266735e13bbd997cc7b2c20eeff98a |
+| Aria | [AriaRuntime-1.10.841.0 (3991010)](https://d1s31zyz7dcc2d.cloudfront.net/ccd1919c326418a1b70f404a3741b37c/signed_AriaRuntime-1.10.841.0-standard-universal-release.apk) | 11.7MB | 76aec33b8ab68ef1f7e9595cb8a91a4a |
 |||||
 | Ceviche | [1.0.2504.0_1384010](https://d1s31zyz7dcc2d.cloudfront.net/dc0479194ce2cc3ecf4ab677a92d0443/signed_CevicheService-release.apk) | 0.5MB | 4849354aed4fa3773d907ed82a3faaff |
 |||||
@@ -89,16 +93,24 @@ FireTV Easy Upgrade | [1.0.220.0-com.amazon.tv.easyupgrade_2001510](https://d1s3
 FireTV Easy Upgrage | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https://d1s31zyz7dcc2d.cloudfront.net/cf47a727408433c8b120b956c3d12689/signed_FireTvEasyUpgrade-jarvis-release.apk) | 0.9MB | 277aae9e63daef9ebae7a7c0064223fd |
 |||||
 | FireTV Frustration Free Setup (FFS) Provisionee Client | [1.0.117.0-com.amazon.tv.ffsprovisioneeclient_4011110](https://d1s31zyz7dcc2d.cloudfront.net/3cac32750229ea2ec260da0fa5b65ed4/signed_FireTvFFSProvisionee-release20.apk) | 5.6MB | 6cf86ec635264c96e36921428b16ed87 |
+| FireTV Frustration Free Setup (FFS) Provisionee Client | [1.0.239.0-com.amazon.tv.ffsprovisioneeclient_4023110](https://d1s31zyz7dcc2d.cloudfront.net/aa8470f7ce58daf2fdb3a09a23aef599/signed_FireTvFFSProvisionee-release.apk) | 5.3MB | 907e3fae9f99d50cb6f94842738be63f |
 |||||
 | FireTV Launcher (KFTV Launcher) | [6380025.1](https://d1s31zyz7dcc2d.cloudfront.net/fa672e0f70785e82b7310ff90ee7bd0e/R4_launcher_6380025.apk) | 14.7MB | 7c64cf22218de916cc62f9365f99ecaa |
+| FireTV Launcher (KFTV Launcher) | [6390026.1](https://d1s31zyz7dcc2d.cloudfront.net/bbab6bbed15a88053551e19bb7f58472/com.amazon.tv.launcher_6390026.apk) | 14.9MB | ff7ec2ac1792cc082667d4f84ecb1b79 |
+|||||
+| FireTV Player (part of Prime Video) | [FireTv.330.24001](https://d1s31zyz7dcc2d.cloudfront.net/498a7f56247996e8b17bd95c61f346bd/com.amazon.avod.apk) | 29.2MB | ed94989f967c40fe1df83a62915c25e4 |
 |||||
 | FireTV Release Notes | [1.0.706.0-com.amazon.tv.releasenotes-jarvis_620255310](https://d1s31zyz7dcc2d.cloudfront.net/ff1b908f13fba6e0e5f152f46b7c8415/signed_FireTvReleaseNotes-jarvis-release-juv.apk) | 2.0MB | 5dd89d795f42177af5041c0d47a98cf6 |
 |||||
 | FireTV Remote | [1060001.1](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
 |||||
 | FireTV Screensaver | [1.24.0.113 (25011310)](https://d1s31zyz7dcc2d.cloudfront.net/e6aa8cd3617df06082f8b837faea4689/signed_FTVScreensaverApp-1.24.0.113.apk) | 7.3MB | cc8b61c83ecb65e8ed251f0d3f52449c |
+| FireTV Screensaver | [1.25.0.44 (26004410)](https://d1s31zyz7dcc2d.cloudfront.net/df05111c09dd4254fd89fd1225e07b93/signed_FTVScreensaverApp-1.25.0.44.apk) | 7.3MB | 5258e2cb1b1de707ecc10bfa07150699 |
 |||||
 | Freevee | [1.0.9395.0 (21653810)](https://d1s31zyz7dcc2d.cloudfront.net/4ef9d9f2c614068625572088ddbbe267/signed-app-playdoh-prod-release-RC-9395.apk) | 45.7MB | 62b8adb1f353856b183f37449667b33a |
+| Freevee | [1.0.9793.0 (21740610)](https://d1s31zyz7dcc2d.cloudfront.net/b6191a8ae95d0690a0ddd7d472fe8fb2/signed-app-rio-prod-release-RC-9793.apk) | 46.6MB | f3bfed3f25d21f5e7567611986b8c5b4 |
+|||||
+| HomeTheater Settings | [1.0.5579.0-com.amazon.tv.settings.v2-jarvis_623019510](https://d1s31zyz7dcc2d.cloudfront.net/626d9f707554433f08e98728a25db9de/signed_FireTvSettings-jarvis-release_1.0.5579.0.apk) | 9.5MB | e756258030e520f4508ab4d58335c121 |
 |||||
 | IME (FireTV Keyboard) | [1.0.525.0-com.amazon.tv.ime-jarvis_616013510](https://d1s31zyz7dcc2d.cloudfront.net/253d26a59b3afe872721001e0c81321f/signed_FireTvKeyboard-jarvis-release_1.0.525.0.apk) | 2.4MB | bcba4effd12755298e6a6139eb28bdb9 |
 |||||
@@ -109,12 +121,14 @@ FireTV Easy Upgrage | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | Multimodal Smart Home (Gloria) | [1.0.204315.0_1927310](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 8.9MB | 499d490732d9d843249280914832675b | 
 |||||
 | News | [1.0.6869.0_11087810](https://d1s31zyz7dcc2d.cloudfront.net/dca199a5ef3b90e01d4882b95d62f9bf/signed_HedwigNews-release_Flourine_LD2_6869.apk) | 12.1MB | ba9582e1491f59e98cf64ab2a278c06e | 
+| News | [1.0.7294.0_11190110](https://d1s31zyz7dcc2d.cloudfront.net/a4bfafd5fa42df72dba5410d124eeb6a/signed_HedwigNews-release_7294_Prod_LD.apk) | 10.8MB | 93a0f4b180e7f94df1aa53314376d09b | 
 |||||
 | OOBE (Out-of-Box-Experience) | [1.0.6460.0-com.amazon.tv.oobe-jarvis_624016310](https://d1s31zyz7dcc2d.cloudfront.net/1280b8179678dc072c1bcb9503a5c5e9/signed_FireTvOobe-jarvis-release_1.0.6460.0_GM_Oakwood.apk) | 11.3MB | 78648873671d85927440ee7797e67b33 |
 |||||
 | Parental Controls | [1.0.1283.0-com.amazon.tv.parentalcontrols-jarvis_619012110](https://d1s31zyz7dcc2d.cloudfront.net/ae618f5e3ba2083dc040dd1762ec28a6/FireTvParentalControls-jarvis-release-signed-1.0.1283.0.apk) | 7.9MB | eea0c5da354b97e84ef4f8c9d8fc4862
 |||||
 | Prime Video | [PVFTV-44.2010-L](https://d1s31zyz7dcc2d.cloudfront.net/affa58078ba88277e41f900d92b20e5b/Firebat-livingRoom-release-signed_44201010.apk) | 12.8MB | 5a72d6c8ec5c604eb7f90971ea4e82c7 |
+| Prime Video | [PPVFTV-47.1021-L](https://d1s31zyz7dcc2d.cloudfront.net/59e0be04b55d4fbd21a4cbe8d21524f6/Firebat-livingRoom-release-signed_47102110.apk) | 12.3MB | 3d5672be132d12b1681d8fc377b0a732 |
 |||||
 | Prism | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
 |||||
