@@ -110,8 +110,6 @@ FireTV Easy Upgrage | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | Freevee | [1.0.9395.0 (21653810)](https://d1s31zyz7dcc2d.cloudfront.net/4ef9d9f2c614068625572088ddbbe267/signed-app-playdoh-prod-release-RC-9395.apk) | 45.7MB | 62b8adb1f353856b183f37449667b33a |
 | Freevee | [1.0.9793.0 (21740610)](https://d1s31zyz7dcc2d.cloudfront.net/b6191a8ae95d0690a0ddd7d472fe8fb2/signed-app-rio-prod-release-RC-9793.apk) | 46.6MB | f3bfed3f25d21f5e7567611986b8c5b4 |
 |||||
-| HomeTheater Settings | [1.0.5579.0-com.amazon.tv.settings.v2-jarvis_623019510](https://d1s31zyz7dcc2d.cloudfront.net/626d9f707554433f08e98728a25db9de/signed_FireTvSettings-jarvis-release_1.0.5579.0.apk) | 9.5MB | e756258030e520f4508ab4d58335c121 |
-|||||
 | IME (FireTV Keyboard) | [1.0.525.0-com.amazon.tv.ime-jarvis_616013510](https://d1s31zyz7dcc2d.cloudfront.net/253d26a59b3afe872721001e0c81321f/signed_FireTvKeyboard-jarvis-release_1.0.525.0.apk) | 2.4MB | bcba4effd12755298e6a6139eb28bdb9 |
 |||||
 | Kindle Connect | [7.0.1508.0-com.amazon.ods.kindleconnect_1700230210](https://d1s31zyz7dcc2d.cloudfront.net/3535168d2a31e2ef9d7afedac8f0c05e/com.amazon.ods.kindleconnect-release-7.0.1508.0.apk) | 4.9MB | cc2d1082c0b2bd6a02d44ceb5692bb40 |
@@ -131,6 +129,8 @@ FireTV Easy Upgrage | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | Prime Video | [PPVFTV-47.1021-L](https://d1s31zyz7dcc2d.cloudfront.net/59e0be04b55d4fbd21a4cbe8d21524f6/Firebat-livingRoom-release-signed_47102110.apk) | 12.3MB | 3d5672be132d12b1681d8fc377b0a732 |
 |||||
 | Prism | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
+|||||
+| Settings Menu | [1.0.5579.0-com.amazon.tv.settings.v2-jarvis_623019510](https://d1s31zyz7dcc2d.cloudfront.net/626d9f707554433f08e98728a25db9de/signed_FireTvSettings-jarvis-release_1.0.5579.0.apk) | 9.5MB | e756258030e520f4508ab4d58335c121 |
 |||||
 | Shop TV Client | [3.0.203357.0_300415310](https://d1s31zyz7dcc2d.cloudfront.net/d1b9f5a950065d5ebccf5d7b6e27883e/MShopAndroidTVClient-release-signed_0615release.apk) | 12.1MB | 32fb5651f1ecfdaf7081852d11c2ff31 |
 
