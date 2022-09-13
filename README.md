@@ -47,7 +47,7 @@ Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for full and
 | 2020-11-18 | FireOS 7.2.2.9 | [FireTVCubeGen2-7.2.2.9-20201118.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/JnV5RT1byYZhsDAFQ0MuCECV5q/FireTVCubeGen2-7.2.2.9-20201118.tar.bz2) | 330.8MB | 6c4171dd97b5170ad28ea4b081cc8284 |
 | 2021-03-22 | FireOS 7.2.3.4 | [FireTVCubeGen2-7.2.3.4-20210322.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/SMLbXrYC0NhByE1xXPSxEqeMJp/FireTVCubeGen2-7.2.3.4-20210322.tar.bz2) | 1032.9MB | 3bde3581b1d1787162c249182710e336 |
 | 2021-06-28 | FireOS 7.2.4.2 | [FireTVCubeGen2-7.2.4.2-20210628.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/rKUQ2o8vSWex0zcvqe0YMmPgm0/FireTVCubeGen2-7.2.4.2-20210628.tar.bz2) | 1101.5MB | c78e2719d3404410b5eed80a7bf26112 |
-| 2022-02-14 | FireOS 7.2.4.2 | [FireTVCubeGen2-7.2.4.2-20220214.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/gwonwwYRShNbaNfjHJm4KJkxnk/FireTVCubeGen2-7.2.4.2-20220214.tar.2bz) | 1101.5MB | c78e2719d3404410b5eed80a7bf26112 |
+| 2022-02-14 | FireOS 7.2.4.2 | [FireTVCubeGen2-7.2.4.2-20220214.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/gwonwwYRShNbaNfjHJm4KJkxnk/FireTVCubeGen2-7.2.4.2-20220214.tar.bz2) | 1101.5MB | c78e2719d3404410b5eed80a7bf26112 |
 | 2022-02-07 | FireOS 7.2.7.3 | [FireTVCubeGen2-7.2.7.3-20220207.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/KLRB4zxnvzPB3JnK5G6CAr8Weh/FireTVCubeGen2-7.2.7.3-20220207.tar.bz2) | 444.2MB | 729b9631c899dd1e004c5cdee2493edd |
 | 2022-04-26 | FireOS 7.2.7.9 | [FireTVCubeGen2-7.2.7.9-20220426.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/duOe3xPgxLQqwLwXEHOsGnvazS/FireTVCubeGen2-7.2.7.9-20220426.tar.bz2) | 444.2MB | 729b9631c899dd1e004c5cdee2493edd |
 
