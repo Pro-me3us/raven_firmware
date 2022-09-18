@@ -63,6 +63,8 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||||
 | Alexa (Vizzini) | [2.0.10021.0-com.amazon.vizzini.632.0.0_632128610](https://d1s31zyz7dcc2d.cloudfront.net/13a8f301d98727e66618a0c9334af545/signed_com.amazon.vizzini.apk) | 28.1MB | db0f9e03e80781fd373dc4a36de48123 |
 |||||
+| Alexa Alerts | [1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010](https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.3MB | 6573d8b8a71c00a752e8808458582251 |
+|||||
 | Alexa Communication | [1.0.1765.0 (1255710)](https://d1s31zyz7dcc2d.cloudfront.net/7bcbc6ae3fad47a7176567bd30d25707/StarkTachyon-armeabi-v7a-release-signedMcFly.apk) | 20.8MB | e0c9c1b4f60fcd9d11ff1f84acfcb00b |
 |||||
 | Alexa HTML Runtime | [1.1.337.0-general_1317210](https://d1s31zyz7dcc2d.cloudfront.net/3c6d9b0f6e411fb3cb78348cc67a1995/signed_CommonSpeechMiddleware_HtmlRuntime-release-1.1.337.0.apk) | 5.0MB | f7cae7ee10759a5fcbe8b3d8160ad8d1 |
@@ -71,6 +73,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||||
 | Amazon App Store | [release-8.5008.5.v.x.217228.0_422192810](https://d1s31zyz7dcc2d.cloudfront.net/43ac9f3a54fe7b0cb774f4be8f041958/com.amazon.venezia.apk) | 20.3MB | 462dae6ef05a806e6ecb67cf7ff313fd |
 | Amazon App Store | [release-8.5009.5.v.x.217419.0_422229310](https://d1s31zyz7dcc2d.cloudfront.net/e7aa630fadb8e5819b4ec5ce4a55d832/Cincinnati_Signed_5.v.x.217419.0.apk) | 20.4MB | 9e8b2e165ef074b123a8c12e6e22fb88 |
+| Amazon App Store | [release-8.5010.5.v.x.217901.0_422303610](https://d1s31zyz7dcc2d.cloudfront.net/cb7946c99bcf75e3eddfabbd0163f1be/com.amazon.venezia.apk) | 20.5MB | d422ea1e70b64e6fc37b9d2897fa6699 |
 |||||
 | Amazon Music | [3.4.495.0 (304048710)](https://d1s31zyz7dcc2d.cloudfront.net/0ba33a795feeb233d618a9097a3909d1/signed_DMTVAndroid-firetv-prod-arm32-rel-3.4.495.apk) | 20.5MB | 64eb191c677bf0f2e68429fc61ad3773 |
 | Amazon Music | [3.4.577.0 (304057410)](https://d1s31zyz7dcc2d.cloudfront.net/df5bac87748eb26b2f98887e7b52a749/signed_DMTVAndroid-firetv-prod-arm32-release-3.4.577.apk) | 20.6MB | 7e4dd75a1ba53253404cbd3a6e623f60 |
@@ -90,7 +93,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | FireTV Device Control | [1.0.208492.0_1001745510](https://d1s31zyz7dcc2d.cloudfront.net/6a928ad0d2fb458921ee410c28fd99fd/FireTV_DeviceControl-release-signed.apk) | 2.0MB | 01af64057aa81eda89ea03b729208999 |
 |||||
 FireTV Easy Upgrade | [1.0.220.0-com.amazon.tv.easyupgrade_2001510](https://d1s31zyz7dcc2d.cloudfront.net/e7cefc497680ddb06521191cbfa12bc2/signed_FireTvEasyUpgrade-release.apk) | 2.2MB | 9cff50037876b01edc36fa2278d72543 |
-FireTV Easy Upgrage | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https://d1s31zyz7dcc2d.cloudfront.net/cf47a727408433c8b120b956c3d12689/signed_FireTvEasyUpgrade-jarvis-release.apk) | 0.9MB | 277aae9e63daef9ebae7a7c0064223fd |
+FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https://d1s31zyz7dcc2d.cloudfront.net/cf47a727408433c8b120b956c3d12689/signed_FireTvEasyUpgrade-jarvis-release.apk) | 0.9MB | 277aae9e63daef9ebae7a7c0064223fd |
 |||||
 | FireTV Frustration Free Setup (FFS) Provisionee Client | [1.0.117.0-com.amazon.tv.ffsprovisioneeclient_4011110](https://d1s31zyz7dcc2d.cloudfront.net/3cac32750229ea2ec260da0fa5b65ed4/signed_FireTvFFSProvisionee-release20.apk) | 5.6MB | 6cf86ec635264c96e36921428b16ed87 |
 | FireTV Frustration Free Setup (FFS) Provisionee Client | [1.0.239.0-com.amazon.tv.ffsprovisioneeclient_4023110](https://d1s31zyz7dcc2d.cloudfront.net/aa8470f7ce58daf2fdb3a09a23aef599/signed_FireTvFFSProvisionee-release.apk) | 5.3MB | 907e3fae9f99d50cb6f94842738be63f |
@@ -99,6 +102,7 @@ FireTV Easy Upgrage | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | FireTV Launcher (KFTV Launcher) | [6390026.1](https://d1s31zyz7dcc2d.cloudfront.net/bbab6bbed15a88053551e19bb7f58472/com.amazon.tv.launcher_6390026.apk) | 14.9MB | ff7ec2ac1792cc082667d4f84ecb1b79 |
 |||||
 | FireTV Player (part of Prime Video) | [FireTv.330.24001](https://d1s31zyz7dcc2d.cloudfront.net/498a7f56247996e8b17bd95c61f346bd/com.amazon.avod.apk) | 29.2MB | ed94989f967c40fe1df83a62915c25e4 |
+| FireTV Player (part of Prime Video) | [FireTv.331.19901](https://d1s31zyz7dcc2d.cloudfront.net/eef3372ddbc4b8747db25b2077543657/com.amazon.avod.apk) | 29.3MB | 13935f9352befc40b32a947ecf84b445 |
 |||||
 | FireTV Release Notes | [1.0.706.0-com.amazon.tv.releasenotes-jarvis_620255310](https://d1s31zyz7dcc2d.cloudfront.net/ff1b908f13fba6e0e5f152f46b7c8415/signed_FireTvReleaseNotes-jarvis-release-juv.apk) | 2.0MB | 5dd89d795f42177af5041c0d47a98cf6 |
 |||||
@@ -109,6 +113,7 @@ FireTV Easy Upgrage | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 |||||
 | Freevee | [1.0.9395.0 (21653810)](https://d1s31zyz7dcc2d.cloudfront.net/4ef9d9f2c614068625572088ddbbe267/signed-app-playdoh-prod-release-RC-9395.apk) | 45.7MB | 62b8adb1f353856b183f37449667b33a |
 | Freevee | [1.0.9793.0 (21740610)](https://d1s31zyz7dcc2d.cloudfront.net/b6191a8ae95d0690a0ddd7d472fe8fb2/signed-app-rio-prod-release-RC-9793.apk) | 46.6MB | f3bfed3f25d21f5e7567611986b8c5b4 |
+| Freevee | [1.0.9896.0 (21761810)](https://d1s31zyz7dcc2d.cloudfront.net/200c1bd7d448c260bffffd10aa0c1ca2/signed-app-rio-prod-hotfix-release-RC-9896.apk) | 46.6MB | 5d795122461b351bda2935a532c60cc4 |
 |||||
 | IME (FireTV Keyboard) | [1.0.525.0-com.amazon.tv.ime-jarvis_616013510](https://d1s31zyz7dcc2d.cloudfront.net/253d26a59b3afe872721001e0c81321f/signed_FireTvKeyboard-jarvis-release_1.0.525.0.apk) | 2.4MB | bcba4effd12755298e6a6139eb28bdb9 |
 |||||
@@ -133,6 +138,8 @@ FireTV Easy Upgrage | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | Settings Menu | [1.0.5579.0-com.amazon.tv.settings.v2-jarvis_623019510](https://d1s31zyz7dcc2d.cloudfront.net/626d9f707554433f08e98728a25db9de/signed_FireTvSettings-jarvis-release_1.0.5579.0.apk) | 9.5MB | e756258030e520f4508ab4d58335c121 |
 |||||
 | Shop TV Client | [3.0.203357.0_300415310](https://d1s31zyz7dcc2d.cloudfront.net/d1b9f5a950065d5ebccf5d7b6e27883e/MShopAndroidTVClient-release-signed_0615release.apk) | 12.1MB | 32fb5651f1ecfdaf7081852d11c2ff31 |
+| Shop TV Client | [3.0.203418.0_300419210](https://d1s31zyz7dcc2d.cloudfront.net/2e90f4d9ed2e7d1d283b1268a4ad1e50/MShopAndroidTVClient-release-signed_0909release.apk) | 12.1MB | b160a26d16125acf238601c4a8040c3b |
+
 
 Note: Many apps are not device specific, so the same version is used on the Cube as other FireStick models.  Check the <a href="https://gist.github.com/JulyIghor/d3d3dd460527a1d2b5b67954160d4abf">4K Stick page</a> for a more comprehensive  list of apps and versions.  Use the MD5 value for any app above to verify that the 4K stick is using the same app version line.
 
