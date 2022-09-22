@@ -87,9 +87,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Aria | [AriaRuntime-1.10.841.0 (3991010)](https://d1s31zyz7dcc2d.cloudfront.net/ccd1919c326418a1b70f404a3741b37c/signed_AriaRuntime-1.10.841.0-standard-universal-release.apk) | 11.7MB | 76aec33b8ab68ef1f7e9595cb8a91a4a |
 |||||
 | Ceviche | [1.0.2504.0_1384010](https://d1s31zyz7dcc2d.cloudfront.net/dc0479194ce2cc3ecf4ab677a92d0443/signed_CevicheService-release.apk) | 0.5MB | 4849354aed4fa3773d907ed82a3faaff |
-  
-| Ceviche | [1.0.2504.0_1384010](https://d1s31zyz7dcc2d.cloudfront.net/ffa49bf3201a36d2642b2d373bb76a9a/signed_CevicheService-release_2573.ap) | 0.5MB | 4849354aed4fa3773d907ed82a3faaff |  
-  
+| Ceviche | [1.0.2573.0_1394110](https://d1s31zyz7dcc2d.cloudfront.net/ffa49bf3201a36d2642b2d373bb76a9a/signed_CevicheService-release_2573.apk) | 0.5MB | a37a9038f75217d4fd0705267ce3697d |  
 |||||
 | Equipment Control | [1.0.211024.0-caltrain_101764410](https://d1s31zyz7dcc2d.cloudfront.net/bd39b928408e3ffd0a76adb09ffc1f28/FireTV_OZ_OOBE_Settings-caltrain-release-signed_4.apk) | 8.9MB | 113aef9c99e066c8e87f4ecc3331ce39 |
 |||||
