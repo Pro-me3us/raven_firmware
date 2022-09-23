@@ -65,7 +65,8 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||||
 | Alexa Alerts | [1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010](https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.3MB | 6573d8b8a71c00a752e8808458582251 |
 |||||
-| Alexa Communication | [1.0.1765.0 (1255710)](https://d1s31zyz7dcc2d.cloudfront.net/7bcbc6ae3fad47a7176567bd30d25707/StarkTachyon-armeabi-v7a-release-signedMcFly.apk) | 20.8MB | e0c9c1b4f60fcd9d11ff1f84acfcb00b |
+| Alexa Communication | [1.0.1765.0 (1255710)](https://d1s31zyz7dcc2d.cloudfront.net/7bcbc6ae3fad47a7176567bd30d25707/StarkTachyon-armeabi-v7a-release-signedMcFly.apk) | 20.8MB | e0c9c1b4f60fcd9d11ff1f84acfcb00b | 
+| Alexa Communication | [1.0.1821.0 (1264810)](https://d1s31zyz7dcc2d.cloudfront.net/f17778a9e439fef73a2b74b5f3ad547a/StarkTachyon-armeabi-v7a-release-signed_1821.apk) | 20.8MB | 25be58bad932c7e34c1da0a67e5fb5eb |
 |||||
 | Alexa HTML Runtime | [1.1.337.0-general_1317210](https://d1s31zyz7dcc2d.cloudfront.net/3c6d9b0f6e411fb3cb78348cc67a1995/signed_CommonSpeechMiddleware_HtmlRuntime-release-1.1.337.0.apk) | 5.0MB | f7cae7ee10759a5fcbe8b3d8160ad8d1 |
 |||||
