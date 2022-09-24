@@ -138,8 +138,9 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | Parental Controls | [1.0.1283.0-com.amazon.tv.parentalcontrols-jarvis_619012110](https://d1s31zyz7dcc2d.cloudfront.net/ae618f5e3ba2083dc040dd1762ec28a6/FireTvParentalControls-jarvis-release-signed-1.0.1283.0.apk) | 7.9MB | eea0c5da354b97e84ef4f8c9d8fc4862
 |||||
 | Prime Video | [PVFTV-44.2010-L](https://d1s31zyz7dcc2d.cloudfront.net/affa58078ba88277e41f900d92b20e5b/Firebat-livingRoom-release-signed_44201010.apk) | 12.8MB | 5a72d6c8ec5c604eb7f90971ea4e82c7 |
-| Prime Video | [PPVFTV-47.1021-L](https://d1s31zyz7dcc2d.cloudfront.net/59e0be04b55d4fbd21a4cbe8d21524f6/Firebat-livingRoom-release-signed_47102110.apk) | 12.3MB | 3d5672be132d12b1681d8fc377b0a732 |
+| Prime Video | [PVFTV-47.1021-L](https://d1s31zyz7dcc2d.cloudfront.net/59e0be04b55d4fbd21a4cbe8d21524f6/Firebat-livingRoom-release-signed_47102110.apk) | 12.3MB | 3d5672be132d12b1681d8fc377b0a732 |
 | Prime Video | [PVFTV-47.1102-L](https://d1s31zyz7dcc2d.cloudfront.net/435e5b226a8f0e3cdeb64ee419d9ef45/Firebat-livingRoom-release-signed_47110210.apk) | 12.4MB | ea95f90eddfe587cc8df70d818409095 |
+| Prime Video | [PVFTV-47.1105-L](https://d1s31zyz7dcc2d.cloudfront.net/10ed4fe6c70613c0ec61c953e4f8b9a4/Firebat-livingRoom-release-signed_47110510.apk) | 12.3MB | 1a50b831733d249a2dc97e580e7a7e44 |
 |||||
 | Prism | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
 |||||
