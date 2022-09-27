@@ -1,5 +1,6 @@
 # FireTV 2nd gen Cube Firmware
-Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for full and differential OTA firmware, and <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code</a>.  For Firmware for the Firestick 4k (Mantis) check <a href="https://gist.github.com/JulyIghor/d3d3dd460527a1d2b5b67954160d4abf">here</a>.
+Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for full and differential OTA firmware, and <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code</a>.  Check here for <a href="https://forum.xda-developers.com/t/stock-fire-tv-2-sloane-archiv.4446785">FireTV 2</a> box (sloane - 2015), <a href="https://forum.xda-developers.com/t/fire-tv-stick-2-firmware-and-apps-official-cloud-front-direct-links.4259961/">2nd gen Stick</a> (tank - 2016), <a href="https://forum.xda-developers.com/t/fire-tv-stick-4k-firmware-and-apps-official-cloud-front-direct-links.4088247/">4K Stick</a> (mantis - 2018), <a href="https://forum.xda-developers.com/t/fire-tv-stick-lite-3-sheldon-p-firmware.4413597/">3rd gen Stick</a> (sheldon/p - 2020), and <a href="https://forum.xda-developers.com/t/fire-tv-stick-4k-max-kara-firmware-7-2-8-5-diff.4428871/">4K Max Stick</a> (kara - 2021) firmware.
+
 
 ### Full Firmware Update
 | Date | Version | Download | Size | MD5 |
@@ -62,6 +63,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | ACA FireTV Android Client | [ACAFireTVAndroidClient-2019.3.0-1.1.1179.0-30170010](https://d1s31zyz7dcc2d.cloudfront.net/334c93fd023f060211b99f7d43738edb/ACAFireTVAndroidClient-fos5-release-signed1179.apk) | 7.3MB | f2be55b87ecec06cd2428fe091ab503f |
 |||||
 | Alexa (Vizzini) | [2.0.10021.0-com.amazon.vizzini.632.0.0_632128610](https://d1s31zyz7dcc2d.cloudfront.net/13a8f301d98727e66618a0c9334af545/signed_com.amazon.vizzini.apk) | 28.1MB | db0f9e03e80781fd373dc4a36de48123 |
+| Alexa (Vizzini) | [3.0.3040.0-com.amazon.vizzini.647.0.0_647119010](https://d1s31zyz7dcc2d.cloudfront.net/3355d1f1ee93d92717bf6285abeab7c6/signed_com.amazon.vizzini_5.apk) | 17.3MB | 052ea50a3c978803f22d1338bdb154bb |
 |||||
 | Alexa Alerts | [1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010](https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.3MB | 6573d8b8a71c00a752e8808458582251 |
 |||||
@@ -69,6 +71,8 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Alexa Communication | [1.0.1821.0 (1264810)](https://d1s31zyz7dcc2d.cloudfront.net/f17778a9e439fef73a2b74b5f3ad547a/StarkTachyon-armeabi-v7a-release-signed_1821.apk) | 20.8MB | 25be58bad932c7e34c1da0a67e5fb5eb |
 |||||
 | Alexa HTML Runtime | [1.1.337.0-general_1317210](https://d1s31zyz7dcc2d.cloudfront.net/3c6d9b0f6e411fb3cb78348cc67a1995/signed_CommonSpeechMiddleware_HtmlRuntime-release-1.1.337.0.apk) | 5.0MB | f7cae7ee10759a5fcbe8b3d8160ad8d1 |
+|||||
+| Alexa Media Player | [1.0.11045.0_13133210](https://d1s31zyz7dcc2d.cloudfront.net/749a4ae5382760432196051588e30ec6/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk) | 23.3MB | 21856c956b8de3e040b6758d0061091c |
 |||||
 | Alexa Shopping on FireTV | [2.0.147.0](https://d1s31zyz7dcc2d.cloudfront.net/539164335c11ca0caa3360651d6c340d/signed_AlexaShoppingOnFireTV-release_RC1.apk) | 7.2MB | eaad5890a4106b9eb3b68df952fc6c34 |
 |||||
@@ -89,6 +93,8 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||||
 | Aria | [AriaRuntime-1.10.334.0 (3894410)](https://d1s31zyz7dcc2d.cloudfront.net/c5e9a97ead16e216fed59fa456106921/signed_AriaRuntime-1.10.334.0-standard-universal-release.apk) | 12.4MB | 09266735e13bbd997cc7b2c20eeff98a |
 | Aria | [AriaRuntime-1.10.841.0 (3991010)](https://d1s31zyz7dcc2d.cloudfront.net/ccd1919c326418a1b70f404a3741b37c/signed_AriaRuntime-1.10.841.0-standard-universal-release.apk) | 11.7MB | 76aec33b8ab68ef1f7e9595cb8a91a4a |
+|||||
+| Cardinal | [1.0.209990.0-firetv_267585910](https://d1s31zyz7dcc2d.cloudfront.net/f03236c4fe5deac147333c21f1334311/signed_Cardinal-1.0.209990.0-267585910-firetv-armeabi-v7a-release.apk) | 14.9MB | fd559638853669db08383f03ea9fd793 |
 |||||
 | Ceviche | [1.0.2504.0_1384010](https://d1s31zyz7dcc2d.cloudfront.net/dc0479194ce2cc3ecf4ab677a92d0443/signed_CevicheService-release.apk) | 0.5MB | 4849354aed4fa3773d907ed82a3faaff |
 | Ceviche | [1.0.2573.0_1394110](https://d1s31zyz7dcc2d.cloudfront.net/ffa49bf3201a36d2642b2d373bb76a9a/signed_CevicheService-release_2573.apk) | 0.5MB | a37a9038f75217d4fd0705267ce3697d |  
