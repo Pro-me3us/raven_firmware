@@ -72,9 +72,11 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||||
 | Alexa HTML Runtime | [1.1.337.0-general_1317210](https://d1s31zyz7dcc2d.cloudfront.net/3c6d9b0f6e411fb3cb78348cc67a1995/signed_CommonSpeechMiddleware_HtmlRuntime-release-1.1.337.0.apk) | 5.0MB | f7cae7ee10759a5fcbe8b3d8160ad8d1 |
 |||||
-| Alexa Media Player | [1.0.11045.0_13133210](https://d1s31zyz7dcc2d.cloudfront.net/749a4ae5382760432196051588e30ec6/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk) | 23.3MB | 21856c956b8de3e040b6758d0061091c |
+| Alexa Media Player (Music)| [1.0.11045.0_13133210](https://d1s31zyz7dcc2d.cloudfront.net/749a4ae5382760432196051588e30ec6/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk) | 23.3MB | 21856c956b8de3e040b6758d0061091c |
 |||||
 | Alexa Shopping on FireTV | [2.0.147.0](https://d1s31zyz7dcc2d.cloudfront.net/539164335c11ca0caa3360651d6c340d/signed_AlexaShoppingOnFireTV-release_RC1.apk) | 7.2MB | eaad5890a4106b9eb3b68df952fc6c34 |
+|||||
+| Alexa Video Player | [1.0.209990.0-firetv_267585910](https://d1s31zyz7dcc2d.cloudfront.net/f03236c4fe5deac147333c21f1334311/signed_Cardinal-1.0.209990.0-267585910-firetv-armeabi-v7a-release.apk) | 14.9MB | fd559638853669db08383f03ea9fd793 |
 |||||
 | Amazon App Store | [release-8.5008.5.v.x.217228.0_422192810](https://d1s31zyz7dcc2d.cloudfront.net/43ac9f3a54fe7b0cb774f4be8f041958/com.amazon.venezia.apk) | 20.3MB | 462dae6ef05a806e6ecb67cf7ff313fd |
 | Amazon App Store | [release-8.5009.5.v.x.217419.0_422229310](https://d1s31zyz7dcc2d.cloudfront.net/e7aa630fadb8e5819b4ec5ce4a55d832/Cincinnati_Signed_5.v.x.217419.0.apk) | 20.4MB | 9e8b2e165ef074b123a8c12e6e22fb88 |
@@ -93,8 +95,6 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||||
 | Aria | [AriaRuntime-1.10.334.0 (3894410)](https://d1s31zyz7dcc2d.cloudfront.net/c5e9a97ead16e216fed59fa456106921/signed_AriaRuntime-1.10.334.0-standard-universal-release.apk) | 12.4MB | 09266735e13bbd997cc7b2c20eeff98a |
 | Aria | [AriaRuntime-1.10.841.0 (3991010)](https://d1s31zyz7dcc2d.cloudfront.net/ccd1919c326418a1b70f404a3741b37c/signed_AriaRuntime-1.10.841.0-standard-universal-release.apk) | 11.7MB | 76aec33b8ab68ef1f7e9595cb8a91a4a |
-|||||
-| Cardinal | [1.0.209990.0-firetv_267585910](https://d1s31zyz7dcc2d.cloudfront.net/f03236c4fe5deac147333c21f1334311/signed_Cardinal-1.0.209990.0-267585910-firetv-armeabi-v7a-release.apk) | 14.9MB | fd559638853669db08383f03ea9fd793 |
 |||||
 | Ceviche | [1.0.2504.0_1384010](https://d1s31zyz7dcc2d.cloudfront.net/dc0479194ce2cc3ecf4ab677a92d0443/signed_CevicheService-release.apk) | 0.5MB | 4849354aed4fa3773d907ed82a3faaff |
 | Ceviche | [1.0.2573.0_1394110](https://d1s31zyz7dcc2d.cloudfront.net/ffa49bf3201a36d2642b2d373bb76a9a/signed_CevicheService-release_2573.apk) | 0.5MB | a37a9038f75217d4fd0705267ce3697d |  
