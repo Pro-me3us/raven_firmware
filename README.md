@@ -114,8 +114,8 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 |||||
 | FireTV Player (part of Prime Video) | [FireTv.330.24001](https://d1s31zyz7dcc2d.cloudfront.net/498a7f56247996e8b17bd95c61f346bd/com.amazon.avod.apk) | 29.2MB | ed94989f967c40fe1df83a62915c25e4 |
 | FireTV Player (part of Prime Video) | [FireTv.331.19901](https://d1s31zyz7dcc2d.cloudfront.net/eef3372ddbc4b8747db25b2077543657/com.amazon.avod.apk) | 29.3MB | 13935f9352befc40b32a947ecf84b445 |
-| FireTV Player (part of Prime Video) | [FireTv.331.29701](https://d1s31zyz7dcc2d.cloudfront.net/ce9aa7ceddddad46ea325bfc847d7258/com.amazon.avod.apk) | 29.4MB | 0d9f78627c91703a581f13f732fe0e3c |
-| FireTV Player (part of Prime Video) | [FireTv.332.20801](https://d1s31zyz7dcc2d.cloudfront.net/f901e4f2fed2eecf9f093ac1cd6a206e/com.amazon.avod.apk) | 29.5MB | 6a40541f86ad172745fe197458a0156e |
+| FireTV Player (part of Prime Video) | [FireTv.331.29701](https://d1s31zyz7dcc2d.cloudfront.net/f901e4f2fed2eecf9f093ac1cd6a206e/com.amazon.avod.apk) | 29.4MB | 0d9f78627c91703a581f13f732fe0e3c |
+| FireTV Player (part of Prime Video) | [FireTv.332.20801](https://d1s31zyz7dcc2d.cloudfront.net/ce9aa7ceddddad46ea325bfc847d7258/com.amazon.avod.apk) | 29.5MB | 6a40541f86ad172745fe197458a0156e |
 |||||
 | FireTV Release Notes | [1.0.706.0-com.amazon.tv.releasenotes-jarvis_620255310](https://d1s31zyz7dcc2d.cloudfront.net/ff1b908f13fba6e0e5f152f46b7c8415/signed_FireTvReleaseNotes-jarvis-release-juv.apk) | 2.0MB | 5dd89d795f42177af5041c0d47a98cf6 |
 |||||
