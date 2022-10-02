@@ -102,6 +102,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Equipment Control | [1.0.211024.0-caltrain_101764410](https://d1s31zyz7dcc2d.cloudfront.net/bd39b928408e3ffd0a76adb09ffc1f28/FireTV_OZ_OOBE_Settings-caltrain-release-signed_4.apk) | 8.9MB | 113aef9c99e066c8e87f4ecc3331ce39 |
 |||||
 | FireTV Device Control | [1.0.208492.0_1001745510](https://d1s31zyz7dcc2d.cloudfront.net/6a928ad0d2fb458921ee410c28fd99fd/FireTV_DeviceControl-release-signed.apk) | 2.0MB | 01af64057aa81eda89ea03b729208999 |
+| FireTV Device Control | [1.0.210503.0_1002079510](https://d1s31zyz7dcc2d.cloudfront.net/589c6f624e7224bb15bbe27594aee072/210503_FireTV_DeviceControl-release-signed.apk) | 2.2MB | 30815e95a584164061a5ac84969d35cd |
 |||||
 FireTV Easy Upgrade | [1.0.220.0-com.amazon.tv.easyupgrade_2001510](https://d1s31zyz7dcc2d.cloudfront.net/e7cefc497680ddb06521191cbfa12bc2/signed_FireTvEasyUpgrade-release.apk) | 2.2MB | 9cff50037876b01edc36fa2278d72543 |
 FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https://d1s31zyz7dcc2d.cloudfront.net/cf47a727408433c8b120b956c3d12689/signed_FireTvEasyUpgrade-jarvis-release.apk) | 0.9MB | 277aae9e63daef9ebae7a7c0064223fd |
@@ -155,15 +156,8 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 |||||
 | Shop TV Client | [3.0.203357.0_300415310](https://d1s31zyz7dcc2d.cloudfront.net/d1b9f5a950065d5ebccf5d7b6e27883e/MShopAndroidTVClient-release-signed_0615release.apk) | 12.1MB | 32fb5651f1ecfdaf7081852d11c2ff31 |
 | Shop TV Client | [3.0.203418.0_300419210](https://d1s31zyz7dcc2d.cloudfront.net/2e90f4d9ed2e7d1d283b1268a4ad1e50/MShopAndroidTVClient-release-signed_0909release.apk) | 12.1MB | b160a26d16125acf238601c4a8040c3b |
+| Shop TV Client | [3.0.203781.0_2025210](https://d1s31zyz7dcc2d.cloudfront.net/cbf7089ae485cfc3c5e4f491130ce04a/MShopAndroidTV3PClient-release-signed_0909release.apk) | 21.4MB | db242a5f4e0a18181c2b07c3f8128249 |
  
   
-   
-  
-  
-
 
 Note: Many apps are not device specific, so the same version is used on the Cube as other FireStick models.  Check the <a href="https://gist.github.com/JulyIghor/d3d3dd460527a1d2b5b67954160d4abf">4K Stick page</a> for a more comprehensive  list of apps and versions.  Use the MD5 value for any app above to verify that the 4K stick is using the same app version line.
-
-
-
-
