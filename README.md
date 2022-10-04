@@ -100,6 +100,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||||
 | Ceviche | [1.0.2504.0_1384010](https://d1s31zyz7dcc2d.cloudfront.net/dc0479194ce2cc3ecf4ab677a92d0443/signed_CevicheService-release.apk) | 0.5MB | 4849354aed4fa3773d907ed82a3faaff |
 | Ceviche | [1.0.2573.0_1394110](https://d1s31zyz7dcc2d.cloudfront.net/ffa49bf3201a36d2642b2d373bb76a9a/signed_CevicheService-release_2573.apk) | 0.5MB | a37a9038f75217d4fd0705267ce3697d |  
+| Ceviche | [1.0.2625.0_1397010](https://d1s31zyz7dcc2d.cloudfront.net/2de0ba9f24c6cb67a63fa05dc9777d6c/signed_CevicheService-release1.apk) | 0.5MB | 01df45e28a18d649f0f6ed4b7df67994 | 
 |||||
 | Equipment Control | [1.0.211024.0-caltrain_101764410](https://d1s31zyz7dcc2d.cloudfront.net/bd39b928408e3ffd0a76adb09ffc1f28/FireTV_OZ_OOBE_Settings-caltrain-release-signed_4.apk) | 8.9MB | 113aef9c99e066c8e87f4ecc3331ce39 |
 |||||
@@ -151,6 +152,7 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | Prime Video | [PVFTV-47.1021-L](https://d1s31zyz7dcc2d.cloudfront.net/59e0be04b55d4fbd21a4cbe8d21524f6/Firebat-livingRoom-release-signed_47102110.apk) | 12.3MB | 3d5672be132d12b1681d8fc377b0a732 |
 | Prime Video | [PVFTV-47.1102-L](https://d1s31zyz7dcc2d.cloudfront.net/435e5b226a8f0e3cdeb64ee419d9ef45/Firebat-livingRoom-release-signed_47110210.apk) | 12.4MB | ea95f90eddfe587cc8df70d818409095 |
 | Prime Video | [PVFTV-47.1105-L](https://d1s31zyz7dcc2d.cloudfront.net/10ed4fe6c70613c0ec61c953e4f8b9a4/Firebat-livingRoom-release-signed_47110510.apk) | 12.3MB | 1a50b831733d249a2dc97e580e7a7e44 |
+| Prime Video | [PVFTV-48.2440-L](https://d1s31zyz7dcc2d.cloudfront.net/e4e581fb69a1ed883608f2e96c77ee94/Firebat-livingRoom-release-signed_48244010.apk) | 11.7MB | 3671f291634dbf7f825ac3304d9366ba |
 |||||
 | Prism | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
 |||||
