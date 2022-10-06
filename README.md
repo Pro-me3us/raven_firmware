@@ -155,6 +155,7 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | Prime Video | [PVFTV-47.1102-L](https://d1s31zyz7dcc2d.cloudfront.net/435e5b226a8f0e3cdeb64ee419d9ef45/Firebat-livingRoom-release-signed_47110210.apk) | 12.4MB | ea95f90eddfe587cc8df70d818409095 |
 | Prime Video | [PVFTV-47.1105-L](https://d1s31zyz7dcc2d.cloudfront.net/10ed4fe6c70613c0ec61c953e4f8b9a4/Firebat-livingRoom-release-signed_47110510.apk) | 12.3MB | 1a50b831733d249a2dc97e580e7a7e44 |
 | Prime Video | [PVFTV-48.2440-L](https://d1s31zyz7dcc2d.cloudfront.net/e4e581fb69a1ed883608f2e96c77ee94/Firebat-livingRoom-release-signed_48244010.apk) | 11.7MB | 3671f291634dbf7f825ac3304d9366ba |
+| Prime Video | [PVFTV-48.2455-L](https://d1s31zyz7dcc2d.cloudfront.net/75d6a66b9e0fa1720a612902e01d4e87/Firebat-livingRoom-release-signed_48245510.apk) | 12.0MB | 83388a3ef0265ef1d9876e73e197e789 |
 |||||
 | Prism | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
 |||||
