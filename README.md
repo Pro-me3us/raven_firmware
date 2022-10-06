@@ -163,7 +163,7 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 |||||
 | Shop TV Client | [3.0.203357.0_300415310](https://d1s31zyz7dcc2d.cloudfront.net/d1b9f5a950065d5ebccf5d7b6e27883e/MShopAndroidTVClient-release-signed_0615release.apk) | 12.1MB | 32fb5651f1ecfdaf7081852d11c2ff31 |
 | Shop TV Client | [3.0.203418.0_300419210](https://d1s31zyz7dcc2d.cloudfront.net/2e90f4d9ed2e7d1d283b1268a4ad1e50/MShopAndroidTVClient-release-signed_0909release.apk) | 12.1MB | b160a26d16125acf238601c4a8040c3b |
-| Shop TV Client | [3.0.203781.0_2025210](https://d1s31zyz7dcc2d.cloudfront.net/cbf7089ae485cfc3c5e4f491130ce04a/MShopAndroidTV3PClient-release-signed_0909release.apk) | 21.4MB | db242a5f4e0a18181c2b07c3f8128249 |
+
  
   
 
