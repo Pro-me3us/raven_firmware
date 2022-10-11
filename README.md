@@ -66,6 +66,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||||
 | Alexa (Vizzini) | [2.0.10021.0-com.amazon.vizzini.632.0.0_632128610](https://d1s31zyz7dcc2d.cloudfront.net/13a8f301d98727e66618a0c9334af545/signed_com.amazon.vizzini.apk) | 28.1MB | db0f9e03e80781fd373dc4a36de48123 |
 | Alexa (Vizzini) | [3.0.3040.0-com.amazon.vizzini.647.0.0_647119010](https://d1s31zyz7dcc2d.cloudfront.net/3355d1f1ee93d92717bf6285abeab7c6/signed_com.amazon.vizzini_5.apk) | 17.3MB | 052ea50a3c978803f22d1338bdb154bb |
+| Alexa (Vizzini) | [3.0.3553.0-com.amazon.vizzini.647.0.1_647127210](https://d1s31zyz7dcc2d.cloudfront.net/e7a81fcf79b7d6e20051ffdf52019dfe/signed_com.amazon.vizzini_5.apk) | 17.3MB | 88bdf12bbb2dd74b1287324b4f71952a |
 |||||
 | Alexa Alerts | [1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010](https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.3MB | 6573d8b8a71c00a752e8808458582251 |
 |||||
@@ -121,6 +122,7 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | FireTV Player (part of Prime Video) | [FireTv.331.19901](https://d1s31zyz7dcc2d.cloudfront.net/eef3372ddbc4b8747db25b2077543657/com.amazon.avod.apk) | 29.3MB | 13935f9352befc40b32a947ecf84b445 |
 | FireTV Player (part of Prime Video) | [FireTv.331.29701](https://d1s31zyz7dcc2d.cloudfront.net/f901e4f2fed2eecf9f093ac1cd6a206e/com.amazon.avod.apk) | 29.4MB | 0d9f78627c91703a581f13f732fe0e3c |
 | FireTV Player (part of Prime Video) | [FireTv.332.20801](https://d1s31zyz7dcc2d.cloudfront.net/ce9aa7ceddddad46ea325bfc847d7258/com.amazon.avod.apk) | 29.5MB | 6a40541f86ad172745fe197458a0156e |
+| FireTV Player (part of Prime Video) | [FireTv.332.22201](https://d1s31zyz7dcc2d.cloudfront.net/3759ca1a9ec735e77472beff5579f346/com.amazon.avod.apk) | 29.5MB | b0899887b927ba3ba81e32cbb45d19cb |
 |||||
 | FireTV Release Notes | [1.0.706.0-com.amazon.tv.releasenotes-jarvis_620255310](https://d1s31zyz7dcc2d.cloudfront.net/ff1b908f13fba6e0e5f152f46b7c8415/signed_FireTvReleaseNotes-jarvis-release-juv.apk) | 2.0MB | 5dd89d795f42177af5041c0d47a98cf6 |
 |||||
@@ -160,6 +162,7 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | Prime Video | [PVFTV-47.1105-L](https://d1s31zyz7dcc2d.cloudfront.net/10ed4fe6c70613c0ec61c953e4f8b9a4/Firebat-livingRoom-release-signed_47110510.apk) | 12.3MB | 1a50b831733d249a2dc97e580e7a7e44 |
 | Prime Video | [PVFTV-48.2440-L](https://d1s31zyz7dcc2d.cloudfront.net/e4e581fb69a1ed883608f2e96c77ee94/Firebat-livingRoom-release-signed_48244010.apk) | 11.7MB | 3671f291634dbf7f825ac3304d9366ba |
 | Prime Video | [PVFTV-48.2455-L](https://d1s31zyz7dcc2d.cloudfront.net/75d6a66b9e0fa1720a612902e01d4e87/Firebat-livingRoom-release-signed_48245510.apk) | 12.0MB | 83388a3ef0265ef1d9876e73e197e789 |
+| Prime Video | [PVFTV-48.2476-L](https://d1s31zyz7dcc2d.cloudfront.net/814d4e2435c6df0701235a4a93d9b39a/Firebat-livingRoom-release-signed_48247610.apk) | 12.0MB | ce76872f9bcf7b739227ebae564a8f27 |
 |||||
 | Prism | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
 |||||
