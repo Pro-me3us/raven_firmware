@@ -126,7 +126,8 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 |||||
 | FireTV Release Notes | [1.0.706.0-com.amazon.tv.releasenotes-jarvis_620255310](https://d1s31zyz7dcc2d.cloudfront.net/ff1b908f13fba6e0e5f152f46b7c8415/signed_FireTvReleaseNotes-jarvis-release-juv.apk) | 2.0MB | 5dd89d795f42177af5041c0d47a98cf6 |
 |||||
-| FireTV Remote | [1060001.1](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
+| FireTV Remote (Turnstile) | [1060001.1](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
+| FireTV Remote (Turnstile) | [1084001.1](https://d1s31zyz7dcc2d.cloudfront.net/34f80d53ba98d918c0cfa2ffd44c630f/1084_RPM-RSE-Server-release-signed_Geneva.apk) | 0.9MB | 9d8635b8cc1f961d68cb849b16c1b92e |
 |||||
 | FireTV Screensaver | [1.24.0.113 (25011310)](https://d1s31zyz7dcc2d.cloudfront.net/e6aa8cd3617df06082f8b837faea4689/signed_FTVScreensaverApp-1.24.0.113.apk) | 7.3MB | cc8b61c83ecb65e8ed251f0d3f52449c |
 | FireTV Screensaver | [1.25.0.44 (26004410)](https://d1s31zyz7dcc2d.cloudfront.net/df05111c09dd4254fd89fd1225e07b93/signed_FTVScreensaverApp-1.25.0.44.apk) | 7.3MB | 5258e2cb1b1de707ecc10bfa07150699 |
