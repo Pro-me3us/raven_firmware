@@ -84,6 +84,9 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon App Store | [release-8.5008.5.v.x.217228.0_422192810](https://d1s31zyz7dcc2d.cloudfront.net/43ac9f3a54fe7b0cb774f4be8f041958/com.amazon.venezia.apk) | 20.3MB | 462dae6ef05a806e6ecb67cf7ff313fd |
 | Amazon App Store | [release-8.5009.5.v.x.217419.0_422229310](https://d1s31zyz7dcc2d.cloudfront.net/e7aa630fadb8e5819b4ec5ce4a55d832/Cincinnati_Signed_5.v.x.217419.0.apk) | 20.4MB | 9e8b2e165ef074b123a8c12e6e22fb88 |
 | Amazon App Store | [release-8.5010.5.v.x.217901.0_422303610](https://d1s31zyz7dcc2d.cloudfront.net/cb7946c99bcf75e3eddfabbd0163f1be/com.amazon.venezia.apk) | 20.5MB | d422ea1e70b64e6fc37b9d2897fa6699 |
+| Amazon App Store | [release-8.5011.5.v.x.218736.0_422472210](https://d1s31zyz7dcc2d.cloudfront.net/74d41af2620121deaec49610e89940ff/com.amazon.venezia.apk) | 21.3MB | 3a42d5ff9eca4eb3938abd4f9a36658d |
+|||||
+| Amazon Game Center (GameHub) | [1.0.735.0-com.amazon.gamehub-tv_1042710](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | 8.2MB | b6b5467b8ac9bb2968c0dd8e9f475801 |
 |||||
 | Amazon Live Shopping | [3.0.203781.0_2025210](https://d1s31zyz7dcc2d.cloudfront.net/cbf7089ae485cfc3c5e4f491130ce04a/MShopAndroidTV3PClient-release-signed_0909release.apk) | 21.4MB | db242a5f4e0a18181c2b07c3f8128249 | 
 |||||
@@ -95,6 +98,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||||
 | Amazon System WebView (Chromium) | [100.amazon-webview-v100-4896-tv.4896.127.36 (60334632)](https://d1s31zyz7dcc2d.cloudfront.net/fb86d93c0919cf733d3a8a76004896ce/signed_AmazonWebView-debug-32-signed.apk) | 48.7MB | 3e9c436025fd2be6da60fde5016750b2 |
 | Amazon System WebView (Chromium) | [102.amazon-webview-v102-5005-tv.5005.125.58 (60372032)](https://d1s31zyz7dcc2d.cloudfront.net/e3a87520bc92a5489ecaf3db12a3a359/signed_AmazonWebView-debug-32-signed.apk) | 50.4MB | 06d1b6725f246699ba90690affa20b41 |
+| Amazon System WebView (Chromium) | [104.amazon-webview-v104-5112-tv.5112.114.45 (60412632) (60372032)](https://d1s31zyz7dcc2d.cloudfront.net/32b6468b7ffa4400643800d4ef0df9ab/signed_AmazonWebView-debug-32-signed.apk) | 51.2MB | f5a5a5abebcb935286b93c305ab2ce91 |
 |||||
 | Aria | [AriaRuntime-1.10.334.0 (3894410)](https://d1s31zyz7dcc2d.cloudfront.net/c5e9a97ead16e216fed59fa456106921/signed_AriaRuntime-1.10.334.0-standard-universal-release.apk) | 12.4MB | 09266735e13bbd997cc7b2c20eeff98a |
 | Aria | [AriaRuntime-1.10.841.0 (3991010)](https://d1s31zyz7dcc2d.cloudfront.net/ccd1919c326418a1b70f404a3741b37c/signed_AriaRuntime-1.10.841.0-standard-universal-release.apk) | 11.7MB | 76aec33b8ab68ef1f7e9595cb8a91a4a |
@@ -118,11 +122,11 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | FireTV Launcher (KFTV Launcher) | [6380025.1](https://d1s31zyz7dcc2d.cloudfront.net/fa672e0f70785e82b7310ff90ee7bd0e/R4_launcher_6380025.apk) | 14.7MB | 7c64cf22218de916cc62f9365f99ecaa |
 | FireTV Launcher (KFTV Launcher) | [6390026.1](https://d1s31zyz7dcc2d.cloudfront.net/bbab6bbed15a88053551e19bb7f58472/com.amazon.tv.launcher_6390026.apk) | 14.9MB | ff7ec2ac1792cc082667d4f84ecb1b79 |
 |||||
-| FireTV Player (part of Prime Video) | [FireTv.330.24001](https://d1s31zyz7dcc2d.cloudfront.net/498a7f56247996e8b17bd95c61f346bd/com.amazon.avod.apk) | 29.2MB | ed94989f967c40fe1df83a62915c25e4 |
-| FireTV Player (part of Prime Video) | [FireTv.331.19901](https://d1s31zyz7dcc2d.cloudfront.net/eef3372ddbc4b8747db25b2077543657/com.amazon.avod.apk) | 29.3MB | 13935f9352befc40b32a947ecf84b445 |
-| FireTV Player (part of Prime Video) | [FireTv.331.29701](https://d1s31zyz7dcc2d.cloudfront.net/f901e4f2fed2eecf9f093ac1cd6a206e/com.amazon.avod.apk) | 29.4MB | 0d9f78627c91703a581f13f732fe0e3c |
-| FireTV Player (part of Prime Video) | [FireTv.332.20801](https://d1s31zyz7dcc2d.cloudfront.net/ce9aa7ceddddad46ea325bfc847d7258/com.amazon.avod.apk) | 29.5MB | 6a40541f86ad172745fe197458a0156e |
-| FireTV Player (part of Prime Video) | [FireTv.332.22201](https://d1s31zyz7dcc2d.cloudfront.net/3759ca1a9ec735e77472beff5579f346/com.amazon.avod.apk) | 29.5MB | b0899887b927ba3ba81e32cbb45d19cb |
+| FireTV Player | [FireTv.330.24001](https://d1s31zyz7dcc2d.cloudfront.net/498a7f56247996e8b17bd95c61f346bd/com.amazon.avod.apk) | 29.2MB | ed94989f967c40fe1df83a62915c25e4 |
+| FireTV Player | [FireTv.331.19901](https://d1s31zyz7dcc2d.cloudfront.net/eef3372ddbc4b8747db25b2077543657/com.amazon.avod.apk) | 29.3MB | 13935f9352befc40b32a947ecf84b445 |
+| FireTV Player | [FireTv.331.29701](https://d1s31zyz7dcc2d.cloudfront.net/f901e4f2fed2eecf9f093ac1cd6a206e/com.amazon.avod.apk) | 29.4MB | 0d9f78627c91703a581f13f732fe0e3c |
+| FireTV Player | [FireTv.332.20801](https://d1s31zyz7dcc2d.cloudfront.net/ce9aa7ceddddad46ea325bfc847d7258/com.amazon.avod.apk) | 29.5MB | 6a40541f86ad172745fe197458a0156e |
+| FireTV Player | [FireTv.332.22201](https://d1s31zyz7dcc2d.cloudfront.net/3759ca1a9ec735e77472beff5579f346/com.amazon.avod.apk) | 29.5MB | b0899887b927ba3ba81e32cbb45d19cb |
 |||||
 | FireTV Release Notes | [1.0.706.0-com.amazon.tv.releasenotes-jarvis_620255310](https://d1s31zyz7dcc2d.cloudfront.net/ff1b908f13fba6e0e5f152f46b7c8415/signed_FireTvReleaseNotes-jarvis-release-juv.apk) | 2.0MB | 5dd89d795f42177af5041c0d47a98cf6 |
 |||||
@@ -145,6 +149,7 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | KSO Blackbird | [7.5.848.0-com.amazon.kso.blackbird-fireOs_1750135110](https://d1s31zyz7dcc2d.cloudfront.net/6500221338a4a0cb032b01f8022408ef/KsoBlackbird-fireOs-release-signed-848.apk) | 2.1MB | 0c67e00aa533982538dad6944f3bc5d6 |
 |||||
 | Live TV | [2.0.220164.0-com.amazon.tv.livetv_1211201910](https://d1s31zyz7dcc2d.cloudfront.net/a34825690de3b3e9575f9bd852c877fc/com.amazon.tv.livetv.apk) | 12.0MB | c39aa05ae5b85e819c5619eb509a1bae |
+| Live TV | [2.0.220234.0-com.amazon.tv.livetv_1211202510](https://d1s31zyz7dcc2d.cloudfront.net/1f675f5cd143c1b189329ed796e0cc3b/com.amazon.tv.livetv.apk) | 12.0MB | 9ff59013297141099d60f9c81cefb6a0 | 
 |||||
 | Multimodal Smart Home (Gloria) | [1.0.204315.0_1927310](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 8.9MB | 499d490732d9d843249280914832675b | 
 |||||
@@ -164,10 +169,12 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | Prime Video | [PVFTV-48.2440-L](https://d1s31zyz7dcc2d.cloudfront.net/e4e581fb69a1ed883608f2e96c77ee94/Firebat-livingRoom-release-signed_48244010.apk) | 11.7MB | 3671f291634dbf7f825ac3304d9366ba |
 | Prime Video | [PVFTV-48.2455-L](https://d1s31zyz7dcc2d.cloudfront.net/75d6a66b9e0fa1720a612902e01d4e87/Firebat-livingRoom-release-signed_48245510.apk) | 12.0MB | 83388a3ef0265ef1d9876e73e197e789 |
 | Prime Video | [PVFTV-48.2476-L](https://d1s31zyz7dcc2d.cloudfront.net/814d4e2435c6df0701235a4a93d9b39a/Firebat-livingRoom-release-signed_48247610.apk) | 12.0MB | ce76872f9bcf7b739227ebae564a8f27 |
+| Prime Video | [PVFTV-49.1240-L](https://d1s31zyz7dcc2d.cloudfront.net/c06ae57291574747696714b6356585d3/Firebat-livingRoom-release-signed_49124010.apk) | 12.1MB | bdd07ebe9923bc668b0609a3f846e128 |
 |||||
 | Prism | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
 |||||
 | Settings Menu | [1.0.5579.0-com.amazon.tv.settings.v2-jarvis_623019510](https://d1s31zyz7dcc2d.cloudfront.net/626d9f707554433f08e98728a25db9de/signed_FireTvSettings-jarvis-release_1.0.5579.0.apk) | 9.5MB | e756258030e520f4508ab4d58335c121 |
+| Settings Menu | [1.0.6176.0-com.amazon.tv.settings.v2-jarvis_624091410](https://d1s31zyz7dcc2d.cloudfront.net/d5cb45546eeacf98fdd44966eb223664/signed_FireTvSettings-jarvis-release_1.0.6176.0.apk) | 10.4MB | 22cd2ea93c0d5c045b8d8cf3acf98de0 |
 |||||
 | Shop TV Client | [3.0.203357.0_300415310](https://d1s31zyz7dcc2d.cloudfront.net/d1b9f5a950065d5ebccf5d7b6e27883e/MShopAndroidTVClient-release-signed_0615release.apk) | 12.1MB | 32fb5651f1ecfdaf7081852d11c2ff31 |
 | Shop TV Client | [3.0.203418.0_300419210](https://d1s31zyz7dcc2d.cloudfront.net/2e90f4d9ed2e7d1d283b1268a4ad1e50/MShopAndroidTVClient-release-signed_0909release.apk) | 12.1MB | b160a26d16125acf238601c4a8040c3b |
