@@ -121,6 +121,7 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 |||||
 | FireTV Launcher (KFTV Launcher) | [6380025.1](https://d1s31zyz7dcc2d.cloudfront.net/fa672e0f70785e82b7310ff90ee7bd0e/R4_launcher_6380025.apk) | 14.7MB | 7c64cf22218de916cc62f9365f99ecaa |
 | FireTV Launcher (KFTV Launcher) | [6390026.1](https://d1s31zyz7dcc2d.cloudfront.net/bbab6bbed15a88053551e19bb7f58472/com.amazon.tv.launcher_6390026.apk) | 14.9MB | ff7ec2ac1792cc082667d4f84ecb1b79 |
+| FireTV Launcher (KFTV Launcher) | [6400053.1](https://d1s31zyz7dcc2d.cloudfront.net/21972b05d61148f07dde6e282a385546/R6_Launcher_6400053.apk) | 15.1MB | c23e3f8ac1f6de449a0dadd2543ee61c |
 |||||
 | FireTV Player | [FireTv.330.24001](https://d1s31zyz7dcc2d.cloudfront.net/498a7f56247996e8b17bd95c61f346bd/com.amazon.avod.apk) | 29.2MB | ed94989f967c40fe1df83a62915c25e4 |
 | FireTV Player | [FireTv.331.19901](https://d1s31zyz7dcc2d.cloudfront.net/eef3372ddbc4b8747db25b2077543657/com.amazon.avod.apk) | 29.3MB | 13935f9352befc40b32a947ecf84b445 |
