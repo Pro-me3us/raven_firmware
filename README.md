@@ -148,6 +148,7 @@ FireTV Easy Upgrade | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https
 | Kindle Connect | [7.0.1508.0-com.amazon.ods.kindleconnect_1700230210](https://d1s31zyz7dcc2d.cloudfront.net/3535168d2a31e2ef9d7afedac8f0c05e/com.amazon.ods.kindleconnect-release-7.0.1508.0.apk) | 4.9MB | cc2d1082c0b2bd6a02d44ceb5692bb40 |
 |||||
 | KSO Blackbird | [7.5.848.0-com.amazon.kso.blackbird-fireOs_1750135110](https://d1s31zyz7dcc2d.cloudfront.net/6500221338a4a0cb032b01f8022408ef/KsoBlackbird-fireOs-release-signed-848.apk) | 2.1MB | 0c67e00aa533982538dad6944f3bc5d6 |
+| KSO Blackbird | [7.5.939.0-com.amazon.kso.blackbird-fireOs_1750147410](https://d1s31zyz7dcc2d.cloudfront.net/e98588f9e3163dcd6980b234dea63180/signed_KsoBlackbird-fireOs-release-BlackbirdOTAThree2022.apk) | 2.1MB | 97fa9a8889512499a8d8e5e7e27e230a |
 |||||
 | Live TV | [2.0.220164.0-com.amazon.tv.livetv_1211201910](https://d1s31zyz7dcc2d.cloudfront.net/a34825690de3b3e9575f9bd852c877fc/com.amazon.tv.livetv.apk) | 12.0MB | c39aa05ae5b85e819c5619eb509a1bae |
 | Live TV | [2.0.220234.0-com.amazon.tv.livetv_1211202510](https://d1s31zyz7dcc2d.cloudfront.net/1f675f5cd143c1b189329ed796e0cc3b/com.amazon.tv.livetv.apk) | 12.0MB | 9ff59013297141099d60f9c81cefb6a0 | 
