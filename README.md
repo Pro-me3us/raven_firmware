@@ -1,4 +1,4 @@
-# FireTV 2nd gen Cube Firmware
+## FireTV 2nd gen Cube Firmware & Stock Apps
 Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for full and differential OTA firmware, stock apps, and <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code</a>.  
 
 For other FireTV device firmware visit the following:<br> 
@@ -22,6 +22,9 @@ For other FireTV device firmware visit the following:<br>
 | 2022-07-27 | FireOS 7.2.9.2 (PS7292/2982) | [update-kindle-raven-PS7292_user_2982_0024126400132.bin](https://d1s31zyz7dcc2d.cloudfront.net/936178a33b5b5be2aa48be91d073cb24/update-kindle-raven-PS7292_user_2982_0024126400132.bin) | 864.9MB | a0617b8b14aa6c337ec2486913cfea19 | 
 | 2022-08-23 | FireOS 7.2.9.2 (PS7292/2984) | [update-kindle-raven-PS7292_user_2984_0024126400644.bin](https://d1s31zyz7dcc2d.cloudfront.net/c68e352844b25464bec5d3d7adf616a5/update-kindle-raven-PS7292_user_2984_0024126400644.bin) | 864.9MB | 6d8be6d630a11781736217852be3d24a | 
 | 2022-09-20 | FireOS 7.6.0.3 (PS7603/3110) | [update-kindle-raven-PS7603_user_3110_0025065956996.bin](https://d1s31zyz7dcc2d.cloudfront.net/96b36f83efb9d71e0107382ffd92121d/update-kindle-raven-PS7603_user_3110_0025065956996.bin) | 861.4MB | 1d7b57a994e3445f785731bdadb2e7ab |
+| 2022-10-12 | FireOS 7.6.0.8 (PS7608/3614) | [update-kindle-raven-PS7608_user_3614_0025468739204.bin](https://d1s31zyz7dcc2d.cloudfront.net/d0fe5bc9268a3fb673783e285d7fb3ac/update-kindle-raven-PS7608_user_3614_0025468739204.bin) | 863.1MB | 6ffa919f98f10fb7879a08de0e6ee611 
+
+
 
 ### Differential Firmware Update
 | Date | Pre-update Version | Post-update Version | Download | Size | MD5 |
@@ -41,8 +44,7 @@ For other FireTV device firmware visit the following:<br>
 | <sub>2022-07-27</sub> | <sub>FireOS 7.2.8.5 (PS7285/2880)</sub> | <sub>FireOS 7.2.9.2 (PS7292/2982)</sub> | <sub>[update-raven-diff-PS7285.2880N_2880_0023723720836-to-PS7292_user_2982_0024126400132.bin](https://d1s31zyz7dcc2d.cloudfront.net/3d4082a9579313ca96cbba089425ee6a/update-raven-diff-PS7285.2880N_2880_0023723720836-to-PS7292_user_2982_0024126400132.bin)</sub> | <sub>134.0MB<sub> | <sub>dfef05e4bebe2cb467bea9fa69186ced<sub> |
 | <sub>2022-08-23</sub> | <sub>FireOS 7.2.9.2 (PS7292/2982)</sub> | <sub>FireOS 7.2.9.2 (PS7292/2984)</sub> | <sub>[update-raven-diff-PS7292.2982N_2982_0024126400132-to-PS7292_user_2984_0024126400644.bin](https://d1s31zyz7dcc2d.cloudfront.net/938f366ce1711414ff0657919cec5108/update-raven-diff-PS7292.2982N_2982_0024126400132-to-PS7292_user_2984_0024126400644.bin)</sub> | <sub>35.5.0MB<sub> | <sub>a0511b1d7ff483bd3f989a2705a058dc<sub> |
 | <sub>2022-09-20</sub> | <sub>FireOS 7.2.9.2 (PS7292/2984)</sub> | <sub>FireOS 7.6.0.3 (PS7603/3110)</sub> | <sub>[update-raven-diff-PS7292.2984N_2984_0024126400644-to-PS7603_user_3110_0025065956996.bin](https://d1s31zyz7dcc2d.cloudfront.net/25977e754fba338b16a033836353bf52/update-raven-diff-PS7292.2984N_2984_0024126400644-to-PS7603_user_3110_0025065956996.bin)</sub> | <sub>136.8MB<sub> | <sub>ab82ecead2ae69b3149aeb7043744649<sub> |
-
-
+| <sub>2022-10-12</sub> | <sub>FireOS 7.6.0.3 (PS7603/3110)</sub> | <sub>FireOS 7.6.0.8 (PS7608/3614)</sub> | <sub>[update-raven-diff-PS7603.3110N_3110_0025065956996-to-PS7608_user_3614_0025468739204.bin](https://d1s31zyz7dcc2d.cloudfront.net/61fe280dc5c0e692e7a4f9b737512a56/update-raven-diff-PS7603.3110N_3110_0025065956996-to-PS7608_user_3614_0025468739204.bin)</sub> | <sub>48.7MB<sub> | <sub>67f7939754e282c95f28855436aa9e58<sub> |
 
 
 ### Source Code
