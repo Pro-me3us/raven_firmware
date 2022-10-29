@@ -138,6 +138,8 @@ FireTV Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2
 | FireTV Player | 2022-09-18 | [FireTv.331.29701](https://d1s31zyz7dcc2d.cloudfront.net/f901e4f2fed2eecf9f093ac1cd6a206e/com.amazon.avod.apk) | 29.4MB | 0d9f78627c91703a581f13f732fe0e3c |
 | FireTV Player | 2022-09-26 | [FireTv.332.20801](https://d1s31zyz7dcc2d.cloudfront.net/ce9aa7ceddddad46ea325bfc847d7258/com.amazon.avod.apk) | 29.5MB | 6a40541f86ad172745fe197458a0156e |
 | FireTV Player | 2022-10-08 | [FireTv.332.22201](https://d1s31zyz7dcc2d.cloudfront.net/3759ca1a9ec735e77472beff5579f346/com.amazon.avod.apk) | 29.5MB | b0899887b927ba3ba81e32cbb45d19cb |
+| FireTV Player | 2022-10-11 | [FireTv.333.23101](https://d1s31zyz7dcc2d.cloudfront.net/8cdb391137434f65d934916591824ce4/com.amazon.avod.apk) | 29.3MB | 999fca7742bd58eaa4ce9451071429e2 |
+| FireTV Player | 2022-10-25 | [FireTv.334.8401](https://d1s31zyz7dcc2d.cloudfront.net/ea19070ec7b05b7ac504ec57db1df659/com.amazon.avod.apk) | 29.5MB | b0899887b927ba3ba81e32cbb45d19cb |
 |||||
 | FireTV Release Notes | 2021-06-17 | [1.0.706.0-com.amazon.tv.releasenotes-jarvis_620255310](https://d1s31zyz7dcc2d.cloudfront.net/ff1b908f13fba6e0e5f152f46b7c8415/signed_FireTvReleaseNotes-jarvis-release-juv.apk) | 2.0MB | 5dd89d795f42177af5041c0d47a98cf6 |
 |||||
