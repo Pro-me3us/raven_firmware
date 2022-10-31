@@ -89,6 +89,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Alexa Shopping on FireTV | 2021-04-21 | [2.0.147.0](https://d1s31zyz7dcc2d.cloudfront.net/539164335c11ca0caa3360651d6c340d/signed_AlexaShoppingOnFireTV-release_RC1.apk) | 7.2MB | eaad5890a4106b9eb3b68df952fc6c34 |
 |||||
 | Alexa Video Player | 2022-07-07 | [1.0.209990.0-firetv_267585910](https://d1s31zyz7dcc2d.cloudfront.net/f03236c4fe5deac147333c21f1334311/signed_Cardinal-1.0.209990.0-267585910-firetv-armeabi-v7a-release.apk) | 14.9MB | fd559638853669db08383f03ea9fd793 |
+| Alexa Video Player | 2022-10-18 | [1.0.210255.0-firetv_267904110](https://d1s31zyz7dcc2d.cloudfront.net/cc3c9aff919542f628a2ea239e7de9d0/signed_Cardinal-1.0.210255.0-267904110-firetv-armeabi-v7a-release.apk) | 14.9MB | 910adb83f5db059e1cb3724c74d0d00e |
 |||||
 | Amazon App Store | 2022-06-24 | [release-8.5008.5.v.x.217228.0_422192810](https://d1s31zyz7dcc2d.cloudfront.net/43ac9f3a54fe7b0cb774f4be8f041958/com.amazon.venezia.apk) | 20.3MB | 462dae6ef05a806e6ecb67cf7ff313fd |
 | Amazon App Store | 2022-07-22 | [release-8.5009.5.v.x.217419.0_422229310](https://d1s31zyz7dcc2d.cloudfront.net/e7aa630fadb8e5819b4ec5ce4a55d832/Cincinnati_Signed_5.v.x.217419.0.apk) | 20.4MB | 9e8b2e165ef074b123a8c12e6e22fb88 |
