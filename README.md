@@ -1,5 +1,6 @@
 ## FireTV 2nd gen Cube Firmware & Stock Apps
-Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for full and differential OTA firmware, stock apps, and <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code</a>.  
+Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for <a href="#full-firmware-update">full</a> and <a href="#differential-firmware-update">differential</a> OTA firmware, <a href="#stock-apps">stock apps</a>, and <a href="#source-code">source code</a>.  
+
 
 For other FireTV device firmware visit the following:<br> 
 <a href="https://forum.xda-developers.com/t/stock-fire-tv-2-sloane-archiv.4446785">FireTV 2</a> box (sloane - 2015)<br>
@@ -63,7 +64,7 @@ For other FireTV device firmware visit the following:<br>
 | 2022-02-07 | FireOS 7.2.7.3 | [FireTVCubeGen2-7.2.7.3-20220207.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/KLRB4zxnvzPB3JnK5G6CAr8Weh/FireTVCubeGen2-7.2.7.3-20220207.tar.bz2) | 444.2MB | 729b9631c899dd1e004c5cdee2493edd |
 | 2022-04-26 | FireOS 7.2.7.9 | [FireTVCubeGen2-7.2.7.9-20220426.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/duOe3xPgxLQqwLwXEHOsGnvazS/FireTVCubeGen2-7.2.7.9-20220426.tar.bz2) | 444.2MB | 729b9631c899dd1e004c5cdee2493edd |
 
-Note: There are a couple mistakes on Amazon's source page. <br>
+Note: There are a couple mistakes on Amazon's <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code page</a>. <br>
 FireTVCubeGen2-7.2.4.2-20210628.tar.bz2 = FireTVCubeGen2-7.2.4.2-20220214.tar.bz2 (same file)<br>
 FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz2 (same file)<br>
 
