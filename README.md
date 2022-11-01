@@ -1,5 +1,5 @@
 ## FireTV 2nd gen Cube Firmware & Stock Apps
-Amazon FireTV 2nd gen Cube Firmware. Official Amazon download links for <a href="#full-firmware-update">full</a> and <a href="#differential-firmware-update">differential</a> OTA firmware, <a href="#stock-apps">stock apps</a>, and <a href="#source-code">source code</a>.  
+Official Amazon download links for <a href="#full-firmware-update">full</a> and <a href="#differential-firmware-update">differential</a> OTA firmware, <a href="#stock-apps">stock apps</a>, and <a href="#source-code">source code</a>.  
 
 
 For other FireTV device firmware visit the following:<br> 
