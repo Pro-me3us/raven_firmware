@@ -157,6 +157,7 @@ FireTV Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2
 | Freevee | 2022-08-23 | [1.0.9793.0 (21740610)](https://d1s31zyz7dcc2d.cloudfront.net/b6191a8ae95d0690a0ddd7d472fe8fb2/signed-app-rio-prod-release-RC-9793.apk) | 46.6MB | f3bfed3f25d21f5e7567611986b8c5b4 |
 | Freevee | 2022-09-09 | [1.0.9896.0 (21761810)](https://d1s31zyz7dcc2d.cloudfront.net/200c1bd7d448c260bffffd10aa0c1ca2/signed-app-rio-prod-hotfix-release-RC-9896.apk) | 46.6MB | 5d795122461b351bda2935a532c60cc4 |
 | Freevee | 2022-09-20 | [1.0.10006.0 (21787410)](https://d1s31zyz7dcc2d.cloudfront.net/944a83855c2b6e074aea6697a6080eb4/signed-app-rio-prod-hotfix-release-RC-10006.apk) | 46.6MB | 74decfb9de71b274e6c5deb54308a3b1 | 
+| Freevee | 2022-10-28 | [1.0.10610.0 (21927410)](https://d1s31zyz7dcc2d.cloudfront.net/035ccb73d011bbe006556f3f228a14d4/signed-app-scorpion-prod-RC-build-10610.apk) | 47.7MB | 1f06a94987ee6250c3fef57e088a62c3 |
 |||||
 | IME (FireTV Keyboard) | 2021-11-25 | [1.0.525.0-com.amazon.tv.ime-jarvis_616013510](https://d1s31zyz7dcc2d.cloudfront.net/253d26a59b3afe872721001e0c81321f/signed_FireTvKeyboard-jarvis-release_1.0.525.0.apk) | 2.4MB | bcba4effd12755298e6a6139eb28bdb9 |
 |||||
