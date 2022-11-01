@@ -76,6 +76,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Alexa (Vizzini) | 2021-01-08 | [2.0.10021.0-com.amazon.vizzini.632.0.0_632128610](https://d1s31zyz7dcc2d.cloudfront.net/13a8f301d98727e66618a0c9334af545/signed_com.amazon.vizzini.apk) | 28.1MB | db0f9e03e80781fd373dc4a36de48123 |
 | Alexa (Vizzini) | 2022-09-12 | [3.0.3040.0-com.amazon.vizzini.647.0.0_647119010](https://d1s31zyz7dcc2d.cloudfront.net/3355d1f1ee93d92717bf6285abeab7c6/signed_com.amazon.vizzini_5.apk) | 17.3MB | 052ea50a3c978803f22d1338bdb154bb |
 | Alexa (Vizzini) | 2022-10-07 | [3.0.3553.0-com.amazon.vizzini.647.0.1_647127210](https://d1s31zyz7dcc2d.cloudfront.net/e7a81fcf79b7d6e20051ffdf52019dfe/signed_com.amazon.vizzini_5.apk) | 17.3MB | 88bdf12bbb2dd74b1287324b4f71952a |
+| Alexa (Vizzini) | 2022-10-19 | [3.0.3714.0-com.amazon.vizzini.647.1.0_647129010](https://d1s31zyz7dcc2d.cloudfront.net/e5e2d0fdd893ae9a1d01edbcd6b0b087/signed_com.amazon.vizzini_647_1_1.apk) | 17.3MB | 992f562440b7904b602d129a69640ace |
 |||||
 | Alexa Alerts | 2022-06-22 | [1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010](https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.3MB | 6573d8b8a71c00a752e8808458582251 |
 |||||
@@ -104,6 +105,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon Music | 2022-08-22 | [3.4.577.0 (304057410)](https://d1s31zyz7dcc2d.cloudfront.net/df5bac87748eb26b2f98887e7b52a749/signed_DMTVAndroid-firetv-prod-arm32-release-3.4.577.apk) | 20.6MB | 7e4dd75a1ba53253404cbd3a6e623f60 |
 | Amazon Music | 2022-09-15 | [3.4.594.0 (304059110)](https://d1s31zyz7dcc2d.cloudfront.net/11c37b602bdf077f5c17043808dae081/signed_DMTVAndroid-firetv-prod-arm32-rel-3.4.594.apk) | 20.7MB | 4e27fb52e278e8b2ca58a20ffe406eba |  
 | Amazon Music | 2022-10-20 | [3.4.653.0 (304064810)](https://d1s31zyz7dcc2d.cloudfront.net/ba1a80a964a8495aa6699f105e8b60ba/signed_DMTVAndroid-firetv-prod-arm32-3.4.653.0.apk) | 20.7MB | 0508ae367de9229df4ef6551a3d8c48e | 
+| Amazon Music | 2022-10-31 | [3.4.665.0 (304066010)](https://d1s31zyz7dcc2d.cloudfront.net/3b991e8bfca1002ed03576a102b6cefe/signed_DMTVAndroid-firetv-prod-arm32-release.apk) | 21.0MB | 9e054c73bc9e736e482765457f8c436f | 
 |||||
 | Amazon Photos | 2022-02-25 | [2.14.0-883278710](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
 |||||
