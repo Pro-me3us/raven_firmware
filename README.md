@@ -124,6 +124,8 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Ceviche | 2022-08-15 | [1.0.2573.0_1394110](https://d1s31zyz7dcc2d.cloudfront.net/ffa49bf3201a36d2642b2d373bb76a9a/signed_CevicheService-release_2573.apk) | 0.5MB | a37a9038f75217d4fd0705267ce3697d |  
 | Ceviche | 2022-09-12 | [1.0.2625.0_1397010](https://d1s31zyz7dcc2d.cloudfront.net/2de0ba9f24c6cb67a63fa05dc9777d6c/signed_CevicheService-release1.apk) | 0.5MB | 01df45e28a18d649f0f6ed4b7df67994 | 
 ||||||
+| Dial Service | 2022-09-28 | [1.0.100053.00](https://d1s31zyz7dcc2d.cloudfront.net/8dfd7f1fa246c1797d5bc0f081090bed/DialService.apk) | 83.9KB | f6d20867031f2640b976a631ec0c6698 | 
+||||||
 | Equipment Control | 2020-11-27 | [1.0.211024.0-caltrain_101764410](https://d1s31zyz7dcc2d.cloudfront.net/bd39b928408e3ffd0a76adb09ffc1f28/FireTV_OZ_OOBE_Settings-caltrain-release-signed_4.apk) | 8.9MB | 113aef9c99e066c8e87f4ecc3331ce39 |
 ||||||
 | FireTV Device Control | 2020-11-30 | [1.0.208492.0_1001745510](https://d1s31zyz7dcc2d.cloudfront.net/6a928ad0d2fb458921ee410c28fd99fd/FireTV_DeviceControl-release-signed.apk) | 2.0MB | 01af64057aa81eda89ea03b729208999 |
@@ -193,6 +195,7 @@ FireTV Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2
 | Prime Video | 2022-10-19 | [PVFTV-49.1240-L](https://d1s31zyz7dcc2d.cloudfront.net/c06ae57291574747696714b6356585d3/Firebat-livingRoom-release-signed_49124010.apk) | 12.1MB | bdd07ebe9923bc668b0609a3f846e128 |
 | Prime Video | 2022-10-25 | [PVFTV-49.1258-L](https://d1s31zyz7dcc2d.cloudfront.net/3362a2e6a5de92f429043b17000bd230/Firebat-livingRoom-release-signed_49125810.apk) | 12.1MB | 49962fa946e8c113ab3797fbd04b5ae4 |
 | Prime Video | 2022-10-26 | [PVFTV-49.1264-L](https://d1s31zyz7dcc2d.cloudfront.net/39f1a41077a816e3f8ecd0ef1dbf37df/Firebat-livingRoom-release-signed_49126410.apk) | 12.1MB | 78bf8fb94cf3f1ae223fb2d01b560035 |
+| Prime Video | 2022-10-31 | [PVFTV-50.0613-L](https://d1s31zyz7dcc2d.cloudfront.net/c9ebc5aeff69b8d2f8a915326b819eef/Firebat-livingRoom-release-signed_50061310.apk) | 12.1MB | 0d85b9688d3778a4ea1502760b27bdba |
 ||||||
 | Prism | 2022-04-25 | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
 ||||||
@@ -201,8 +204,7 @@ FireTV Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2
 ||||||
 | Shop TV Client | 2022-06-16 | [3.0.203357.0_300415310](https://d1s31zyz7dcc2d.cloudfront.net/d1b9f5a950065d5ebccf5d7b6e27883e/MShopAndroidTVClient-release-signed_0615release.apk) | 12.1MB | 32fb5651f1ecfdaf7081852d11c2ff31 |
 | Shop TV Client | 2022-09-12 | [3.0.203418.0_300419210](https://d1s31zyz7dcc2d.cloudfront.net/2e90f4d9ed2e7d1d283b1268a4ad1e50/MShopAndroidTVClient-release-signed_0909release.apk) | 12.1MB | b160a26d16125acf238601c4a8040c3b |
-
- 
-  
+||||||
+| SSDP Service | 2022-09-28 | [1.0.100053.00](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
 
 Note: Many apps are not device specific, so the same version is used on the Cube as other FireStick models.  Check the <a href="https://gist.github.com/JulyIghor/d3d3dd460527a1d2b5b67954160d4abf">4K Stick page</a> for a more comprehensive  list of apps and versions.  Use the MD5 value for any app above to verify that the 4K stick is using the same app version line.  Listed app dates are an approximation based on the server availability date.
