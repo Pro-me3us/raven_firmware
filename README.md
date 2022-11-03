@@ -193,8 +193,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | KFTV Launcher (Amazon Launcher) | 2022-09-26 | [6400053.1](https://d1s31zyz7dcc2d.cloudfront.net/21972b05d61148f07dde6e282a385546/R6_Launcher_6400053.apk) | 15.1MB | c23e3f8ac1f6de449a0dadd2543ee61c |
 |||_com.amazon.tv.launcher_
 |<br>
-| Kindle Connect | 2021-07-29 | [7.0.1508.0-com.amazon.ods.kindleconnect_1700230210](https://d1s31zyz7dcc2d.cloudfront.net/3535168d2a31e2ef9d7afedac8f0c05e/com.amazon.ods.kindleconnect-release-7.0.1508.0.apk) | 4.9MB | cc2d1082c0b2bd6a02d44ceb5692bb40 |
-|||_com.amazon.ods.kindleconnect
+| Kindle Connect (Mayday) | 2021-07-29 | [7.0.1508.0-com.amazon.ods.kindleconnect_1700230210](https://d1s31zyz7dcc2d.cloudfront.net/3535168d2a31e2ef9d7afedac8f0c05e/com.amazon.ods.kindleconnect-release-7.0.1508.0.apk) | 4.9MB | cc2d1082c0b2bd6a02d44ceb5692bb40 |
+|||_com.amazon.ods.kindleconnect_
 |<br>
 | KSO Blackbird | 2022-05-04 | [7.5.848.0-com.amazon.kso.blackbird-fireOs_1750135110](https://d1s31zyz7dcc2d.cloudfront.net/6500221338a4a0cb032b01f8022408ef/KsoBlackbird-fireOs-release-signed-848.apk) | 2.1MB | 0c67e00aa533982538dad6944f3bc5d6 |
 | KSO Blackbird | 2022-10-12 | [7.5.939.0-com.amazon.kso.blackbird-fireOs_1750147410](https://d1s31zyz7dcc2d.cloudfront.net/e98588f9e3163dcd6980b234dea63180/signed_KsoBlackbird-fireOs-release-BlackbirdOTAThree2022.apk) | 2.1MB | 97fa9a8889512499a8d8e5e7e27e230a |
