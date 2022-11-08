@@ -173,6 +173,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
 | FireTV Remote | 2022-10-07 | [1084001.1](https://d1s31zyz7dcc2d.cloudfront.net/34f80d53ba98d918c0cfa2ffd44c630f/1084_RPM-RSE-Server-release-signed_Geneva.apk) | 0.9MB | 9d8635b8cc1f961d68cb849b16c1b92e |
+| FireTV Remote | 2022-11-07 | [1085001.1](https://d1s31zyz7dcc2d.cloudfront.net/a8b8ce33bb53bc8e85aa8024380c9bf0/RPM-RSE-Server-release-signed-Hanoi.apk) | 0.9MB | 8a434c89506b9bfadcd3fa8314dbabdb |  
 |||_com.amazon.tv.turnstile_
 |<br>
 | FireTV Screensaver | 2022-06-10 | [1.24.0.113 (25011310)](https://d1s31zyz7dcc2d.cloudfront.net/e6aa8cd3617df06082f8b837faea4689/signed_FTVScreensaverApp-1.24.0.113.apk) | 7.3MB | cc8b61c83ecb65e8ed251f0d3f52449c |
