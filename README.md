@@ -78,7 +78,8 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Alexa | 2021-01-08 | [2.0.10021.0-com.amazon.vizzini.632.0.0_632128610](https://d1s31zyz7dcc2d.cloudfront.net/13a8f301d98727e66618a0c9334af545/signed_com.amazon.vizzini.apk) | 28.1MB | db0f9e03e80781fd373dc4a36de48123 |
 | Alexa | 2022-09-12 | [3.0.3040.0-com.amazon.vizzini.647.0.0_647119010](https://d1s31zyz7dcc2d.cloudfront.net/3355d1f1ee93d92717bf6285abeab7c6/signed_com.amazon.vizzini_5.apk) | 17.3MB | 052ea50a3c978803f22d1338bdb154bb |
 | Alexa | 2022-10-07 | [3.0.3553.0-com.amazon.vizzini.647.0.1_647127210](https://d1s31zyz7dcc2d.cloudfront.net/e7a81fcf79b7d6e20051ffdf52019dfe/signed_com.amazon.vizzini_5.apk) | 17.3MB | 88bdf12bbb2dd74b1287324b4f71952a |
-| Alexa | 2022-10-19 | [3.0.3714.0-com.amazon.vizzini.647.1.0_647129010](https://d1s31zyz7dcc2d.cloudfront.net/e5e2d0fdd893ae9a1d01edbcd6b0b087/signed_com.amazon.vizzini_647_1_1.apk) | 17.3MB | 992f562440b7904b602d129a69640ace |
+| Alexa | 2022-10-19 | [3.0.3714.0-com.amazon.vizzini.647.1.0_647129010](https://d1s31zyz7dcc2d.cloudfront.net/e5e2d0fdd893ae9a1d01edbcd6b0b087/signed_com.amazon.vizzini_647_1_1.apk) | 17.3MB | 992f562440b7904b602d129a69640ace | 
+| Alexa | 2022-11-03 | [3.0.3955.0-com.amazon.vizzini.647.2.1_647136210](https://d1s31zyz7dcc2d.cloudfront.net/3ca5bd697026fe49b7399865ef1ed76d/signed_com.amazon.vizzini_647_2_hf.apk) | 17.3MB | 54f2599a0b0f919418ee4a7927628f67 |
 |||_com.amazon.vizzini_
 |<br>
 | Alexa Alerts | 2022-06-22 | [1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010](https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.3MB | 6573d8b8a71c00a752e8808458582251 |
@@ -115,6 +116,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||_com.amazon.gamehub_
 |<br>
 | Amazon Live Shopping | 2022-09-12 | [3.0.203781.0_2025210](https://d1s31zyz7dcc2d.cloudfront.net/cbf7089ae485cfc3c5e4f491130ce04a/MShopAndroidTV3PClient-release-signed_0909release.apk) | 21.4MB | db242a5f4e0a18181c2b07c3f8128249 | 
+| Amazon Live Shopping | 2022-11-06 | [3.0.203843.0_2028810](https://d1s31zyz7dcc2d.cloudfront.net/c771d84cd52580a7d1e7796956ace670/MShopAndroidTV3PClient-release-signed_1105release.apk) | 21.4MB | 5eeafc94cadc7165336cbed458964f43 | 
 |||_com.amazon.shoptv.firetv.client_
 |<br>
 | Amazon Music | 2022-07-15 | [3.4.495.0 (304048710)](https://d1s31zyz7dcc2d.cloudfront.net/0ba33a795feeb233d618a9097a3909d1/signed_DMTVAndroid-firetv-prod-arm32-rel-3.4.495.apk) | 20.5MB | 64eb191c677bf0f2e68429fc61ad3773 |
@@ -176,6 +178,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | FireTV Screensaver | 2022-06-10 | [1.24.0.113 (25011310)](https://d1s31zyz7dcc2d.cloudfront.net/e6aa8cd3617df06082f8b837faea4689/signed_FTVScreensaverApp-1.24.0.113.apk) | 7.3MB | cc8b61c83ecb65e8ed251f0d3f52449c |
 | FireTV Screensaver | 2022-07-22 | [1.25.0.44 (26004410)](https://d1s31zyz7dcc2d.cloudfront.net/df05111c09dd4254fd89fd1225e07b93/signed_FTVScreensaverApp-1.25.0.44.apk) | 7.3MB | 5258e2cb1b1de707ecc10bfa07150699 |
 | FireTV Screensaver | 2022-09-27 | [1.26.1.43 (27004310)](https://d1s31zyz7dcc2d.cloudfront.net/04a63ae1ba58f4105ced5315f80245f8/signed_FTVScreensaverApp-1.26.1.1.apk) | 7.4MB | adbce940f62fe888d65b382cf2eff788 |
+| FireTV Screensaver | 2022-10-27 | [1.27.0.40 (28004010)](https://d1s31zyz7dcc2d.cloudfront.net/53196d0f1e6f15eca739ec5fd16f1aa0/signed_FTVScreensaverApp-1.27.0.40.apk) | 7.4MB | e1aa4b1b788d83c8783945e3d5d681b9 |
 |||_com.amazon.ftv.screensaver_
 |<br>
 | Freevee | 2022-07-12 | [1.0.9395.0 (21653810)](https://d1s31zyz7dcc2d.cloudfront.net/4ef9d9f2c614068625572088ddbbe267/signed-app-playdoh-prod-release-RC-9395.apk) | 45.7MB | 62b8adb1f353856b183f37449667b33a |
@@ -244,8 +247,9 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Settings Menu | 2022-10-12 | [1.0.6176.0-com.amazon.tv.settings.v2-jarvis_624091410](https://d1s31zyz7dcc2d.cloudfront.net/d5cb45546eeacf98fdd44966eb223664/signed_FireTvSettings-jarvis-release_1.0.6176.0.apk) | 10.4MB | 22cd2ea93c0d5c045b8d8cf3acf98de0 |
 |||_com.amazon.tv.settings.v2_
 |<br>
-| Shop TV Client | 2022-06-16 | [3.0.203357.0_300415310](https://d1s31zyz7dcc2d.cloudfront.net/d1b9f5a950065d5ebccf5d7b6e27883e/MShopAndroidTVClient-release-signed_0615release.apk) | 12.1MB | 32fb5651f1ecfdaf7081852d11c2ff31 |
+| TV Client | 2022-06-16 | [3.0.203357.0_300415310](https://d1s31zyz7dcc2d.cloudfront.net/d1b9f5a950065d5ebccf5d7b6e27883e/MShopAndroidTVClient-release-signed_0615release.apk) | 12.1MB | 32fb5651f1ecfdaf7081852d11c2ff31 |
 | Shop TV Client | 2022-09-12 | [3.0.203418.0_300419210](https://d1s31zyz7dcc2d.cloudfront.net/2e90f4d9ed2e7d1d283b1268a4ad1e50/MShopAndroidTVClient-release-signed_0909release.apk) | 12.1MB | b160a26d16125acf238601c4a8040c3b |
+| Shop TV Client | 2022-11-06| [3.0.203475.0_300422810](https://d1s31zyz7dcc2d.cloudfront.net/a7c807528a2882b0db300970877be46e/MShopAndroidTVClient-release-signed_1105release.apk) | 12.1MB | de568c928d58d706c7ee159cbd5889f7 |
 |||_com.amazon.shoptv.client_
 |<br>
 | SSDP Service | 2022-09-28 | [1.0.100053.00](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
