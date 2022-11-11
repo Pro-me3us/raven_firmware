@@ -169,6 +169,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | FireTV Player | 2022-10-08 | [FireTv.332.22201](https://d1s31zyz7dcc2d.cloudfront.net/3759ca1a9ec735e77472beff5579f346/com.amazon.avod.apk) | 29.5MB | b0899887b927ba3ba81e32cbb45d19cb |
 | FireTV Player | 2022-10-11 | [FireTv.333.23101](https://d1s31zyz7dcc2d.cloudfront.net/8cdb391137434f65d934916591824ce4/com.amazon.avod.apk) | 29.3MB | 999fca7742bd58eaa4ce9451071429e2 |
 | FireTV Player | 2022-10-25 | [FireTv.334.8401](https://d1s31zyz7dcc2d.cloudfront.net/ea19070ec7b05b7ac504ec57db1df659/com.amazon.avod.apk) | 29.5MB | b0899887b927ba3ba81e32cbb45d19cb |
+| FireTV Player | 2022-11-07 | [FireTv.335.7201](https://d1s31zyz7dcc2d.cloudfront.net/0b832e41ecbd3b166b6518f1a0042d14/com.amazon.avod.apk) | 29.9MB | 5efb79f1e2103b8761c6220f5ac008b4 | 
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
