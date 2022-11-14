@@ -80,6 +80,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Alexa | 2022-10-07 | [3.0.3553.0-com.amazon.vizzini.647.0.1_647127210](https://d1s31zyz7dcc2d.cloudfront.net/e7a81fcf79b7d6e20051ffdf52019dfe/signed_com.amazon.vizzini_5.apk) | 17.3MB | 88bdf12bbb2dd74b1287324b4f71952a |
 | Alexa | 2022-10-19 | [3.0.3714.0-com.amazon.vizzini.647.1.0_647129010](https://d1s31zyz7dcc2d.cloudfront.net/e5e2d0fdd893ae9a1d01edbcd6b0b087/signed_com.amazon.vizzini_647_1_1.apk) | 17.3MB | 992f562440b7904b602d129a69640ace | 
 | Alexa | 2022-11-03 | [3.0.3955.0-com.amazon.vizzini.647.2.1_647136210](https://d1s31zyz7dcc2d.cloudfront.net/3ca5bd697026fe49b7399865ef1ed76d/signed_com.amazon.vizzini_647_2_hf.apk) | 17.3MB | 54f2599a0b0f919418ee4a7927628f67 |
+| Alexa | 2022-11-10 | [3.0.4047.0-com.amazon.vizzini.647.3.0_647136910](https://d1s31zyz7dcc2d.cloudfront.net/ca1a5e99facd93879d3beea2af034b75/signed_com.amazon.vizzini.apk) | 17.4MB | d6a64d45f0fc7f084e7ee09b1bdde47f | 
 |||_com.amazon.vizzini_
 |<br>
 | Alexa Alerts | 2022-06-22 | [1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010](https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.3MB | 6573d8b8a71c00a752e8808458582251 |
