@@ -109,6 +109,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon App Store | 2022-07-22 | [release-8.5009.5.v.x.217419.0_422229310](https://d1s31zyz7dcc2d.cloudfront.net/e7aa630fadb8e5819b4ec5ce4a55d832/Cincinnati_Signed_5.v.x.217419.0.apk) | 20.4MB | 9e8b2e165ef074b123a8c12e6e22fb88 |
 | Amazon App Store | 2022-08-30 | [release-8.5010.5.v.x.217901.0_422303610](https://d1s31zyz7dcc2d.cloudfront.net/cb7946c99bcf75e3eddfabbd0163f1be/com.amazon.venezia.apk) | 20.5MB | d422ea1e70b64e6fc37b9d2897fa6699 |
 | Amazon App Store | 2022-10-12 | [release-8.5011.5.v.x.218736.0_422472210](https://d1s31zyz7dcc2d.cloudfront.net/74d41af2620121deaec49610e89940ff/com.amazon.venezia.apk) | 21.3MB | 3a42d5ff9eca4eb3938abd4f9a36658d |
+| Amazon App Store | 2022-11-09 | [release-8.5012.5.v.x.218938.0_422517410](https://d1s31zyz7dcc2d.cloudfront.net/f92bdf1adaa676787fcd823da6fcf579/Nairobi_nontank.apk) | 21.2MB | e7df55a801fb23ae14f5db7e02e83db4 |	
 |||_com.amazon.venezia_
 |<br>
 | Amazon Game Center | 2022-10-14 | [1.0.735.0-com.amazon.gamehub-tv_1042710](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | 8.2MB | b6b5467b8ac9bb2968c0dd8e9f475801 |
