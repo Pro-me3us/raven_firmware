@@ -222,6 +222,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 |||_com.amazon.hedwig_
 |<br>
 | OOBE (Out-of-Box-Experience) | 2022-08-07 | [1.0.6460.0-com.amazon.tv.oobe-jarvis_624016310](https://d1s31zyz7dcc2d.cloudfront.net/1280b8179678dc072c1bcb9503a5c5e9/signed_FireTvOobe-jarvis-release_1.0.6460.0_GM_Oakwood.apk) | 11.3MB | 78648873671d85927440ee7797e67b33 |
+| OOBE (Out-of-Box-Experience) | 2022-11-08 | [1.0.6856.0-com.amazon.tv.oobe-jarvis_625001910](https://d1s31zyz7dcc2d.cloudfront.net/6c41aed5316d2c5a0853725c8033f8ff/signed_FireTvOobe-jarvis-release-1.0.6856.0.apk) | 12.4MB	| 709556aaaada94380b12e030f79c8f22 |
 |||_com.amazon.tv.oobe_
 |<br>
 | Ott Sso Companion App | 2020-05-19 | [1.0 (5510)](https://d1s31zyz7dcc2d.cloudfront.net/5c5fda1564c96323914890a6f6e37ba1/SSO_ClientlessSupport_app-tv-release-signed.apk) | 1.9MB | f0df3354b333911e0b831efeddd0d48e |
