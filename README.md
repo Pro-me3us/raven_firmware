@@ -219,6 +219,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 |<br>
 | News | 2021-12-30 | [1.0.6869.0_11087810](https://d1s31zyz7dcc2d.cloudfront.net/dca199a5ef3b90e01d4882b95d62f9bf/signed_HedwigNews-release_Flourine_LD2_6869.apk) | 12.1MB | ba9582e1491f59e98cf64ab2a278c06e | 
 | News | 2022-08-05 | [1.0.7294.0_11190110](https://d1s31zyz7dcc2d.cloudfront.net/a4bfafd5fa42df72dba5410d124eeb6a/signed_HedwigNews-release_7294_Prod_LD.apk) | 10.8MB | 93a0f4b180e7f94df1aa53314376d09b | 
+| News | 2022-11-14 | [1.0.8132.0_11386610](https://d1s31zyz7dcc2d.cloudfront.net/290ff5a81bb219643f4a174e1c260c77/signed_HedwigNews-release_8132_R1_HF1.apk) | 10.8MB | 3b06d36047ca354c3640879db351add4 |  
 |||_com.amazon.hedwig_
 |<br>
 | OOBE (Out-of-Box-Experience) | 2022-08-07 | [1.0.6460.0-com.amazon.tv.oobe-jarvis_624016310](https://d1s31zyz7dcc2d.cloudfront.net/1280b8179678dc072c1bcb9503a5c5e9/signed_FireTvOobe-jarvis-release_1.0.6460.0_GM_Oakwood.apk) | 11.3MB | 78648873671d85927440ee7797e67b33 |
