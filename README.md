@@ -199,6 +199,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | KFTV Launcher (Amazon Launcher) | 2022-06-27 | [6380025.1](https://d1s31zyz7dcc2d.cloudfront.net/fa672e0f70785e82b7310ff90ee7bd0e/R4_launcher_6380025.apk) | 14.7MB | 7c64cf22218de916cc62f9365f99ecaa |
 | KFTV Launcher (Amazon Launcher) | 2022-08-15 | [6390026.1](https://d1s31zyz7dcc2d.cloudfront.net/bbab6bbed15a88053551e19bb7f58472/com.amazon.tv.launcher_6390026.apk) | 14.9MB | ff7ec2ac1792cc082667d4f84ecb1b79 |
 | KFTV Launcher (Amazon Launcher) | 2022-09-26 | [6400053.1](https://d1s31zyz7dcc2d.cloudfront.net/21972b05d61148f07dde6e282a385546/R6_Launcher_6400053.apk) | 15.1MB | c23e3f8ac1f6de449a0dadd2543ee61c |
+| KFTV Launcher (Amazon Launcher) | 2022-11-04 | [6410026.1](https://d1s31zyz7dcc2d.cloudfront.net/9250a922baa36b11c489e16d9a88591f/R7_launcher_6410026.apk) | 15.0MB | 71f306cd425a7d2fade617768b9c5c26 |
 |||_com.amazon.tv.launcher_
 |<br>
 | Kindle Connect (Mayday) | 2021-07-29 | [7.0.1508.0-com.amazon.ods.kindleconnect_1700230210](https://d1s31zyz7dcc2d.cloudfront.net/3535168d2a31e2ef9d7afedac8f0c05e/com.amazon.ods.kindleconnect-release-7.0.1508.0.apk) | 4.9MB | cc2d1082c0b2bd6a02d44ceb5692bb40 |
