@@ -104,6 +104,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||_com.amazon.cardinal_
 |<br>
 | Alexa Voice Layer | 2022-08-26 | [1.0.201011.0-stark_901024610](https://d1s31zyz7dcc2d.cloudfront.net/3e335694499ac269268a56a75f6dc2d9/com.amazon.avl-stark-release-signed1011.apk) | 1.0MB | a3249fc0b736d3710df32f1703fe6f5d |
+| Alexa Voice Layer | 2022-11-14 | [1.0.201040.0-stark_901033810](https://d1s31zyz7dcc2d.cloudfront.net/d5921f03ae3352744d76dff6da28118b/com.amazon.avl-stark-release-signed1040.apk) | 1.0MB | 5aa171d63c7f42ceecad35357627b597 |
 |||_com.amazon.avl.stark_
 |<br>
 | Amazon App Store | 2022-06-24 | [release-8.5008.5.v.x.217228.0_422192810](https://d1s31zyz7dcc2d.cloudfront.net/43ac9f3a54fe7b0cb774f4be8f041958/com.amazon.venezia.apk) | 20.3MB | 462dae6ef05a806e6ecb67cf7ff313fd |
