@@ -84,6 +84,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||_com.amazon.vizzini_
 |<br>
 | Alexa Alerts | 2022-06-22 | [1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010](https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.3MB | 6573d8b8a71c00a752e8808458582251 |
+| Alexa Alerts | 2022-10-27 | [1.0.201470.0-com.amazon.tv.alexaalerts-nonStark_103068310](https://d1s31zyz7dcc2d.cloudfront.net/e6d13742e99be1cd66bbd26a15ed4940/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.2MB | f64578dd6d6c421dc7e301baf112d45c |
 |||_com.amazon.tv.alexaalerts_
 |<br>
 | Alexa Communication | 2020-11-30 | [1.0.1765.0 (1255710)](https://d1s31zyz7dcc2d.cloudfront.net/7bcbc6ae3fad47a7176567bd30d25707/StarkTachyon-armeabi-v7a-release-signedMcFly.apk) | 20.8MB | e0c9c1b4f60fcd9d11ff1f84acfcb00b | 
