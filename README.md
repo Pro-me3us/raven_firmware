@@ -75,7 +75,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | ACA FireTV Android Client | 2021-10-18 | [ACAFireTVAndroidClient-2019.3.0-1.1.1179.0-30170010](https://d1s31zyz7dcc2d.cloudfront.net/334c93fd023f060211b99f7d43738edb/ACAFireTVAndroidClient-fos5-release-signed1179.apk) | 7.3MB | f2be55b87ecec06cd2428fe091ab503f |
 |||_com.amazon.aca_
 |<br>
-| AIOnDeCService | 2021-11-23 | [1.0.188.0 (2009010)](https://d1s31zyz7dcc2d.cloudfront.net/8a549d6b917e761f6ce98196f98e8bb8/ASAdsAIOnDeCService-1.0.188.0-release-signed.apk) | 2.5MB | f92f7b3c69bc25f8373aa2791a8a4638 |
+| AIOnDeCService | 2022-11-23 | [1.0.188.0 (2009010)](https://d1s31zyz7dcc2d.cloudfront.net/8a549d6b917e761f6ce98196f98e8bb8/ASAdsAIOnDeCService-1.0.188.0-release-signed.apk) | 2.5MB | f92f7b3c69bc25f8373aa2791a8a4638 |
 |||_com.amazon.aiondec_
 |<br>
 | Alexa | 2021-01-08 | [2.0.10021.0-com.amazon.vizzini.632.0.0_632128610](https://d1s31zyz7dcc2d.cloudfront.net/13a8f301d98727e66618a0c9334af545/signed_com.amazon.vizzini.apk) | 28.1MB | db0f9e03e80781fd373dc4a36de48123 |
