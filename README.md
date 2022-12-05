@@ -145,6 +145,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Aria | 2022-04-20 | [AriaRuntime-1.10.334.0 (3894410)](https://d1s31zyz7dcc2d.cloudfront.net/c5e9a97ead16e216fed59fa456106921/signed_AriaRuntime-1.10.334.0-standard-universal-release.apk) | 12.4MB | 09266735e13bbd997cc7b2c20eeff98a |
 | Aria | 2022-08-02 | [AriaRuntime-1.10.841.0 (3991010)](https://d1s31zyz7dcc2d.cloudfront.net/ccd1919c326418a1b70f404a3741b37c/signed_AriaRuntime-1.10.841.0-standard-universal-release.apk) | 11.7MB | 76aec33b8ab68ef1f7e9595cb8a91a4a |
 | Aria | 2022-09-28 | [AriaRuntime-2022.2.643.0 (31307210)](https://d1s31zyz7dcc2d.cloudfront.net/239f36f2bae71d0e3ffb31cf5698aa82/signed_AriaRuntime-2022.2.643.0-standard-armeabi-v7a-release.apk) | 6.3MB | ebd7d402b8b79d743bbcf2fef9fa19bd |
+| Aria | 2022-11-30 | [AriaRuntime-2022.2.1.19.0 (31701210)](https://d1s31zyz7dcc2d.cloudfront.net/595ac228cd28046e5ebb26b3ad4cfb27/signed_AriaRuntime-2022.2.1.19.0-standard-armeabi-v7a-release.apk) | 6.4MB | 5e4cf924d2d9bd57957b9cc8d0c7b8a2 |
 |||_com.amazon.aria_
 |<br>
 | Ceviche | 2022-06-20 | [1.0.2504.0_1384010](https://d1s31zyz7dcc2d.cloudfront.net/dc0479194ce2cc3ecf4ab677a92d0443/signed_CevicheService-release.apk) | 0.5MB | 4849354aed4fa3773d907ed82a3faaff |
