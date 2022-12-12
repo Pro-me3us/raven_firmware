@@ -277,6 +277,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Settings Menu | 2022-08-03 | [1.0.5579.0-com.amazon.tv.settings.v2-jarvis_623019510](https://d1s31zyz7dcc2d.cloudfront.net/626d9f707554433f08e98728a25db9de/signed_FireTvSettings-jarvis-release_1.0.5579.0.apk) | 9.5MB | e756258030e520f4508ab4d58335c121 |
 | Settings Menu | 2022-10-12 | [1.0.6176.0-com.amazon.tv.settings.v2-jarvis_624091410](https://d1s31zyz7dcc2d.cloudfront.net/d5cb45546eeacf98fdd44966eb223664/signed_FireTvSettings-jarvis-release_1.0.6176.0.apk) | 10.4MB | 22cd2ea93c0d5c045b8d8cf3acf98de0 |
 | Settings Menu | 2022-11-16 | [1.0.6457.0-com.amazon.tv.settings.v2-jarvis_625018010](https://d1s31zyz7dcc2d.cloudfront.net/af297f38ae53b00ede46f029164107ff/signed_FireTvSettings-jarvis-release2.apk) | 10.4MB | 489341648b602ece928ca782ac22cde4 |
+| Settings Menu | 2022-12-02 | [1.0.6670.0-com.amazon.tv.settings.v2-jarvis_626013510](https://d1s31zyz7dcc2d.cloudfront.net/067fc81e364b91e409e2514369a13ac3/signed_FireTvSettings-jarvis-release1.0.6670.0_ota_release.apk) | 10.5MB | cd6b9ff7327e3876a7557e6042034914 |	
 |||_com.amazon.tv.settings.v2_
 |<br>
 | Shop TV Client | 2022-06-16 | [3.0.203357.0_300415310](https://d1s31zyz7dcc2d.cloudfront.net/d1b9f5a950065d5ebccf5d7b6e27883e/MShopAndroidTVClient-release-signed_0615release.apk) | 12.1MB | 32fb5651f1ecfdaf7081852d11c2ff31 |
