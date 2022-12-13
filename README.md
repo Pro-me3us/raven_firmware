@@ -224,7 +224,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 |||_com.amazon.ods.kindleconnect_
 |<br>
 | KSO Blackbird | 2022-05-04 | [7.5.848.0-com.amazon.kso.blackbird-fireOs_1750135110](https://d1s31zyz7dcc2d.cloudfront.net/6500221338a4a0cb032b01f8022408ef/KsoBlackbird-fireOs-release-signed-848.apk) | 2.1MB | 0c67e00aa533982538dad6944f3bc5d6 |
-| KSO Blackbird | 2022-10-12 | [7.5.939.0-com.amazon.kso.blackbird-fireOs_1750147410](https://d1s31zyz7dcc2d.cloudfront.net/e98588f9e3163dcd6980b234dea63180/signed_KsoBlackbird-fireOs-release-BlackbirdOTAThree2022.apk) | 2.1MB | 97fa9a8889512499a8d8e5e7e27e230a |
+| KSO Blackbird | 2022-10-12 | [7.5.939.0-com.amazon.kso.blackbird-fireOs_1750147410](https://d1s31zyz7dcc2d.cloudfront.net/e98588f9e3163dcd6980b234dea63180/signed_KsoBlackbird-fireOs-release-BlackbirdOTAThree2022.apk) | 2.1MB | 97fa9a8889512499a8d8e5e7e27e230a |	
+| KSO Blackbird | 2022-11-08 | [7.5.956.0-com.amazon.kso.blackbird-fireOs_1750149710](https://d1s31zyz7dcc2d.cloudfront.net/5fcfbe487a4f143df194ce5307de5371/KsoBlackbird-fireOs-release-signed-956.apk) | 2.1MB | 0814293a7235277262569ba9c3d62306 |	
 |||_com.amazon.kso.blackbird_
 |<br>
 | Live TV | 2022-09-29 | [2.0.220164.0-com.amazon.tv.livetv_1211201910](https://d1s31zyz7dcc2d.cloudfront.net/a34825690de3b3e9575f9bd852c877fc/com.amazon.tv.livetv.apk) | 12.0MB | c39aa05ae5b85e819c5619eb509a1bae |
@@ -282,6 +283,9 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Settings Menu | 2022-12-02 | [1.0.6670.0-com.amazon.tv.settings.v2-jarvis_626013510](https://d1s31zyz7dcc2d.cloudfront.net/067fc81e364b91e409e2514369a13ac3/signed_FireTvSettings-jarvis-release1.0.6670.0_ota_release.apk) | 10.5MB | cd6b9ff7327e3876a7557e6042034914 |	
 |||_com.amazon.tv.settings.v2_
 |<br>
+| Settings Help Menu | 2022-12-05 | [7.0.77.0-com.amazon.tv.csapp-jarvis_700015610](https://d1s31zyz7dcc2d.cloudfront.net/868de86918ce7ed442b8f364f9183dc2/signed_CSAppFireTV-jarvis-release-7.0.77.0.apk) | 0.9MB | 103778b74ea3c1320f7c19e26ec14539 |	
+|||_com.amazon.tv.csapp_
+|<br>	
 | Shop TV Client | 2022-06-16 | [3.0.203357.0_300415310](https://d1s31zyz7dcc2d.cloudfront.net/d1b9f5a950065d5ebccf5d7b6e27883e/MShopAndroidTVClient-release-signed_0615release.apk) | 12.1MB | 32fb5651f1ecfdaf7081852d11c2ff31 |
 | Shop TV Client | 2022-09-12 | [3.0.203418.0_300419210](https://d1s31zyz7dcc2d.cloudfront.net/2e90f4d9ed2e7d1d283b1268a4ad1e50/MShopAndroidTVClient-release-signed_0909release.apk) | 12.1MB | b160a26d16125acf238601c4a8040c3b |
 | Shop TV Client | 2022-11-06| [3.0.203475.0_300422810](https://d1s31zyz7dcc2d.cloudfront.net/a7c807528a2882b0db300970877be46e/MShopAndroidTVClient-release-signed_1105release.apk) | 12.1MB | de568c928d58d706c7ee159cbd5889f7 |
