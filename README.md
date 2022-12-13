@@ -138,6 +138,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon Music | 2022-09-15 | [3.4.594.0 (304059110)](https://d1s31zyz7dcc2d.cloudfront.net/11c37b602bdf077f5c17043808dae081/signed_DMTVAndroid-firetv-prod-arm32-rel-3.4.594.apk) | 20.7MB | 4e27fb52e278e8b2ca58a20ffe406eba |  
 | Amazon Music | 2022-10-20 | [3.4.653.0 (304064810)](https://d1s31zyz7dcc2d.cloudfront.net/ba1a80a964a8495aa6699f105e8b60ba/signed_DMTVAndroid-firetv-prod-arm32-3.4.653.0.apk) | 20.7MB | 0508ae367de9229df4ef6551a3d8c48e | 
 | Amazon Music | 2022-10-31 | [3.4.665.0 (304066010)](https://d1s31zyz7dcc2d.cloudfront.net/3b991e8bfca1002ed03576a102b6cefe/signed_DMTVAndroid-firetv-prod-arm32-release.apk) | 21.0MB | 9e054c73bc9e736e482765457f8c436f | 
+| Amazon Music | 2022-12-09 | [3.4.706.0 (304070010)](https://d1s31zyz7dcc2d.cloudfront.net/e7ff28104030d6e54061ad8350643c58/signed_DMTVAndroid-firetv-prod-arm32-3.4.706.0.apk) | 21.1MB | f44c3af91a43bed8764413f5fdba3118 | 
 |||_com.amazon.bueller.music_
 |<br>
 | Amazon Photos | 2022-02-25 | [2.14.0-883278710](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
@@ -206,6 +207,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Freevee | 2022-09-20 | [1.0.10006.0 (21787410)](https://d1s31zyz7dcc2d.cloudfront.net/944a83855c2b6e074aea6697a6080eb4/signed-app-rio-prod-hotfix-release-RC-10006.apk) | 46.6MB | 74decfb9de71b274e6c5deb54308a3b1 | 
 | Freevee | 2022-10-28 | [1.0.10610.0 (21927410)](https://d1s31zyz7dcc2d.cloudfront.net/035ccb73d011bbe006556f3f228a14d4/signed-app-scorpion-prod-RC-build-10610.apk) | 47.7MB | 1f06a94987ee6250c3fef57e088a62c3 |
 | Freevee | 2022-11-10 | [1.0.10742.0 (21961210)](https://d1s31zyz7dcc2d.cloudfront.net/9607cdcc8512e49798a72239aca9b2d2/signed-app-scorpion-patch-1-prod-RC-build-10742.apk) | 46.6MB | 8bf6e8313edb97e408d778363891de29 |
+| Freevee | 2022-12-10 | [1.0.11203.0 (22053010)](https://d1s31zyz7dcc2d.cloudfront.net/9a900bde5c8b83d5e8649ee316816a53/signed_app-prod-release.apk) | 41.3MB | be1c2b4bfbbb7d1334bf1d74aa57237e |			
 |||_com.amazon.imdb.tv.android.app_
 |<br>
 | IME (FireTV Keyboard) | 2021-11-25 | [1.0.525.0-com.amazon.tv.ime-jarvis_616013510](https://d1s31zyz7dcc2d.cloudfront.net/253d26a59b3afe872721001e0c81321f/signed_FireTvKeyboard-jarvis-release_1.0.525.0.apk) | 2.4MB | bcba4effd12755298e6a6139eb28bdb9 |
