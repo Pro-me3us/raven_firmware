@@ -146,7 +146,8 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |<br>
 | Amazon System WebView | 2022-05-16 | [100.amazon-webview-v100-4896-tv.4896.127.36 (60334632)](https://d1s31zyz7dcc2d.cloudfront.net/fb86d93c0919cf733d3a8a76004896ce/signed_AmazonWebView-debug-32-signed.apk) | 48.7MB | 3e9c436025fd2be6da60fde5016750b2 |
 | Amazon System WebView | 2022-07-08 | [102.amazon-webview-v102-5005-tv.5005.125.58 (60372032)](https://d1s31zyz7dcc2d.cloudfront.net/e3a87520bc92a5489ecaf3db12a3a359/signed_AmazonWebView-debug-32-signed.apk) | 50.4MB | 06d1b6725f246699ba90690affa20b41 |
-| Amazon System WebView | 2022-09-14 | [104.amazon-webview-v104-5112-tv.5112.114.45 (60412632) (60372032)](https://d1s31zyz7dcc2d.cloudfront.net/32b6468b7ffa4400643800d4ef0df9ab/signed_AmazonWebView-debug-32-signed.apk) | 51.2MB | f5a5a5abebcb935286b93c305ab2ce91 |
+| Amazon System WebView | 2022-09-14 | [104.amazon-webview-v104-5112-tv.5112.114.45 (60412632)](https://d1s31zyz7dcc2d.cloudfront.net/32b6468b7ffa4400643800d4ef0df9ab/signed_AmazonWebView-debug-32-signed.apk) | 51.2MB | f5a5a5abebcb935286b93c305ab2ce91 |
+| Amazon System WebView | 2022-11-21 | [106.amazon-webview-v106-5249-tv.5249.170.60 (60464032)](https://d1s31zyz7dcc2d.cloudfront.net/aff95dfd20aebf9ea4cbe14302cb1ccb/signed_AmazonWebView-debug-32-signed.apk) | 51.6MB | 99020f2465c96e81f63bb7a1d1f9ffcc |	
 |||_com.amazon.webview.chromium_
 |<br>
 | Aria | 2022-04-20 | [AriaRuntime-1.10.334.0 (3894410)](https://d1s31zyz7dcc2d.cloudfront.net/c5e9a97ead16e216fed59fa456106921/signed_AriaRuntime-1.10.334.0-standard-universal-release.apk) | 12.4MB | 09266735e13bbd997cc7b2c20eeff98a |
