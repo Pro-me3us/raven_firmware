@@ -234,6 +234,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Live TV | 2022-10-28 | [2.0.220319.0-com.amazon.tv.livetv_1211301610](https://d1s31zyz7dcc2d.cloudfront.net/aa359dc0ffe6dc5341b348cc8740fb93/12113016.apk) | 12.0MB | 85229bd0982644b54bf6b331f298f1aa |
 | Live TV | 2022-11-02 | [2.0.220357.0-com.amazon.tv.livetv_1211350110](https://d1s31zyz7dcc2d.cloudfront.net/aa359dc0ffe6dc5341b348cc8740fb93/12113016.apk) | 12.0MB | 12f8588dd2d3612989b1f10fff6d3a9e |
 | Live TV | 2022-11-15 | [2.0.220454.0-com.amazon.tv.livetv_1211360010](https://d1s31zyz7dcc2d.cloudfront.net/84a2eb0f2fd802e41c0371c408220568/com.amazon.tv.livetv.apk) | 12.0MB | e7e394b500831936ad7951522040b6f0 |
+| Live TV | 2022-12-13 | [2.0.220734.0-com.amazon.tv.livetv_1211450110](https://d1s31zyz7dcc2d.cloudfront.net/1723e29a0260c8dcccf0b9158c109210/com.amazon.tv.livetv.apk) | 12.0MB | 105208265a2f248fe79c748a9797edf4 |
 |||_com.amazon.tv.livetv_
 |<br>
 | Multimodal SmartHome | 2020-08-28 | [1.0.204315.0_1927310](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 8.9MB | 499d490732d9d843249280914832675b |
