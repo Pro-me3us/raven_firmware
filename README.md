@@ -131,6 +131,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |<br>
 | Amazon Live Shopping | 2022-09-12 | [3.0.203781.0_2025210](https://d1s31zyz7dcc2d.cloudfront.net/cbf7089ae485cfc3c5e4f491130ce04a/MShopAndroidTV3PClient-release-signed_0909release.apk) | 21.4MB | db242a5f4e0a18181c2b07c3f8128249 | 
 | Amazon Live Shopping | 2022-11-06 | [3.0.203843.0_2028810](https://d1s31zyz7dcc2d.cloudfront.net/c771d84cd52580a7d1e7796956ace670/MShopAndroidTV3PClient-release-signed_1105release.apk) | 21.4MB | 5eeafc94cadc7165336cbed458964f43 | 
+| Amazon Live Shopping | 2022-12-19 | [3.0.203884.0_2031210](https://d1s31zyz7dcc2d.cloudfront.net/6370d9c62d9fac2a4a41c74ba5711529/MShopAndroidTV3PClient-release-signed_release221216.apk) | 21.4MB | 34facebc642fda1ed15d0c3b41f62b9e | 
 |||_com.amazon.shoptv.firetv.client_
 |<br>
 | Amazon Music | 2022-07-15 | [3.4.495.0 (304048710)](https://d1s31zyz7dcc2d.cloudfront.net/0ba33a795feeb233d618a9097a3909d1/signed_DMTVAndroid-firetv-prod-arm32-rel-3.4.495.apk) | 20.5MB | 64eb191c677bf0f2e68429fc61ad3773 |
@@ -272,7 +273,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Prime Video | 2022-11-14 | [PVFTV-51.1498-L](https://d1s31zyz7dcc2d.cloudfront.net/de02b9270ab8cce42fc1579af06ee9c8/Firebat-livingRoom-release-signed_51149810.apk) | 12.5MB | 4678acb41bf841521e010b3cf6f7844d | 
 | Prime Video | 2022-12-05 | [PVFTV-51.1597-L](https://d1s31zyz7dcc2d.cloudfront.net/dfd8daa56486edf41e52f1d4e69d9506/Firebat-livingRoom-release-signed_51159710.apk) | 12.5MB | 378ab042401ae53ea9840137ed9ea5a0 | 
 | Prime Video | 2022-12-07 | [PVFTV-51.1600-L](https://d1s31zyz7dcc2d.cloudfront.net/fa48cf5976861a5265250d46881cc3ab/Firebat-livingRoom-release-signed_51160010.apk) | 12.5MB | 6ee8dcdf69e21e7f5358a3c42de4d86a | 
-| Prime Video | 2022-12-21 | [PVFTV-51.1639-L](https://d1s31zyz7dcc2d.cloudfront.net/2ccae56f7c432ade2a6bac77eeedb78d/Firebat-livingRoom-release-signed_51163910.apk) | 12.5MB | c763f48afc10f12f3bdffc83b3a67bb9 | 	
+| Prime Video | 2022-12-21 | [PVFTV-51.1639-L](https://d1s31zyz7dcc2d.cloudfront.net/2ccae56f7c432ade2a6bac77eeedb78d/Firebat-livingRoom-release-signed_51163910.apk) | 12.5MB | c763f48afc10f12f3bdffc83b3a67bb9 | 
+| Prime Video | 2022-12-27 | [PVFTV-51.1645-L](https://d1s31zyz7dcc2d.cloudfront.net/55cab9051b6e8bc21fcb992543e85972/Firebat-livingRoom-release-signed_51164510.apk) | 12.5MB | daa653f2f83a3b6a867dbe76b0315167 | 
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
@@ -292,7 +294,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 |<br>	
 | Shop TV Client | 2022-06-16 | [3.0.203357.0_300415310](https://d1s31zyz7dcc2d.cloudfront.net/d1b9f5a950065d5ebccf5d7b6e27883e/MShopAndroidTVClient-release-signed_0615release.apk) | 12.1MB | 32fb5651f1ecfdaf7081852d11c2ff31 |
 | Shop TV Client | 2022-09-12 | [3.0.203418.0_300419210](https://d1s31zyz7dcc2d.cloudfront.net/2e90f4d9ed2e7d1d283b1268a4ad1e50/MShopAndroidTVClient-release-signed_0909release.apk) | 12.1MB | b160a26d16125acf238601c4a8040c3b |
-| Shop TV Client | 2022-11-06| [3.0.203475.0_300422810](https://d1s31zyz7dcc2d.cloudfront.net/a7c807528a2882b0db300970877be46e/MShopAndroidTVClient-release-signed_1105release.apk) | 12.1MB | de568c928d58d706c7ee159cbd5889f7 |
+| Shop TV Client | 2022-11-06 | [3.0.203475.0_300422810](https://d1s31zyz7dcc2d.cloudfront.net/a7c807528a2882b0db300970877be46e/MShopAndroidTVClient-release-signed_1105release.apk) | 12.1MB | de568c928d58d706c7ee159cbd5889f7 |
+| Shop TV Client | 2022-12-19 | [3.0.203505.0_300424810](https://d1s31zyz7dcc2d.cloudfront.net/90f0e46923f03e7345133539b23190fb/MShopAndroidTVClient-release-signed_release221216.apk) | 12.1MB | 6be1bed4bc4bf1a1269c5e51ec082107 |
 |||_com.amazon.shoptv.client_
 |<br>
 | SSDP Service | 2022-09-28 | [1.0.100053.00](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
