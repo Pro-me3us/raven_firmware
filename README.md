@@ -190,6 +190,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | FireTV Player | 2022-11-07 | [FireTv.335.7201](https://d1s31zyz7dcc2d.cloudfront.net/0b832e41ecbd3b166b6518f1a0042d14/com.amazon.avod.apk) | 29.9MB | 5efb79f1e2103b8761c6220f5ac008b4 | 
 | FireTV Player | 2022-11-23 | [FireTv.336.12801](https://d1s31zyz7dcc2d.cloudfront.net/2afd729976f6e366ae0528645096eb7b/com.amazon.avod.apk) | 30.0MB | 6c593b3a327b94dc6634820dd2daf4c3 | 
 | FireTV Player | 2022-12-07 | [FireTv.336.23101](https://d1s31zyz7dcc2d.cloudfront.net/22bdf76dae784b59d63bae1ef8544ee6/com.amazon.avod.apk) | 30.0MB | d64c7cfaf79c663d14b98c7493dd06a0 | 
+| FireTV Player | 2022-12-24 | [FireTv.337.13801](https://d1s31zyz7dcc2d.cloudfront.net/ad5298230766aa6d0f05fac57801a241/com.amazon.avod.apk) | 30.0MB | d564b29b0603d27ea45c3f7b707dd82c |
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
@@ -300,6 +301,10 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 |<br>
 | SSDP Service | 2022-09-28 | [1.0.100053.00](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
 |||_com.amazon.ssdpservice_
+|<br>
+| System Status Monitor | 2022-09-12 | [1.0.526.0-com.amazon.ssmsys_5043110](https://d1s31zyz7dcc2d.cloudfront.net/30c1fc0669bd72a8ef2551e8b1e8c559/com.amazon.ssmsys.apk) | 2.5MB | b0031f19800b9b50a4fc08b8904d1508 |
+|||_com.amazon.ssmsys_
+
 
 Note: Many apps are not device specific, so the same version is used on the Cube as other FireStick models.  Check the <a href="https://gist.github.com/JulyIghor/d3d3dd460527a1d2b5b67954160d4abf">4K Stick page</a> for a more comprehensive  list of apps and versions.  Use the MD5 value for any app above to verify that the 4K stick is using the same app version line.  Listed app dates are an approximation based on the server availability date.
 
