@@ -122,6 +122,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon App Store | 2022-08-30 | [release-8.5010.5.v.x.217901.0_422303610](https://d1s31zyz7dcc2d.cloudfront.net/cb7946c99bcf75e3eddfabbd0163f1be/com.amazon.venezia.apk) | 20.5MB | d422ea1e70b64e6fc37b9d2897fa6699 |
 | Amazon App Store | 2022-10-12 | [release-8.5011.5.v.x.218736.0_422472210](https://d1s31zyz7dcc2d.cloudfront.net/74d41af2620121deaec49610e89940ff/com.amazon.venezia.apk) | 21.3MB | 3a42d5ff9eca4eb3938abd4f9a36658d |
 | Amazon App Store | 2022-11-09 | [release-8.5012.5.v.x.218938.0_422517410](https://d1s31zyz7dcc2d.cloudfront.net/f92bdf1adaa676787fcd823da6fcf579/Nairobi_nontank.apk) | 21.2MB | e7df55a801fb23ae14f5db7e02e83db4 |	
+| Amazon App Store | 2022-12-25 | [release-8.5013.5.v.x.219477.0_422639210](https://d1s31zyz7dcc2d.cloudfront.net/c818e2ab45804b6e95ca844f0b0d5896/A1_5.v.x.219477.0.apk) | 21.2MB | 7bbb99b6511bf69574904832791dcd3f |	
 |||_com.amazon.venezia_
 |<br>
 | Amazon Game Center | 2022-10-14 | [1.0.735.0-com.amazon.gamehub-tv_1042710](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | 8.2MB | b6b5467b8ac9bb2968c0dd8e9f475801 |
@@ -162,8 +163,10 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Ceviche | 2022-09-12 | [1.0.2625.0_1397010](https://d1s31zyz7dcc2d.cloudfront.net/2de0ba9f24c6cb67a63fa05dc9777d6c/signed_CevicheService-release1.apk) | 0.5MB | 01df45e28a18d649f0f6ed4b7df67994 | 
 |||_com.amazon.ceviche_
 |<br>
+| Device Control | 2020-09-03 | [1.0.207983.0_1001626310](https://d1s31zyz7dcc2d.cloudfront.net/7dfab9016a594f5ed01f1f62621cdc60/FireTV_DeviceControl-release-signed_3.apk) | 1.9MB | 906c598a3a8286664d9b013cfd93e23a |
 | Device Control | 2020-11-30 | [1.0.208492.0_1001745510](https://d1s31zyz7dcc2d.cloudfront.net/6a928ad0d2fb458921ee410c28fd99fd/FireTV_DeviceControl-release-signed.apk) | 2.0MB | 01af64057aa81eda89ea03b729208999 |
 | Device Control | 2021-11-22 | [1.0.210503.0_1002079510](https://d1s31zyz7dcc2d.cloudfront.net/589c6f624e7224bb15bbe27594aee072/210503_FireTV_DeviceControl-release-signed.apk) | 2.2MB | 30815e95a584164061a5ac84969d35cd |
+| Device Control | 2022-11-03 | [1.0.212535.0_1002339310](https://d1s31zyz7dcc2d.cloudfront.net/d29271385b8bfd322e249fe8e2c43474/212535_FireTV_DeviceControl-release-signed.apk) | 2.4MB | 1b84611c4f10968bf0404e1317b633db |
 |||_com.amazon.tv.devicecontrol_
 |<br>
 | Dial Service | 2022-09-28 | [1.0.100053.00](https://d1s31zyz7dcc2d.cloudfront.net/8dfd7f1fa246c1797d5bc0f081090bed/DialService.apk) | 83.9KB | f6d20867031f2640b976a631ec0c6698 | 
@@ -172,8 +175,10 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 Easy Upgrade | 2020-11-24 | [1.0.220.0-com.amazon.tv.easyupgrade_2001510](https://d1s31zyz7dcc2d.cloudfront.net/e7cefc497680ddb06521191cbfa12bc2/signed_FireTvEasyUpgrade-release.apk) | 2.2MB | 9cff50037876b01edc36fa2278d72543 |
 Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310](https://d1s31zyz7dcc2d.cloudfront.net/cf47a727408433c8b120b956c3d12689/signed_FireTvEasyUpgrade-jarvis-release.apk) | 0.9MB | 277aae9e63daef9ebae7a7c0064223fd |
 |||_com.amazon.tv.easyupgrade_
-|<br>
+|<br>	
+| Equipment Control | 2020-08-24 | [1.0.210034.0_101435510](https://d1s31zyz7dcc2d.cloudfront.net/78d9dc8c2ec3028895f2b7ce18ad2656/FireTV_OZ_OOBE_Settings-release-signed_1.apk) | 9.4MB | 71538e441fddfd6f7e3117a33c07feda |
 | Equipment Control | 2020-11-27 | [1.0.211024.0-caltrain_101764410](https://d1s31zyz7dcc2d.cloudfront.net/bd39b928408e3ffd0a76adb09ffc1f28/FireTV_OZ_OOBE_Settings-caltrain-release-signed_4.apk) | 8.9MB | 113aef9c99e066c8e87f4ecc3331ce39 |
+| Equipment Control | 2022-11-03 | [1.0.215723.0-jarvis_1011923010](https://d1s31zyz7dcc2d.cloudfront.net/ecfc26b8c38f61c7b3625f5e476ed369/215723_FireTV_OZ_OOBE_Settings-jarvis-release-signed.apk) | 10.9MB | baa37a73745883293eb9b86a263e4977 |
 |||_com.amazon.tv.devicecontrolsettings_
 |<br>
 | FireTV FFS (Frustration Free Setup) Provisionee Client | 2021-04-01 | [1.0.117.0-com.amazon.tv.ffsprovisioneeclient_4011110](https://d1s31zyz7dcc2d.cloudfront.net/3cac32750229ea2ec260da0fa5b65ed4/signed_FireTvFFSProvisionee-release20.apk) | 5.6MB | 6cf86ec635264c96e36921428b16ed87 |
@@ -237,6 +242,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Live TV | 2022-11-02 | [2.0.220357.0-com.amazon.tv.livetv_1211350110](https://d1s31zyz7dcc2d.cloudfront.net/aa359dc0ffe6dc5341b348cc8740fb93/12113016.apk) | 12.0MB | 12f8588dd2d3612989b1f10fff6d3a9e |
 | Live TV | 2022-11-15 | [2.0.220454.0-com.amazon.tv.livetv_1211360010](https://d1s31zyz7dcc2d.cloudfront.net/84a2eb0f2fd802e41c0371c408220568/com.amazon.tv.livetv.apk) | 12.0MB | e7e394b500831936ad7951522040b6f0 |
 | Live TV | 2022-12-13 | [2.0.220734.0-com.amazon.tv.livetv_1211450110](https://d1s31zyz7dcc2d.cloudfront.net/1723e29a0260c8dcccf0b9158c109210/com.amazon.tv.livetv.apk) | 12.0MB | 105208265a2f248fe79c748a9797edf4 |
+| Live TV | 2022-12-23 | [2.0.220813.0-com.amazon.tv.livetv_1211450110](https://d1s31zyz7dcc2d.cloudfront.net/43d2a9cb2bd8af48aa2371f15460bacb/com.amazon.tv.livetv.apk) | 12.0MB | e4dfba8349954999e4e27d91b277971a |
 |||_com.amazon.tv.livetv_
 |<br>
 | Multimodal SmartHome | 2020-08-28 | [1.0.204315.0_1927310](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 8.9MB | 499d490732d9d843249280914832675b |
@@ -299,6 +305,9 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Shop TV Client | 2022-12-19 | [3.0.203505.0_300424810](https://d1s31zyz7dcc2d.cloudfront.net/90f0e46923f03e7345133539b23190fb/MShopAndroidTVClient-release-signed_release221216.apk) | 12.1MB | 6be1bed4bc4bf1a1269c5e51ec082107 |
 |||_com.amazon.shoptv.client_
 |<br>
+| Silk | 2022-12-03 | [106.5.14.5249.208.30](https://d1s31zyz7dcc2d.cloudfront.net/4b0c7dbd5ce6a4c48a0e9417c094daa4/signed_slate_fire_tv_v106_5_14_arm.apk) | 70.3MB | f06852725990d5a5f486cafc53147a5b |
+|||_com.amazon.cloud9_
+|<br>	
 | SSDP Service | 2022-09-28 | [1.0.100053.00](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
 |||_com.amazon.ssdpservice_
 |<br>
