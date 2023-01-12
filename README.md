@@ -111,6 +111,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |<br>
 | Alexa Video Player | 2022-07-07 | [1.0.209990.0-firetv_267585910](https://d1s31zyz7dcc2d.cloudfront.net/f03236c4fe5deac147333c21f1334311/signed_Cardinal-1.0.209990.0-267585910-firetv-armeabi-v7a-release.apk) | 14.9MB | fd559638853669db08383f03ea9fd793 |
 | Alexa Video Player | 2022-10-18 | [1.0.210255.0-firetv_267904110](https://d1s31zyz7dcc2d.cloudfront.net/cc3c9aff919542f628a2ea239e7de9d0/signed_Cardinal-1.0.210255.0-267904110-firetv-armeabi-v7a-release.apk) | 14.9MB | 910adb83f5db059e1cb3724c74d0d00e |
+| Alexa Video Player | 2023-01-04 | [1.0.210574.0-firetv_268258610](https://d1s31zyz7dcc2d.cloudfront.net/7e64c36aa45fc7441ab56c4998eb5774/signed_Cardinal-1.0.210574.0-268258610-firetv-armeabi-v7a-release.apk) | 15.6MB | 53461e6f167dc3072f0a0bfeba65ccd5 |			
 |||_com.amazon.cardinal_
 |<br>
 | Alexa Voice Layer | 2022-08-26 | [1.0.201011.0-stark_901024610](https://d1s31zyz7dcc2d.cloudfront.net/3e335694499ac269268a56a75f6dc2d9/com.amazon.avl-stark-release-signed1011.apk) | 1.0MB | a3249fc0b736d3710df32f1703fe6f5d |
