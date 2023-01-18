@@ -210,6 +210,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | FireTV Screensaver | 2022-07-22 | [1.25.0.44 (26004410)](https://d1s31zyz7dcc2d.cloudfront.net/df05111c09dd4254fd89fd1225e07b93/signed_FTVScreensaverApp-1.25.0.44.apk) | 7.3MB | 5258e2cb1b1de707ecc10bfa07150699 |
 | FireTV Screensaver | 2022-09-27 | [1.26.1.43 (27004310)](https://d1s31zyz7dcc2d.cloudfront.net/04a63ae1ba58f4105ced5315f80245f8/signed_FTVScreensaverApp-1.26.1.1.apk) | 7.4MB | adbce940f62fe888d65b382cf2eff788 |
 | FireTV Screensaver | 2022-10-27 | [1.27.0.40 (28004010)](https://d1s31zyz7dcc2d.cloudfront.net/53196d0f1e6f15eca739ec5fd16f1aa0/signed_FTVScreensaverApp-1.27.0.40.apk) | 7.4MB | e1aa4b1b788d83c8783945e3d5d681b9 |
+| FireTV Screensaver | 2023-01-03 | [1.28.0.21 (29002110)](https://d1s31zyz7dcc2d.cloudfront.net/4f6c1a76fa3ab6e74d71d4c883cd533a/signed_FTVScreensaverApp-1.28.0.21.apk) | 7.5MB | c37550ec0edf3d769707eb59597df4f2 |
 |||_com.amazon.ftv.screensaver_
 |<br>
 | Freevee | 2022-07-12 | [1.0.9395.0 (21653810)](https://d1s31zyz7dcc2d.cloudfront.net/4ef9d9f2c614068625572088ddbbe267/signed-app-playdoh-prod-release-RC-9395.apk) | 45.7MB | 62b8adb1f353856b183f37449667b33a |
