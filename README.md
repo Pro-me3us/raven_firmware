@@ -165,6 +165,9 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Ceviche | 2022-09-12 | [1.0.2625.0_1397010](https://d1s31zyz7dcc2d.cloudfront.net/2de0ba9f24c6cb67a63fa05dc9777d6c/signed_CevicheService-release1.apk) | 0.5MB | 01df45e28a18d649f0f6ed4b7df67994 | 
 |||_com.amazon.ceviche_
 |<br>
+| ClientRenderer | 2023-01-23 | [1.3 (103050010)](https://d1s31zyz7dcc2d.cloudfront.net/8a452aa24a7cde6fc0a17cc9d8fca2be/FXPArc-release_500.apk) | 12.4MB | c53e982a2ef64770abca9708b5e6bb57 | 
+|||_com.amazon.tv.arc_
+|<br>	
 | Device Control | 2020-09-03 | [1.0.207983.0_1001626310](https://d1s31zyz7dcc2d.cloudfront.net/7dfab9016a594f5ed01f1f62621cdc60/FireTV_DeviceControl-release-signed_3.apk) | 1.9MB | 906c598a3a8286664d9b013cfd93e23a |
 | Device Control | 2020-11-30 | [1.0.208492.0_1001745510](https://d1s31zyz7dcc2d.cloudfront.net/6a928ad0d2fb458921ee410c28fd99fd/FireTV_DeviceControl-release-signed.apk) | 2.0MB | 01af64057aa81eda89ea03b729208999 |
 | Device Control | 2021-11-22 | [1.0.210503.0_1002079510](https://d1s31zyz7dcc2d.cloudfront.net/589c6f624e7224bb15bbe27594aee072/210503_FireTV_DeviceControl-release-signed.apk) | 2.2MB | 30815e95a584164061a5ac84969d35cd |
