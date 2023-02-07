@@ -25,7 +25,10 @@ For other FireTV device firmware visit the following:<br>
 | 2022-09-20 | FireOS 7.6.0.3 (PS7603/3110) | [update-kindle-raven-PS7603_user_3110_0025065956996.bin](https://d1s31zyz7dcc2d.cloudfront.net/96b36f83efb9d71e0107382ffd92121d/update-kindle-raven-PS7603_user_3110_0025065956996.bin) | 861.4MB | 1d7b57a994e3445f785731bdadb2e7ab |
 | 2022-10-12 | FireOS 7.6.0.8 (PS7608/3614) | [update-kindle-raven-PS7608_user_3614_0025468739204.bin](https://d1s31zyz7dcc2d.cloudfront.net/d0fe5bc9268a3fb673783e285d7fb3ac/update-kindle-raven-PS7608_user_3614_0025468739204.bin) | 863.1MB | 6ffa919f98f10fb7879a08de0e6ee611 
 | 2022-11-19 | FireOS 7.6.1.4 (PS7614/3227) | [update-kindle-raven-PS7614_user_3227_0025938402180.bin](https://d1s31zyz7dcc2d.cloudfront.net/3a2993e8ea86fa123269a603126c90e8/update-kindle-raven-PS7614_user_3227_0025938402180.bin) | 870.2MB | 2ee4993e33e6ec725aa48fd90360f407 
+| 2023-01-24 | FireOS 7.6.2.4 (PS7624/3337) | [update-kindle-raven-PS7624_user_3337_0026810845572.bin](https://d1s31zyz7dcc2d.cloudfront.net/acc19da64a2a8855fe8e47c53c1827a8/update-kindle-raven-PS7624_user_3337_0026810845572.bin) | 847.2MB | c925977c1fd35eeb7f0be92a4df52f7e 
 
+		
+		
 
 
 ### Differential Firmware Update
@@ -48,9 +51,8 @@ For other FireTV device firmware visit the following:<br>
 | <sub>2022-09-20</sub> | <sub>FireOS 7.2.9.2 (PS7292/2984)</sub> | <sub>FireOS 7.6.0.3 (PS7603/3110)</sub> | <sub>[update-raven-diff-PS7292.2984N_2984_0024126400644-to-PS7603_user_3110_0025065956996.bin](https://d1s31zyz7dcc2d.cloudfront.net/25977e754fba338b16a033836353bf52/update-raven-diff-PS7292.2984N_2984_0024126400644-to-PS7603_user_3110_0025065956996.bin)</sub> | <sub>136.8MB</sub> | <sub>ab82ecead2ae69b3149aeb7043744649</sub> |
 | <sub>2022-10-12</sub> | <sub>FireOS 7.6.0.3 (PS7603/3110)</sub> | <sub>FireOS 7.6.0.8 (PS7608/3614)</sub> | <sub>[update-raven-diff-PS7603.3110N_3110_0025065956996-to-PS7608_user_3614_0025468739204.bin](https://d1s31zyz7dcc2d.cloudfront.net/61fe280dc5c0e692e7a4f9b737512a56/update-raven-diff-PS7603.3110N_3110_0025065956996-to-PS7608_user_3614_0025468739204.bin)</sub> | <sub>48.7MB</sub> | <sub>67f7939754e282c95f28855436aa9e58</sub> |
 | <sub>2022-11-19</sub> | <sub>FireOS 7.6.0.8 (PS7608/3614)</sub> | <sub>FireOS 7.6.1.4 (PS7614/3227)</sub> | <sub>[update-raven-diff-PS7608.3614N_3614_0025468739204-to-PS7614_user_3227_0025938402180.bin](https://d1s31zyz7dcc2d.cloudfront.net/bb19025c0682a708ec01add39ff1b830/update-raven-diff-PS7608.3614N_3614_0025468739204-to-PS7614_user_3227_0025938402180.bin)</sub> | <sub>153.5MB</sub> | <sub>0ca668980ec077279f5f6cb554eaad01</sub> |
-
-
-		
+| <sub>2023-01-24</sub> | <sub>FireOS 7.6.1.4 (PS7614/3227)</sub> | <sub>FireOS 7.6.2.4 (PS7624/3337)</sub> | <sub>[update-raven-diff-PS7614.3227N_3227_0025938402180-to-PS7624_user_3337_0026810845572.bin](https://d1s31zyz7dcc2d.cloudfront.net/b4221eb1230b35872ab1d2b4f1c1aaa4/update-raven-diff-PS7614.3227N_3227_0025938402180-to-PS7624_user_3337_0026810845572.bin)</sub> | <sub>158.8MB</sub> | <sub>c77f4bdced70693a0426444c3d72e54f</sub> |
+| <sub>2023-01-24</sub> | <sub>FireOS 7.6.2.4 (PS7624/3336)</sub> | <sub>FireOS 7.6.2.4 (PS7624/3337)</sub> | <sub>[update-raven-diff-PS7624.3336N_3336_0026810845316-to-PS7624_user_3337_0026810845572.bin](https://d1s31zyz7dcc2d.cloudfront.net/3f0784f1c685fdd23e24a55bbd24b186/update-raven-diff-PS7624.3336N_3336_0026810845316-to-PS7624_user_3337_0026810845572.bin)</sub> | <sub>23.3MB</sub> | <sub>63d5aca8b96a728dc086afe5c4b33c0f</sub> |
 
 
 
@@ -125,6 +127,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon App Store | 2022-10-12 | [release-8.5011.5.v.x.218736.0_422472210](https://d1s31zyz7dcc2d.cloudfront.net/74d41af2620121deaec49610e89940ff/com.amazon.venezia.apk) | 21.3MB | 3a42d5ff9eca4eb3938abd4f9a36658d |
 | Amazon App Store | 2022-11-09 | [release-8.5012.5.v.x.218938.0_422517410](https://d1s31zyz7dcc2d.cloudfront.net/f92bdf1adaa676787fcd823da6fcf579/Nairobi_nontank.apk) | 21.2MB | e7df55a801fb23ae14f5db7e02e83db4 |	
 | Amazon App Store | 2022-12-25 | [release-8.5013.5.v.x.219477.0_422639210](https://d1s31zyz7dcc2d.cloudfront.net/c818e2ab45804b6e95ca844f0b0d5896/A1_5.v.x.219477.0.apk) | 21.2MB | 7bbb99b6511bf69574904832791dcd3f |	
+| Amazon App Store | 2023-01-12 | [release-8.5014.5.v.x.219750.0_422717110](https://d1s31zyz7dcc2d.cloudfront.net/c3ebb563e0dbc2c9fdcea4f5f169c0b0/5.v.x.219750.0-signed.apk) | 21.4MB | 0ac52f98f2bd763d2465821550de1147 |				
 |||_com.amazon.venezia_
 |<br>
 | Amazon Game Center | 2022-10-14 | [1.0.735.0-com.amazon.gamehub-tv_1042710](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | 8.2MB | b6b5467b8ac9bb2968c0dd8e9f475801 |
@@ -258,6 +261,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Live TV | 2022-11-15 | [2.0.220454.0-com.amazon.tv.livetv_1211360010](https://d1s31zyz7dcc2d.cloudfront.net/84a2eb0f2fd802e41c0371c408220568/com.amazon.tv.livetv.apk) | 12.0MB | e7e394b500831936ad7951522040b6f0 |
 | Live TV | 2022-12-13 | [2.0.220734.0-com.amazon.tv.livetv_1211450110](https://d1s31zyz7dcc2d.cloudfront.net/1723e29a0260c8dcccf0b9158c109210/com.amazon.tv.livetv.apk) | 12.0MB | 105208265a2f248fe79c748a9797edf4 |
 | Live TV | 2022-12-23 | [2.0.220813.0-com.amazon.tv.livetv_1211450110](https://d1s31zyz7dcc2d.cloudfront.net/43d2a9cb2bd8af48aa2371f15460bacb/com.amazon.tv.livetv.apk) | 12.0MB | e4dfba8349954999e4e27d91b277971a |
+| Live TV | 2023-01-31 | [2.0.221083.0-com.amazon.tv.livetv_1211503310](https://d1s31zyz7dcc2d.cloudfront.net/af8286aa130294569654f93ed89b612b/com.amazon.tv.livetv.apk) | 12.1MB | 3538a85d8b415a60dc09b4974d0055d8 |		
 |||_com.amazon.tv.livetv_
 |<br>
 | Multimodal SmartHome | 2020-08-28 | [1.0.204315.0_1927310](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 8.9MB | 499d490732d9d843249280914832675b |
