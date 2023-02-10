@@ -134,6 +134,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon Game Center | 2022-10-20 | [1.0.767.0-com.amazon.gamehub-tv_1044510](https://d1s31zyz7dcc2d.cloudfront.net/d71f3befc625aab102ee5ddc1ba218eb/767.0-GameHubAPK-tv-release-signed_1044510.apk) | 8.3MB | 8b5171d8304f7c1f2e5ad0edd28b7ede |
 | Amazon Game Center | 2022-11-11 | [1.0.885.0-com.amazon.gamehub-tv_1049110](https://d1s31zyz7dcc2d.cloudfront.net/7a6bd4125f9153603f9d25081a9406f6/885.0-GameHubAPK-tv-release-signed_1048510.apk) | 8.8MB | 32e37d3759a4037965c845adb8b50fe8 | 
 | Amazon Game Center | 2022-12-20 | [1.0.971.0-com.amazon.gamehub-tv_1052610](https://d1s31zyz7dcc2d.cloudfront.net/4605a378e62b4c1c95dbae413adc147b/signed_GameHubAPK-tv-release-971.apk) | 8.9MB | c4c692fc8fa21ff77d8a48b2333dbe3a |
+| Amazon Game Center | 2023-02-03 | [1.0.1221.0-com.amazon.gamehub-tv_1053910](https://d1s31zyz7dcc2d.cloudfront.net/8052348700f41a73ec35196a21610db0/signed_GameHubAPK-tv1221-release.apk) | 8.9MB | 1d6af575fb7a8b809f6c82508276a77a |
 |||_com.amazon.gamehub_
 |<br>
 | Amazon Live Shopping | 2022-09-12 | [3.0.203781.0_2025210](https://d1s31zyz7dcc2d.cloudfront.net/cbf7089ae485cfc3c5e4f491130ce04a/MShopAndroidTV3PClient-release-signed_0909release.apk) | 21.4MB | db242a5f4e0a18181c2b07c3f8128249 | 
@@ -164,6 +165,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Aria | 2022-08-02 | [AriaRuntime-1.10.841.0 (3991010)](https://d1s31zyz7dcc2d.cloudfront.net/ccd1919c326418a1b70f404a3741b37c/signed_AriaRuntime-1.10.841.0-standard-universal-release.apk) | 11.7MB | 76aec33b8ab68ef1f7e9595cb8a91a4a |
 | Aria | 2022-09-28 | [AriaRuntime-2022.2.643.0 (31307210)](https://d1s31zyz7dcc2d.cloudfront.net/239f36f2bae71d0e3ffb31cf5698aa82/signed_AriaRuntime-2022.2.643.0-standard-armeabi-v7a-release.apk) | 6.3MB | ebd7d402b8b79d743bbcf2fef9fa19bd |
 | Aria | 2022-11-30 | [AriaRuntime-2022.2.1.19.0 (31701210)](https://d1s31zyz7dcc2d.cloudfront.net/595ac228cd28046e5ebb26b3ad4cfb27/signed_AriaRuntime-2022.2.1.19.0-standard-armeabi-v7a-release.apk) | 6.4MB | 5e4cf924d2d9bd57957b9cc8d0c7b8a2 |
+| Aria | 2023-01-03 | [AriaRuntime-2023.1.165.0 (31916010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/495e5175e00625ba5e72e3db9478cd5c/signed_AriaRuntime-2023.1.165.0-standard-armeabi-v7a-release.apk) | 6.9MB | 8617d604883458fdab44b6d52bbcfd8f |
 |||_com.amazon.aria_
 |<br>
 | Ceviche | 2022-06-20 | [1.0.2504.0_1384010](https://d1s31zyz7dcc2d.cloudfront.net/dc0479194ce2cc3ecf4ab677a92d0443/signed_CevicheService-release.apk) | 0.5MB | 4849354aed4fa3773d907ed82a3faaff |
