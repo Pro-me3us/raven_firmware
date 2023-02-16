@@ -114,7 +114,8 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |<br>
 | Alexa Video Player | 2022-07-07 | [1.0.209990.0-firetv_267585910](https://d1s31zyz7dcc2d.cloudfront.net/f03236c4fe5deac147333c21f1334311/signed_Cardinal-1.0.209990.0-267585910-firetv-armeabi-v7a-release.apk) | 14.9MB | fd559638853669db08383f03ea9fd793 |
 | Alexa Video Player | 2022-10-18 | [1.0.210255.0-firetv_267904110](https://d1s31zyz7dcc2d.cloudfront.net/cc3c9aff919542f628a2ea239e7de9d0/signed_Cardinal-1.0.210255.0-267904110-firetv-armeabi-v7a-release.apk) | 14.9MB | 910adb83f5db059e1cb3724c74d0d00e |
-| Alexa Video Player | 2023-01-04 | [1.0.210574.0-firetv_268258610](https://d1s31zyz7dcc2d.cloudfront.net/7e64c36aa45fc7441ab56c4998eb5774/signed_Cardinal-1.0.210574.0-268258610-firetv-armeabi-v7a-release.apk) | 15.6MB | 53461e6f167dc3072f0a0bfeba65ccd5 |			
+| Alexa Video Player | 2023-01-04 | [1.0.210574.0-firetv_268258610](https://d1s31zyz7dcc2d.cloudfront.net/7e64c36aa45fc7441ab56c4998eb5774/signed_Cardinal-1.0.210574.0-268258610-firetv-armeabi-v7a-release.apk) | 15.6MB | 53461e6f167dc3072f0a0bfeba65ccd5 |	
+| Alexa Video Player | 2023-01-31 | [1.0.210747.0-firetv_268476510](https://d1s31zyz7dcc2d.cloudfront.net/39786ed13c31480ea5ab2054b6fde372/signed_Cardinal-1.0.210747.0-268476510-firetv-armeabi-v7a-release.apk) | 15.6MB | 971deb81255f529f37fa4ad99e5912ad |
 |||_com.amazon.cardinal_
 |<br>
 | Alexa Voice Layer | 2022-08-26 | [1.0.201011.0-stark_901024610](https://d1s31zyz7dcc2d.cloudfront.net/3e335694499ac269268a56a75f6dc2d9/com.amazon.avl-stark-release-signed1011.apk) | 1.0MB | a3249fc0b736d3710df32f1703fe6f5d |
@@ -213,6 +214,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | FireTV Player | 2022-12-24 | [FireTv.337.13801](https://d1s31zyz7dcc2d.cloudfront.net/ad5298230766aa6d0f05fac57801a241/com.amazon.avod.apk) | 30.0MB | d564b29b0603d27ea45c3f7b707dd82c |
 | FireTV Player | 2023-01-10 | [FireTv.338.11501](https://d1s31zyz7dcc2d.cloudfront.net/7156b88f94e6eee23b80688603151c94/com.amazon.avod.apk) | 28.8MB | 578935dea017acc6f66457958d204a08 |	
 | FireTV Player | 2023-01-26 | [FireTv.339.9701](https://d1s31zyz7dcc2d.cloudfront.net/41a7d69e559abd8b780a4f3dcc4c1af6/com.amazon.avod.apk) | 28.7MB | 39dd4676a03808fbd7bb453b9fa167ab |	
+| FireTV Player | 2023-02-10 | [FireTv.340.19401](https://d1s31zyz7dcc2d.cloudfront.net/284e17447933e52346cdead053f34b9a/com.amazon.avod.apk) | 28.7MB | 2638a54373cef7d949bd8f1ba2f0ceed |
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
@@ -304,7 +306,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Prime Video | 2022-12-07 | [PVFTV-51.1600-L](https://d1s31zyz7dcc2d.cloudfront.net/fa48cf5976861a5265250d46881cc3ab/Firebat-livingRoom-release-signed_51160010.apk) | 12.5MB | 6ee8dcdf69e21e7f5358a3c42de4d86a | 
 | Prime Video | 2022-12-21 | [PVFTV-51.1639-L](https://d1s31zyz7dcc2d.cloudfront.net/2ccae56f7c432ade2a6bac77eeedb78d/Firebat-livingRoom-release-signed_51163910.apk) | 12.5MB | c763f48afc10f12f3bdffc83b3a67bb9 | 
 | Prime Video | 2022-12-27 | [PVFTV-51.1645-L](https://d1s31zyz7dcc2d.cloudfront.net/55cab9051b6e8bc21fcb992543e85972/Firebat-livingRoom-release-signed_51164510.apk) | 12.5MB | daa653f2f83a3b6a867dbe76b0315167 | 
-| Prime Video | 2023-01-19 | [PVFTV-52.3900-L](https://d1s31zyz7dcc2d.cloudfront.net/10fdf7c5a87ea580ec94b6d9b2a7337d/Firebat-livingRoom-release-signed_52390010.apk) | 11.7MB | 49d75e1126e662d98b153e4f7e096115 |		
+| Prime Video | 2023-01-19 | [PVFTV-52.3900-L](https://d1s31zyz7dcc2d.cloudfront.net/10fdf7c5a87ea580ec94b6d9b2a7337d/Firebat-livingRoom-release-signed_52390010.apk) | 11.7MB | 49d75e1126e662d98b153e4f7e096115 |	
+| Prime Video | 2023-02-10 | [PVFTV-52.3918-L](https://d1s31zyz7dcc2d.cloudfront.net/f02bf6abcd75b8b0652a070b64b0b577/Firebat-livingRoom-release-signed_52391810.apk) | 11.7MB | e8ee57079b2b0f6d7859be274539c37d |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
