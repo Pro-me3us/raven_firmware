@@ -256,6 +256,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | KSO Blackbird | 2022-05-04 | [7.5.848.0-com.amazon.kso.blackbird-fireOs_1750135110](https://d1s31zyz7dcc2d.cloudfront.net/6500221338a4a0cb032b01f8022408ef/KsoBlackbird-fireOs-release-signed-848.apk) | 2.1MB | 0c67e00aa533982538dad6944f3bc5d6 |
 | KSO Blackbird | 2022-10-12 | [7.5.939.0-com.amazon.kso.blackbird-fireOs_1750147410](https://d1s31zyz7dcc2d.cloudfront.net/e98588f9e3163dcd6980b234dea63180/signed_KsoBlackbird-fireOs-release-BlackbirdOTAThree2022.apk) | 2.1MB | 97fa9a8889512499a8d8e5e7e27e230a |	
 | KSO Blackbird | 2022-11-08 | [7.5.956.0-com.amazon.kso.blackbird-fireOs_1750149710](https://d1s31zyz7dcc2d.cloudfront.net/5fcfbe487a4f143df194ce5307de5371/KsoBlackbird-fireOs-release-signed-956.apk) | 2.1MB | 0814293a7235277262569ba9c3d62306 |	
+| KSO Blackbird | 2023-01-23 | [7.5.978.0-com.amazon.kso.blackbird-fireOs_1750152310](https://d1s31zyz7dcc2d.cloudfront.net/17b6b650cbe9991b32c6d41cd108b290/KsoBlackbird-fireOs-release-signed-978Latest.apk) | 2.1MB | 999e574ce0feb2fd01e59d46558bce8c |
 |||_com.amazon.kso.blackbird_
 |<br>
 | Live TV | 2022-09-29 | [2.0.220164.0-com.amazon.tv.livetv_1211201910](https://d1s31zyz7dcc2d.cloudfront.net/a34825690de3b3e9575f9bd852c877fc/com.amazon.tv.livetv.apk) | 12.0MB | c39aa05ae5b85e819c5619eb509a1bae |
@@ -308,6 +309,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Prime Video | 2022-12-27 | [PVFTV-51.1645-L](https://d1s31zyz7dcc2d.cloudfront.net/55cab9051b6e8bc21fcb992543e85972/Firebat-livingRoom-release-signed_51164510.apk) | 12.5MB | daa653f2f83a3b6a867dbe76b0315167 | 
 | Prime Video | 2023-01-19 | [PVFTV-52.3900-L](https://d1s31zyz7dcc2d.cloudfront.net/10fdf7c5a87ea580ec94b6d9b2a7337d/Firebat-livingRoom-release-signed_52390010.apk) | 11.7MB | 49d75e1126e662d98b153e4f7e096115 |	
 | Prime Video | 2023-02-10 | [PVFTV-52.3918-L](https://d1s31zyz7dcc2d.cloudfront.net/f02bf6abcd75b8b0652a070b64b0b577/Firebat-livingRoom-release-signed_52391810.apk) | 11.7MB | e8ee57079b2b0f6d7859be274539c37d |
+| Prime Video | 2023-02-16 | [PVFTV-53.3362-L](https://d1s31zyz7dcc2d.cloudfront.net/2e06fbd9ed692458fe4bf99a82e590a5/Firebat-livingRoom-release-signed_53336210.apk) | 12.3MB | 94d67107d80754e9b835a2ae2dee8115 |		
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
@@ -320,7 +322,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Settings Menu | 2022-08-03 | [1.0.5579.0-com.amazon.tv.settings.v2-jarvis_623019510](https://d1s31zyz7dcc2d.cloudfront.net/626d9f707554433f08e98728a25db9de/signed_FireTvSettings-jarvis-release_1.0.5579.0.apk) | 9.5MB | e756258030e520f4508ab4d58335c121 |
 | Settings Menu | 2022-10-12 | [1.0.6176.0-com.amazon.tv.settings.v2-jarvis_624091410](https://d1s31zyz7dcc2d.cloudfront.net/d5cb45546eeacf98fdd44966eb223664/signed_FireTvSettings-jarvis-release_1.0.6176.0.apk) | 10.4MB | 22cd2ea93c0d5c045b8d8cf3acf98de0 |
 | Settings Menu | 2022-11-16 | [1.0.6457.0-com.amazon.tv.settings.v2-jarvis_625018010](https://d1s31zyz7dcc2d.cloudfront.net/af297f38ae53b00ede46f029164107ff/signed_FireTvSettings-jarvis-release2.apk) | 10.4MB | 489341648b602ece928ca782ac22cde4 |
-| Settings Menu | 2022-12-02 | [1.0.6670.0-com.amazon.tv.settings.v2-jarvis_626013510](https://d1s31zyz7dcc2d.cloudfront.net/067fc81e364b91e409e2514369a13ac3/signed_FireTvSettings-jarvis-release1.0.6670.0_ota_release.apk) | 10.5MB | cd6b9ff7327e3876a7557e6042034914 |	
+| Settings Menu | 2022-12-02 | [1.0.6670.0-com.amazon.tv.settings.v2-jarvis_626013510](https://d1s31zyz7dcc2d.cloudfront.net/067fc81e364b91e409e2514369a13ac3/signed_FireTvSettings-jarvis-release1.0.6670.0_ota_release.apk) | 10.5MB | cd6b9ff7327e3876a7557e6042034914 |
+| Settings Menu | 2023-02-09 | [1.0.7388.0-com.amazon.tv.settings.v2-jarvis_627031310](https://d1s31zyz7dcc2d.cloudfront.net/a3f38a7b1a6a0e71b784b343d716d672/signed_FireTvSettings-jarvis-release_1.0.7388.0_sheffield_ota_release.apk) | 11.3MB | 85e4d2e4680249edd20618171779339e |		
 |||_com.amazon.tv.settings.v2_
 |<br>
 | Settings Help Menu | 2022-12-05 | [7.0.77.0-com.amazon.tv.csapp-jarvis_700015610](https://d1s31zyz7dcc2d.cloudfront.net/868de86918ce7ed442b8f364f9183dc2/signed_CSAppFireTV-jarvis-release-7.0.77.0.apk) | 0.9MB | 103778b74ea3c1320f7c19e26ec14539 |	
