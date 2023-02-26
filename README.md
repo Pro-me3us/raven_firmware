@@ -150,7 +150,8 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon Music | 2022-10-20 | [3.4.653.0 (304064810)](https://d1s31zyz7dcc2d.cloudfront.net/ba1a80a964a8495aa6699f105e8b60ba/signed_DMTVAndroid-firetv-prod-arm32-3.4.653.0.apk) | 20.7MB | 0508ae367de9229df4ef6551a3d8c48e | 
 | Amazon Music | 2022-10-31 | [3.4.665.0 (304066010)](https://d1s31zyz7dcc2d.cloudfront.net/3b991e8bfca1002ed03576a102b6cefe/signed_DMTVAndroid-firetv-prod-arm32-release.apk) | 21.0MB | 9e054c73bc9e736e482765457f8c436f | 
 | Amazon Music | 2022-12-09 | [3.4.706.0 (304070010)](https://d1s31zyz7dcc2d.cloudfront.net/e7ff28104030d6e54061ad8350643c58/signed_DMTVAndroid-firetv-prod-arm32-3.4.706.0.apk) | 21.1MB | f44c3af91a43bed8764413f5fdba3118 | 
-| Amazon Music | 2023-01-20 | [3.4.733.0 (304071110)](https://d1s31zyz7dcc2d.cloudfront.net/60b84a1d4b1f8022757373dee70fffd1/signed_DMTVAndroid-firetv-prod-arm32-3.4.733.0.apk) | 21.1MB | d38b800d91cb5ff3fa6acfb48b2dda8f | 
+| Amazon Music | 2023-01-20 | [3.4.733.0 (304071110)](https://d1s31zyz7dcc2d.cloudfront.net/60b84a1d4b1f8022757373dee70fffd1/signed_DMTVAndroid-firetv-prod-arm32-3.4.733.0.apk) | 21.1MB | d38b800d91cb5ff3fa6acfb48b2dda8f |
+| Amazon Music | 2023-02-16 | [3.4.856.0 (304077110)](https://d1s31zyz7dcc2d.cloudfront.net/2331f9c48ac44f925e54aff02b2fea08/signed_DMTVAndroid-firetv-prod-arm32-3.4.856.0.apk) | 20.8MB | 3e2f0a8563b127c26ca33ad1105169dc |		
 |||_com.amazon.bueller.music_
 |<br>
 | Amazon Photos | 2022-02-25 | [2.14.0-883278710](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
@@ -248,7 +249,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | KFTV Launcher (Amazon Launcher) | 2022-09-26 | [6400053.1](https://d1s31zyz7dcc2d.cloudfront.net/21972b05d61148f07dde6e282a385546/R6_Launcher_6400053.apk) | 15.1MB | c23e3f8ac1f6de449a0dadd2543ee61c |
 | KFTV Launcher (Amazon Launcher) | 2022-11-04 | [6410026.1](https://d1s31zyz7dcc2d.cloudfront.net/9250a922baa36b11c489e16d9a88591f/R7_launcher_6410026.apk) | 15.0MB | 71f306cd425a7d2fade617768b9c5c26 |
 | KFTV Launcher (Amazon Launcher) | 2022-12-01 | [6410028.1](https://d1s31zyz7dcc2d.cloudfront.net/4e494a97da11e77773aa0f4e70e0446d/FireTvLauncher-release.apk) | 15.0MB | fe136c5d3c5602a66b2d583069f7653b |
-| KFTV Launcher (Amazon Launcher) | 2022-12-26 | [6420030.1](https://d1s31zyz7dcc2d.cloudfront.net/a3a4c00b8606b25206913c01f8a01876/R8launcher642003010.apk) | 14.6MB | a77b5dbf0338bd461fa58b40dd03fcab |				
+| KFTV Launcher (Amazon Launcher) | 2022-12-26 | [6420030.1](https://d1s31zyz7dcc2d.cloudfront.net/a3a4c00b8606b25206913c01f8a01876/R8launcher642003010.apk) | 14.6MB | a77b5dbf0338bd461fa58b40dd03fcab |	
+| KFTV Launcher (Amazon Launcher) | 2023-01-19 | [6430152.1](https://d1s31zyz7dcc2d.cloudfront.net/7f0ac70f300f0453aefa3ea13fe11a33/FireTvLauncher-release3.apk) | 14.7MB | 4d7d71dab68cd1edfa5ed26d57d6d2cb |		
 |||_com.amazon.tv.launcher_
 |<br>
 | Kindle Connect (Mayday) | 2021-07-29 | [7.0.1508.0-com.amazon.ods.kindleconnect_1700230210](https://d1s31zyz7dcc2d.cloudfront.net/3535168d2a31e2ef9d7afedac8f0c05e/com.amazon.ods.kindleconnect-release-7.0.1508.0.apk) | 4.9MB | cc2d1082c0b2bd6a02d44ceb5692bb40 |
@@ -310,7 +312,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Prime Video | 2022-12-27 | [PVFTV-51.1645-L](https://d1s31zyz7dcc2d.cloudfront.net/55cab9051b6e8bc21fcb992543e85972/Firebat-livingRoom-release-signed_51164510.apk) | 12.5MB | daa653f2f83a3b6a867dbe76b0315167 | 
 | Prime Video | 2023-01-19 | [PVFTV-52.3900-L](https://d1s31zyz7dcc2d.cloudfront.net/10fdf7c5a87ea580ec94b6d9b2a7337d/Firebat-livingRoom-release-signed_52390010.apk) | 11.7MB | 49d75e1126e662d98b153e4f7e096115 |	
 | Prime Video | 2023-02-10 | [PVFTV-52.3918-L](https://d1s31zyz7dcc2d.cloudfront.net/f02bf6abcd75b8b0652a070b64b0b577/Firebat-livingRoom-release-signed_52391810.apk) | 11.7MB | e8ee57079b2b0f6d7859be274539c37d |
-| Prime Video | 2023-02-16 | [PVFTV-53.3362-L](https://d1s31zyz7dcc2d.cloudfront.net/2e06fbd9ed692458fe4bf99a82e590a5/Firebat-livingRoom-release-signed_53336210.apk) | 12.3MB | 94d67107d80754e9b835a2ae2dee8115 |		
+| Prime Video | 2023-02-16 | [PVFTV-53.3362-L](https://d1s31zyz7dcc2d.cloudfront.net/2e06fbd9ed692458fe4bf99a82e590a5/Firebat-livingRoom-release-signed_53336210.apk) | 12.3MB | 94d67107d80754e9b835a2ae2dee8115 |
+| Prime Video | 2023-02-23 | [PVFTV-53.3394-L](https://d1s31zyz7dcc2d.cloudfront.net/f5443a8de68b7ed5672e59356a2bb366/Firebat-livingRoom-release-signed_53339410.apk) | 12.3MB | 9b63d8ad67576139d4417cd5a99e8bb7 |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
