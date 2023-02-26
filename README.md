@@ -136,6 +136,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon Game Center | 2022-11-11 | [1.0.885.0-com.amazon.gamehub-tv_1049110](https://d1s31zyz7dcc2d.cloudfront.net/7a6bd4125f9153603f9d25081a9406f6/885.0-GameHubAPK-tv-release-signed_1048510.apk) | 8.8MB | 32e37d3759a4037965c845adb8b50fe8 | 
 | Amazon Game Center | 2022-12-20 | [1.0.971.0-com.amazon.gamehub-tv_1052610](https://d1s31zyz7dcc2d.cloudfront.net/4605a378e62b4c1c95dbae413adc147b/signed_GameHubAPK-tv-release-971.apk) | 8.9MB | c4c692fc8fa21ff77d8a48b2333dbe3a |
 | Amazon Game Center | 2023-02-03 | [1.0.1221.0-com.amazon.gamehub-tv_1053910](https://d1s31zyz7dcc2d.cloudfront.net/8052348700f41a73ec35196a21610db0/signed_GameHubAPK-tv1221-release.apk) | 8.9MB | 1d6af575fb7a8b809f6c82508276a77a |
+| Amazon Game Center | 2023-02-13 | [1.0.1342.0-com.amazon.gamehub-tv_1055510](https://d1s31zyz7dcc2d.cloudfront.net/74372fc0274dfcd5b68c7057d64c39cf/gh05-1342.0-GameHubAPK-tv-release-signed.apk) | 8.9MB | 5be1885cb632032916e5843e3413fe2f |
 |||_com.amazon.gamehub_
 |<br>
 | Amazon Live Shopping | 2022-09-12 | [3.0.203781.0_2025210](https://d1s31zyz7dcc2d.cloudfront.net/cbf7089ae485cfc3c5e4f491130ce04a/MShopAndroidTV3PClient-release-signed_0909release.apk) | 21.4MB | db242a5f4e0a18181c2b07c3f8128249 | 
