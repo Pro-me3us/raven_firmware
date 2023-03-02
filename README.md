@@ -71,7 +71,8 @@ For other FireTV device firmware visit the following:<br>
 | 2022-02-14 | FireOS 7.2.4.2 | [FireTVCubeGen2-7.2.4.2-20220214.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/gwonwwYRShNbaNfjHJm4KJkxnk/FireTVCubeGen2-7.2.4.2-20220214.tar.bz2) | 1101.5MB | c78e2719d3404410b5eed80a7bf26112 |
 | 2022-02-07 | FireOS 7.2.7.3 | [FireTVCubeGen2-7.2.7.3-20220207.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/KLRB4zxnvzPB3JnK5G6CAr8Weh/FireTVCubeGen2-7.2.7.3-20220207.tar.bz2) | 444.2MB | 729b9631c899dd1e004c5cdee2493edd |
 | 2022-04-26 | FireOS 7.2.7.9 | [FireTVCubeGen2-7.2.7.9-20220426.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/duOe3xPgxLQqwLwXEHOsGnvazS/FireTVCubeGen2-7.2.7.9-20220426.tar.bz2) | 444.2MB | 729b9631c899dd1e004c5cdee2493edd |
-
+| 2023-02-16 | FireOS 7.6.2.4 | [FireTVCubeGen2-7.6.2.4-20230216.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/V5nHXE0mFEsQQw6p0q4ra4G8rr/FireTVCubeGen2-7.6.2.4-20230216.tar.bz2) | 508.2MB | ad035bb5ac62598271b0136974009861 |	
+	
 Note: There are a couple mistakes on Amazon's <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code page</a>. <br>
 FireTVCubeGen2-7.2.4.2-20210628.tar.bz2 = FireTVCubeGen2-7.2.4.2-20220214.tar.bz2 (same file)<br>
 FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz2 (same file)<br>
@@ -84,7 +85,8 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 |||_com.amazon.aca_
 |<br>
 | AIOnDeCService | 2022-11-23 | [1.0.188.0 (2009010)](https://d1s31zyz7dcc2d.cloudfront.net/8a549d6b917e761f6ce98196f98e8bb8/ASAdsAIOnDeCService-1.0.188.0-release-signed.apk) | 2.5MB | f92f7b3c69bc25f8373aa2791a8a4638 |
-| AIOnDeCService | 2023-01-27 | [1.0.217.0 (2011910)](https://d1s31zyz7dcc2d.cloudfront.net/37c61da48db0139f50c9f453ec08cbc9/ASAdsAIOnDeCService-1.0.217.0-release-signed.apk) | 2.5MB | 1c7a1a66e2dabe2836a448e3ca1804c9 |
+| AIOnDeCService | 2023-01-27 | [1.0.217.0 (2011910)](https://d1s31zyz7dcc2d.cloudfront.net/37c61da48db0139f50c9f453ec08cbc9/ASAdsAIOnDeCService-1.0.217.0-release-signed.apk) | 2.5MB | 1c7a1a66e2dabe2836a448e3ca1804c9 |	
+| AIOnDeCService | 2023-02-27 | [1.0.303.0 (2020510)](https://d1s31zyz7dcc2d.cloudfront.net/3720c37d4f2bfb43cf5d3f57a37a802f/signed_ASAdsAIOnDeCService-1.0.303.0-release.apk) | 4.1MB | 6c9dc2c52c56024b14dcca9938043c81 |		
 |||_com.amazon.aiondec_
 |<br>
 | Alexa | 2021-01-08 | [2.0.10021.0-com.amazon.vizzini.632.0.0_632128610](https://d1s31zyz7dcc2d.cloudfront.net/13a8f301d98727e66618a0c9334af545/signed_com.amazon.vizzini.apk) | 28.1MB | db0f9e03e80781fd373dc4a36de48123 |
