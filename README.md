@@ -100,8 +100,9 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Alexa | 2023-03-15 | [3.0.5503.0-com.amazon.vizzini.648.0.0_648193910](https://d1s31zyz7dcc2d.cloudfront.net/d288fce082a64825adce315f3b0d09bb/signed_com.amazon.vizzini_648_HF.apk) | 17.5MB | 20acba12855585a22663620da5ea9789 |
 | Alexa | 2023-04-10 | [3.0.5839.0-com.amazon.vizzini.648.1.0_648196010](https://d1s31zyz7dcc2d.cloudfront.net/69946651d59c7807fa54834afbd546b7/signed_com.amazon.vizzini_3.apk) | 17.5MB | 70f969f5ff1806fe65dc67fa1a903bbf |
 | Alexa | 2023-04-13 | [3.0.5998.0-com.amazon.vizzini.648.0.0_648800710](https://d1s31zyz7dcc2d.cloudfront.net/d195e8c06ea9f3ae1a9e3e2da4774310/signed_FTVSIM-release_648_1_rollback.apk) | 17.5MB | 53123fb249232563b0549f1dc6d2bc26 |
+| Alexa | 2023-05-03 | [3.0.6468.0-com.amazon.vizzini.648.1.0_648800910 (648800910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/d13f148ec99a7fadf8aee420c01405ed/signed_com.amazon.vizzini_1.apk) | 17.5MB | 1fa82e020b1620d71963ff33da0b26c2 |	
 |||_com.amazon.vizzini_
-|<br>
+|<br>| Alexa | 2023-05-03 | [3.0.6468.0-com.amazon.vizzini.648.1.0_648800910 (648800910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/d13f148ec99a7fadf8aee420c01405ed/signed_com.amazon.vizzini_1.apk) | 17.5MB | 1fa82e020b1620d71963ff33da0b26c2 |
 | Alexa Alerts | 2022-06-22 | [1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010](https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.3MB | 6573d8b8a71c00a752e8808458582251 |
 | Alexa Alerts | 2022-10-27 | [1.0.201470.0-com.amazon.tv.alexaalerts-nonStark_103068310](https://d1s31zyz7dcc2d.cloudfront.net/e6d13742e99be1cd66bbd26a15ed4940/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.2MB | f64578dd6d6c421dc7e301baf112d45c |
 |||_com.amazon.tv.alexaalerts_
@@ -248,7 +249,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | FireTV Player | 2023-03-14 | [FireTv.341.20701](https://d1s31zyz7dcc2d.cloudfront.net/aa6a362df5b53af173840df5eec439fc/com.amazon.avod.apk) | 28.2MB | 10c5ddb3e3bdce686d6a4fa330e8016d |
 | FireTV Player | 2023-04-03 | [FireTv.343.82901](https://d1s31zyz7dcc2d.cloudfront.net/86209bd1dab04c480977f72b0c7a149b/com.amazon.avod.apk) | 29.4MB | 30be0d9b19ecb2f14966bee3d32740c3 |
 | FireTV Player | 2023-04-17 | [FireTv.344.101901](https://d1s31zyz7dcc2d.cloudfront.net/1c9e57d904d8572f1d76c6799a5c87f7/com.amazon.avod.apk) | 29.2MB | 476178552b8dc2adef056eaedcd46a55 |	
-| FireTV Player | 2023-04-28 | [FireTv.345.16701](https://d1s31zyz7dcc2d.cloudfront.net/09aa94e13f2bf64db0a0f2c60c9938c0/com.amazon.avod.apk) | 30.0MB | fe389d0be524fc649771e253ccdecaff |			
+| FireTV Player | 2023-04-28 | [FireTv.345.16701](https://d1s31zyz7dcc2d.cloudfront.net/09aa94e13f2bf64db0a0f2c60c9938c0/com.amazon.avod.apk) | 30.0MB | fe389d0be524fc649771e253ccdecaff |	
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
@@ -278,6 +279,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Freevee | 2023-02-28 | [1.0.11878.0 (22196210)](https://d1s31zyz7dcc2d.cloudfront.net/31f6952ade7485770f122d89c44c7a5c/signed_app-RC-prod-feb-release-11878.apk) | 23.6MB | da3a4f60ca87bcaf7b9bbb8e23de764d |
 | Freevee | 2023-04-05 | [1.0.12338.0 (22321010)](https://d1s31zyz7dcc2d.cloudfront.net/fbb29c24a2e0dcd06d6532aacfec0d14/signed_app-prod-release_2.apk) | 23.0MB | 7b23e44a27ca45c5d3059cb7486ae383 |
 | Freevee | 2023-04-13 | [1.0.12438.0 (22343210)](https://d1s31zyz7dcc2d.cloudfront.net/fbb29c24a2e0dcd06d6532aacfec0d14/signed_app-prod-release_2.apk) | 23.0MB | c09682dcc34fc971635b87c4e9050047 |
+| Freevee | 2023-05-02 | [1.0.12677.0 (22403410)](https://d1s31zyz7dcc2d.cloudfront.net/d4c4b58d29e1dcc722a546c39aaead79/signed_app-prod-april-release-1.0.12677.0.apk) | 25.5MB | 1be65d4b254f2ac11bc903ef27693cd4 |			
 |||_com.amazon.imdb.tv.android.app_
 |<br>
 | IME (FireTV Keyboard) | 2021-11-25 | [1.0.525.0-com.amazon.tv.ime-jarvis_616013510](https://d1s31zyz7dcc2d.cloudfront.net/253d26a59b3afe872721001e0c81321f/signed_FireTvKeyboard-jarvis-release_1.0.525.0.apk) | 2.4MB | bcba4effd12755298e6a6139eb28bdb9 |
@@ -291,7 +293,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | KFTV Launcher (Amazon Launcher) | 2022-12-26 | [6420030.1](https://d1s31zyz7dcc2d.cloudfront.net/a3a4c00b8606b25206913c01f8a01876/R8launcher642003010.apk) | 14.6MB | a77b5dbf0338bd461fa58b40dd03fcab |	
 | KFTV Launcher (Amazon Launcher) | 2023-01-19 | [6430152.1](https://d1s31zyz7dcc2d.cloudfront.net/7f0ac70f300f0453aefa3ea13fe11a33/FireTvLauncher-release3.apk) | 14.7MB | 4d7d71dab68cd1edfa5ed26d57d6d2cb |	
 | KFTV Launcher (Amazon Launcher) | 2023-02-27 | [6430207.1](https://d1s31zyz7dcc2d.cloudfront.net/32c470b38fc7c3dfba806acdf180e91d/FireTvLauncher-release_5.apk) | 14.8MB | 683458db95cb9fbd8ab09bd8d73b1040 |
-| KFTV Launcher (Amazon Launcher) | 2023-04-02 | [6440287.1](https://d1s31zyz7dcc2d.cloudfront.net/4b90349d3f04389eccb4d6e4aaadf426/FireTvLauncher-release_644028710.apk) | 15.0MB | 7455741ffafc75521fda551c58cd78b1 |		
+| KFTV Launcher (Amazon Launcher) | 2023-04-02 | [6440287.1](https://d1s31zyz7dcc2d.cloudfront.net/4b90349d3f04389eccb4d6e4aaadf426/FireTvLauncher-release_644028710.apk) | 15.0MB | 7455741ffafc75521fda551c58cd78b1 |
+| KFTV Launcher (Amazon Launcher) | 2023-05-02 | [6450027.1 (645002710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/3ce5b235e3287102bcd1bfa0166985d2/R3_hotfix_launcher_6450027.apk) | 15.1MB | b2f3ff9f2ca1a2530fcffe167b2d3cd5 
 |||_com.amazon.tv.launcher_
 |<br>
 | Kindle Connect (Mayday) | 2021-07-29 | [7.0.1508.0-com.amazon.ods.kindleconnect_1700230210](https://d1s31zyz7dcc2d.cloudfront.net/3535168d2a31e2ef9d7afedac8f0c05e/com.amazon.ods.kindleconnect-release-7.0.1508.0.apk) | 4.9MB | cc2d1082c0b2bd6a02d44ceb5692bb40 |
@@ -363,7 +366,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Prime Video | 2023-03-01 | [PVFTV-54.1834-L](https://d1s31zyz7dcc2d.cloudfront.net/9f322c34318f81c37211c65db14decd1/Firebat-livingRoom-release-signed_54183410.apk) | 12.4MB | 317d30b870273c67cbd065e843eb056a |
 | Prime Video | 2023-03-09 | [PVFTV-55.1143-L](https://d1s31zyz7dcc2d.cloudfront.net/6ff28210afd008a378632b5531f7b6ce/Firebat-livingRoom-release-signed_55114310.apk) | 12.5MB | 4e6becb24d8b45d01b1c20fb586cb190 |
 | Prime Video | 2023-03-27 | [PVFTV-56.1210-L](https://d1s31zyz7dcc2d.cloudfront.net/4a5ae34cb8bf86e479882bd89ccb7e12/Firebat-livingRoom-release-signed_56121010.apk) | 12.5MB | 3d30de20ee4f8dbbab57c93ed8ca2e57 |
-| Prime Video | 2023-04-17 | [PVFTV-57.1816-L](https://d1s31zyz7dcc2d.cloudfront.net/00e58fc8d704d716c5625952308cd5c7/Firebat-livingRoom-release-signed_57181610.apk) | 12.4MB | e5b4da7e732ad80b7984e555a290eac1 |		
+| Prime Video | 2023-04-17 | [PVFTV-57.1816-L](https://d1s31zyz7dcc2d.cloudfront.net/00e58fc8d704d716c5625952308cd5c7/Firebat-livingRoom-release-signed_57181610.apk) | 12.4MB | e5b4da7e732ad80b7984e555a290eac1 |
+| Prime Video | 2023-05-01 | [PVFTV-58.1968-L](https://d1s31zyz7dcc2d.cloudfront.net/5cdd887e0efcaf0db7cd45eaddc9f2ce/Firebat-livingRoom-release-signed_58196810.apk) | 14.1MB | 4a37e05b85e55fcd0fe8cc3608805314 |		
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
@@ -406,5 +410,3 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 
 
 Note: Many apps are not device specific, so the same version is used on the Cube as other FireStick models.  Check the <a href="https://gist.github.com/JulyIghor/d3d3dd460527a1d2b5b67954160d4abf">4K Stick page</a> for a more comprehensive  list of apps and versions.  Use the MD5 value for any app above to verify that the 4K stick is using the same app version line.  Listed app dates are an approximation based on the server availability date.
-
- 
