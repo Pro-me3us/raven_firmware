@@ -342,6 +342,9 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Parental Controls | 2023-04-03 | [1.0.1703.0-com.amazon.tv.parentalcontrols-jarvis_621013410](https://d1s31zyz7dcc2d.cloudfront.net/469b110caa5d38540d3c4eb2eab8515d/signed_FireTvParentalControls-jarvis-release_1.0.1703.0_otarelease.apk) | 8.1MB | 15a6c7319980a2de7f2b5caa4be4e168	
 |||_com.amazon.tv.parentalcontrols_
 |<br>
+| PerfCollectionAppplication | 2023-04-25 | [1.009.210 (1009210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/50b6ada834f0696bf921e1ab7c80a2a4/signed_com.amazon.perfcollection_v1009210.apk) | 0.8MB | 980788557a35f7c5a4ca8048555da342 |
+|||_com.amazon.perfcollection_	
+|<br>
 | Prime Video | 2022-07-28 | [PVFTV-44.2010-L](https://d1s31zyz7dcc2d.cloudfront.net/affa58078ba88277e41f900d92b20e5b/Firebat-livingRoom-release-signed_44201010.apk) | 12.8MB | 5a72d6c8ec5c604eb7f90971ea4e82c7 |
 | Prime Video | 2022-09-06 | [PVFTV-47.1021-L](https://d1s31zyz7dcc2d.cloudfront.net/59e0be04b55d4fbd21a4cbe8d21524f6/Firebat-livingRoom-release-signed_47102110.apk) | 12.3MB | 3d5672be132d12b1681d8fc377b0a732 |
 | Prime Video | 2022-09-19 | [PVFTV-47.1102-L](https://d1s31zyz7dcc2d.cloudfront.net/435e5b226a8f0e3cdeb64ee419d9ef45/Firebat-livingRoom-release-signed_47110210.apk) | 12.4MB | ea95f90eddfe587cc8df70d818409095 |
@@ -367,7 +370,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | Prime Video | 2023-03-09 | [PVFTV-55.1143-L](https://d1s31zyz7dcc2d.cloudfront.net/6ff28210afd008a378632b5531f7b6ce/Firebat-livingRoom-release-signed_55114310.apk) | 12.5MB | 4e6becb24d8b45d01b1c20fb586cb190 |
 | Prime Video | 2023-03-27 | [PVFTV-56.1210-L](https://d1s31zyz7dcc2d.cloudfront.net/4a5ae34cb8bf86e479882bd89ccb7e12/Firebat-livingRoom-release-signed_56121010.apk) | 12.5MB | 3d30de20ee4f8dbbab57c93ed8ca2e57 |
 | Prime Video | 2023-04-17 | [PVFTV-57.1816-L](https://d1s31zyz7dcc2d.cloudfront.net/00e58fc8d704d716c5625952308cd5c7/Firebat-livingRoom-release-signed_57181610.apk) | 12.4MB | e5b4da7e732ad80b7984e555a290eac1 |
-| Prime Video | 2023-05-01 | [PVFTV-58.1968-L](https://d1s31zyz7dcc2d.cloudfront.net/5cdd887e0efcaf0db7cd45eaddc9f2ce/Firebat-livingRoom-release-signed_58196810.apk) | 14.1MB | 4a37e05b85e55fcd0fe8cc3608805314 |		
+| Prime Video | 2023-05-01 | [PVFTV-58.1968-L](https://d1s31zyz7dcc2d.cloudfront.net/5cdd887e0efcaf0db7cd45eaddc9f2ce/Firebat-livingRoom-release-signed_58196810.apk) | 14.1MB | 4a37e05b85e55fcd0fe8cc3608805314 |	
+| Prime Video | 2023-05-09 | [PVFTV-58.1977-L (58197710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/4cbe9b450a45982613b553e868de846c/Firebat-livingRoom-release-signed_58197710.apk) | 14.1MB | d92d51ebc170a7ee99865192b024a662 |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
