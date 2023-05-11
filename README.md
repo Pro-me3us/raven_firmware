@@ -333,6 +333,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | OOBE (Out-of-Box-Experience) | 2022-11-24 | [1.0.7123.0-com.amazon.tv.oobe-jarvis_625002710](https://d1s31zyz7dcc2d.cloudfront.net/d73bdf82e3fb720972200510093df558/signed_FireTvOobe-jarvis-release3.apk) | 12.4MB	| c172e700e3a4d1f1d73b5e95b60017e2 |
 | OOBE (Out-of-Box-Experience) | 2022-12-12 | [1.0.7367.0-com.amazon.tv.oobe-jarvis_627003510](https://d1s31zyz7dcc2d.cloudfront.net/df80ff2ecd01628c528af8bf96b26b38/signed_FireTvOobe-jarvis-release-1.0.7367.0.apk) | 12.4MB	| 17af3fb9a59ed101ae1c006b3bdfa905 |
 | OOBE (Out-of-Box-Experience) | 2023-01-10 | [1.0.7718.0-com.amazon.tv.oobe-jarvis_629038210](https://d1s31zyz7dcc2d.cloudfront.net/6bbcbf75a40ffca2d25e602c7ff9c44c/signed_FireTvOobe-jarvis-release1.0.7718.0.apk) | 12.4MB	| 88ee6ab7772c4784b036835b600cc335
+| OOBE (Out-of-Box-Experience) | 2023-04-04 | [1.0.8774.0-com.amazon.tv.oobe-jarvis_630088610 (630088610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/dd1c5caa0c7d48f6b6464161c0ca0212/signed_FireTvOobe-jarvis-release-8774.apk) | 14.4MB | 19ec5d5b5fd3d71b354606cd08100ee8 |
 |||_com.amazon.tv.oobe_
 |<br>
 | Ott Sso Companion App | 2020-05-19 | [1.0 (5510)](https://d1s31zyz7dcc2d.cloudfront.net/5c5fda1564c96323914890a6f6e37ba1/SSO_ClientlessSupport_app-tv-release-signed.apk) | 1.9MB | f0df3354b333911e0b831efeddd0d48e |
@@ -409,6 +410,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 |||_com.amazon.ssdpservice_
 |<br>
 | System Status Monitor | 2022-09-12 | [1.0.526.0-com.amazon.ssmsys_5043110](https://d1s31zyz7dcc2d.cloudfront.net/30c1fc0669bd72a8ef2551e8b1e8c559/com.amazon.ssmsys.apk) | 2.5MB | b0031f19800b9b50a4fc08b8904d1508 |
+| System Status Monitor | 2022-10-12 | [1.0.625.0-com.amazon.ssmsys_5053110](https://d1s31zyz7dcc2d.cloudfront.net/fc89572c6f7ff508c934aecc2fb1b4ad/com.amazon.ssmsys.apk) | 2.5MB | abb581fb94a5d413b4448b8fe8047627 |
 | System Status Monitor | 2023-03-20 | [1.0.781.0-com.amazon.ssmsys_5067810](https://d1s31zyz7dcc2d.cloudfront.net/a4ce11d43e860bd91024aa5526cf1d08/com.amazon.ssmsys.apk) | 3.1MB | 59cea1fbb9774bccb15e864e9b60fc3a |
 |||_com.amazon.ssmsys_
 
