@@ -90,6 +90,9 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | AIOnDeCService | 2023-03-02 | [1.0.315.0 (2021710)](https://d1s31zyz7dcc2d.cloudfront.net/a2460a1ef722b4262ad5993efc5f65b1/signed_ASAdsAIOnDeCService-1.0.315.0-release.apk) | 4.1MB | 3c02064476691a0f6430c4dd3c1adc2f |
 |||_com.amazon.aiondec_
 |<br>
+| Alberto Service | 2023-05-02 | [1.0-AlbertoService-1000801500 (1000801510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2cf517b4a9082fb549c01dc6c2566bf6/com.amazon.tv.developer.dataservice_1000801510.apk) | 6.7MB | d9656935a95c031c84760391f5d2e0fa |	
+|||_com.amazon.tv.developer.dataservice_
+|<br>		
 | Alexa | 2021-01-08 | [2.0.10021.0-com.amazon.vizzini.632.0.0_632128610](https://d1s31zyz7dcc2d.cloudfront.net/13a8f301d98727e66618a0c9334af545/signed_com.amazon.vizzini.apk) | 28.1MB | db0f9e03e80781fd373dc4a36de48123 |
 | Alexa | 2022-09-12 | [3.0.3040.0-com.amazon.vizzini.647.0.0_647119010](https://d1s31zyz7dcc2d.cloudfront.net/3355d1f1ee93d92717bf6285abeab7c6/signed_com.amazon.vizzini_5.apk) | 17.3MB | 052ea50a3c978803f22d1338bdb154bb |
 | Alexa | 2022-10-07 | [3.0.3553.0-com.amazon.vizzini.647.0.1_647127210](https://d1s31zyz7dcc2d.cloudfront.net/e7a81fcf79b7d6e20051ffdf52019dfe/signed_com.amazon.vizzini_5.apk) | 17.3MB | 88bdf12bbb2dd74b1287324b4f71952a |
@@ -141,6 +144,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon App Store | 2023-01-12 | [release-8.5014.5.v.x.219750.0_422717110](https://d1s31zyz7dcc2d.cloudfront.net/c3ebb563e0dbc2c9fdcea4f5f169c0b0/5.v.x.219750.0-signed.apk) | 21.4MB | 0ac52f98f2bd763d2465821550de1147 |
 | Amazon App Store | 2023-02-20 | [release-8.5015.5.v.x.220149.0_422818210](https://d1s31zyz7dcc2d.cloudfront.net/c4aca4bf9c06d69f3df0f813d9bf6037/5.v.x.220149.0_Signed.apk) | 22.2MB | 4a2b07424e830f1ba50d23b6ad8fcbdd |
 | Amazon App Store | 2023-03-24 | [release-8.5017.5.v.x.220811.0_422987810](https://d1s31zyz7dcc2d.cloudfront.net/3473b9a482d88ed610df4ac231391b5c/5.v.x.220811.0.apk) | 22.4MB | f7d270e3b8633ed13c975cf2b96dd579 |	
+| Amazon App Store | 2023-04-07 | [release-8.5019.5.v.x.220944.0_423024410 (423024410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9f6cf96990c6a825cfb8d80fdebcb5da/A5-preLD-signed.apk) | 22.4MB | c6a255d9b74e56fc6dfaf24efa1d24fb |
 |||_com.amazon.venezia_
 |<br>
 | Amazon Game Center | 2022-10-14 | [1.0.735.0-com.amazon.gamehub-tv_1042710](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | 8.2MB | b6b5467b8ac9bb2968c0dd8e9f475801 |
@@ -265,7 +269,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310]
 | FireTV Screensaver | 2022-09-27 | [1.26.1.43 (27004310)](https://d1s31zyz7dcc2d.cloudfront.net/04a63ae1ba58f4105ced5315f80245f8/signed_FTVScreensaverApp-1.26.1.1.apk) | 7.4MB | adbce940f62fe888d65b382cf2eff788 |
 | FireTV Screensaver | 2022-10-27 | [1.27.0.40 (28004010)](https://d1s31zyz7dcc2d.cloudfront.net/53196d0f1e6f15eca739ec5fd16f1aa0/signed_FTVScreensaverApp-1.27.0.40.apk) | 7.4MB | e1aa4b1b788d83c8783945e3d5d681b9 |
 | FireTV Screensaver | 2023-01-03 | [1.28.0.21 (29002110)](https://d1s31zyz7dcc2d.cloudfront.net/4f6c1a76fa3ab6e74d71d4c883cd533a/signed_FTVScreensaverApp-1.28.0.21.apk) | 7.5MB | c37550ec0edf3d769707eb59597df4f2 |
-| FireTV Screensaver | 2023-02-15 | [1.29.0.36 (30003610)](https://d1s31zyz7dcc2d.cloudfront.net/ecb6ff132a5f61221d611df62e5adf9c/signed_FTVScreensaverApp-1.29.0.36.apk) | 7.5MB | b2c54b568411d5b9a9e5da17050dfbe5 |		
+| FireTV Screensaver | 2023-02-15 | [1.29.0.36 (30003610)](https://d1s31zyz7dcc2d.cloudfront.net/ecb6ff132a5f61221d611df62e5adf9c/signed_FTVScreensaverApp-1.29.0.36.apk) | 7.5MB | b2c54b568411d5b9a9e5da17050dfbe5 |	
+| FireTV Screensaver | 2023-04-03 | [1.30.0.12 (31001210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/1063c916b502ec674e6ad04629d290db/signed_FTVScreensaverApp-1.30.0.12.apk) | 7.5MB | 99966d3020b0a98d7525e63cca121c05 |
 |||_com.amazon.ftv.screensaver_
 |<br>
 | Freevee | 2022-07-12 | [1.0.9395.0 (21653810)](https://d1s31zyz7dcc2d.cloudfront.net/4ef9d9f2c614068625572088ddbbe267/signed-app-playdoh-prod-release-RC-9395.apk) | 45.7MB | 62b8adb1f353856b183f37449667b33a |
