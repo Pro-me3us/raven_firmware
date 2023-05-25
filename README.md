@@ -172,7 +172,8 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon Music | 2022-10-31 | [3.4.665.0 (304066010)](https://d1s31zyz7dcc2d.cloudfront.net/3b991e8bfca1002ed03576a102b6cefe/signed_DMTVAndroid-firetv-prod-arm32-release.apk) | 21.0MB | 9e054c73bc9e736e482765457f8c436f | 
 | Amazon Music | 2022-12-09 | [3.4.706.0 (304070010)](https://d1s31zyz7dcc2d.cloudfront.net/e7ff28104030d6e54061ad8350643c58/signed_DMTVAndroid-firetv-prod-arm32-3.4.706.0.apk) | 21.1MB | f44c3af91a43bed8764413f5fdba3118 | 
 | Amazon Music | 2023-01-20 | [3.4.733.0 (304071110)](https://d1s31zyz7dcc2d.cloudfront.net/60b84a1d4b1f8022757373dee70fffd1/signed_DMTVAndroid-firetv-prod-arm32-3.4.733.0.apk) | 21.1MB | d38b800d91cb5ff3fa6acfb48b2dda8f |
-| Amazon Music | 2023-02-16 | [3.4.856.0 (304077110)](https://d1s31zyz7dcc2d.cloudfront.net/2331f9c48ac44f925e54aff02b2fea08/signed_DMTVAndroid-firetv-prod-arm32-3.4.856.0.apk) | 20.8MB | 3e2f0a8563b127c26ca33ad1105169dc |		
+| Amazon Music | 2023-02-16 | [3.4.856.0 (304077110)](https://d1s31zyz7dcc2d.cloudfront.net/2331f9c48ac44f925e54aff02b2fea08/signed_DMTVAndroid-firetv-prod-arm32-3.4.856.0.apk) | 20.8MB | 3e2f0a8563b127c26ca33ad1105169dc |
+| Amazon Music | 2023-05-18 | [3.4.947.0 (304084810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/03626885adcda19c30a275e2f0f88c94/signed_DMTVAndroid-firetv-prod-3.4.947.0-release.apk) | 20.9MB | 4934a310742297d81a7831accb472bbd |
 |||_com.amazon.bueller.music_
 |<br>
 | Amazon Photos | 2022-02-25 | [2.14.0-883278710 (883278710)](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
