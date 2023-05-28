@@ -179,6 +179,7 @@ FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz
 | Amazon Photos | 2022-02-25 | [2.14.0-883278710 (883278710)](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
 | Amazon Photos | 2023-01-19 | [2.16.0-887291610 (887291610)](https://d1s31zyz7dcc2d.cloudfront.net/cfc2beb6c4fe1914f4aef3161906f431/signed_Gallery-4.0.0.2916-fireTvRelease-armeabi-v7a.apk) | 16.7MB | be917de6cfd5d4860ea5ebd966fcc512 |
 | Amazon Photos | 2023-05-12 | [2.16.1-887291810 (887291810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/1e7215e5028f4556b2a5332daf09a9f1/signed_Gallery-4.0.0.3030-fireTvRelease-armeabi-v7a.apk) | 16.7MB | bdadf6b759dd868350c4516005b70dab |
+| Amazon Photos | 2023-05-17 | [2.17.0-888303210 (888303210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/58911b9d5658bc3054fa8f6b55f3ee73/signed_Gallery-4.0.0.3032-fireTvRelease-armeabi-v7a.apk) | 16.6MB | 7fb9da5edc4834c3f442fa64e8c36517 |	
 |||_com.amazon.bueller.photos_
 |<br>
 | Amazon System WebView | 2022-05-16 | [100.amazon-webview-v100-4896-tv.4896.127.36 (60334632)](https://d1s31zyz7dcc2d.cloudfront.net/fb86d93c0919cf733d3a8a76004896ce/signed_AmazonWebView-debug-32-signed.apk) | 48.7MB | 3e9c436025fd2be6da60fde5016750b2 |
@@ -259,6 +260,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | FireTV Player | 2023-04-17 | [FireTv.344.101901 (344101910)](https://d1s31zyz7dcc2d.cloudfront.net/1c9e57d904d8572f1d76c6799a5c87f7/com.amazon.avod.apk) | 29.2MB | 476178552b8dc2adef056eaedcd46a55 |	
 | FireTV Player | 2023-04-28 | [FireTv.345.16701 (345016710)](https://d1s31zyz7dcc2d.cloudfront.net/09aa94e13f2bf64db0a0f2c60c9938c0/com.amazon.avod.apk) | 30.0MB | fe389d0be524fc649771e253ccdecaff |	
 | FireTV Player | 2023-05-15 | [FireTv.346.15101 (346015110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/26d0837d4b2c0a5c3085f436cc0c5cff/com.amazon.avod.apk) | 31.0MB | 3611b6ad34871865febf1c139c5f6158 |
+| FireTV Player | 2023-05-23 | [FireTv.347.11201 (347011210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/714db7b3e4474c7bf7370c70c5698b27/com.amazon.avod.apk) | 30.8MB | 37cf7b8e251db4a7a4ad8acff76ac08a |
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1 (106000110)](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
