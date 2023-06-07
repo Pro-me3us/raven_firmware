@@ -3,6 +3,8 @@ Official Amazon download links for <a href="#full-firmware-update">full</a> and 
 
 
 For other FireTV device firmware visit the following:<br> 
+<a href="https://forum.xda-developers.com/t/stock-fire-tv-2-sloane-archiv.4446785">3rd gen Cube</a> (gazelle - 2022)<br>
+
 <a href="https://forum.xda-developers.com/t/stock-fire-tv-2-sloane-archiv.4446785">FireTV 2</a> box (sloane - 2015)<br>
 <a href="https://forum.xda-developers.com/t/fire-tv-stick-2-firmware-and-apps-official-cloud-front-direct-links.4259961/">2nd gen Stick</a> (tank - 2016)<br>
 <a href="https://gist.github.com/JulyIghor/d3d3dd460527a1d2b5b67954160d4abf">4K Stick</a> (mantis - 2018)<br>
