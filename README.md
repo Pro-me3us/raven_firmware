@@ -347,7 +347,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Live TV | 2022-12-23 | [2.0.220813.0-com.amazon.tv.livetv_1211450110 (1211450110)](https://d1s31zyz7dcc2d.cloudfront.net/43d2a9cb2bd8af48aa2371f15460bacb/com.amazon.tv.livetv.apk) | 12.0MB | e4dfba8349954999e4e27d91b277971a |
 | Live TV | 2023-01-31 | [2.0.221083.0-com.amazon.tv.livetv_1211503310 (1211503310)](https://d1s31zyz7dcc2d.cloudfront.net/af8286aa130294569654f93ed89b612b/com.amazon.tv.livetv.apk) | 12.1MB | 3538a85d8b415a60dc09b4974d0055d8 |
 | Live TV | 2023-02-23 | [2.0.221234.0-com.amazon.tv.livetv_1211601710 (1211601710)](https://d1s31zyz7dcc2d.cloudfront.net/47880265b340483a6c24a7adf1fe4b30/com.amazon.tv.livetv.apk) | 12.6MB | 05bbe9d4dab1d9c8d91f319e82a408ee |
-| Live TV | 2023-04-27 | [2.0.221698.0-com.amazon.tv.livetv_1211702810 (1211702810)](https://d1s31zyz7dcc2d.cloudfront.net/035d01d5cfc450c6482efb46040c17fc/com.amazon.tv.livetv.apk) | 12.6MB | 0caaf02f040cdfa079cf35cca1c008c2 |			
+| Live TV | 2023-05-16 | [2.0.221698.0-com.amazon.tv.livetv_1211702810 (1211702810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/45eac13e4096360e2a71532a8c645149/com.amazon.tv.livetv.apk) | 12.6MB | 0caaf02f040cdfa079cf35cca1c008c2 |
 |||_com.amazon.tv.livetv_
 |<br>
 | Multimodal SmartHome | 2020-08-28 | [1.0.204315.0_1927310 (1927310)](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 8.9MB | 499d490732d9d843249280914832675b |
@@ -445,6 +445,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Silk | 2023-04-04 | [110.4.3.5481.212.30 (1104500310)](https://d1s31zyz7dcc2d.cloudfront.net/ec6ff53eacbcddfdb9aecb1f271a1ddf/signed_slate_fire_tv_v110_4_3_arm.apk) | 71.7MB | dc84987a55c702948282d6295d7a2ad5 |	
 | Silk | 2023-04-21 | [110.6.7.5481.212.30 (1106500710)](https://d1s31zyz7dcc2d.cloudfront.net/9aacc95feb64ff016596b00c67b6ecc7/signed_slate_fire_tv_v110_6_7_arm.apk) | 71.8MB | aed0beaaca050f27747a07539e94fcdb |	
 | Silk | 2023-06-11 | [112.5.1.5615.213.30 (1125500110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/194a7166546300866020849731ebdd51/signed_slate_fire_tv_v112_5_1_arm.apk) | 85.4MB | 8a1cfb8d034d1e02e6b3a9e1d68c8ffe |
+| Silk | 2023-06-24 | [112.6.11.5615.213.30 (1126501110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/bae60a5024ef891fcb30fd233ed947c2/signed_slate_fire_tv_v112_6_11_arm.apk) | 85.4MB | 60d03d873173ad3c6b749080f6076f8c |
 |||_com.amazon.cloud9_
 |<br>	
 | SSDP Service | 2022-09-28 | [1.0.100053.00 (10005310) ](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
