@@ -61,9 +61,9 @@ For other FireTV device firmware visit the following:<br>
 ### Source Code
 | Date | Version | Download | Size | MD5 |
 |:----:|:-------:|:--------:|:----:|:---:|
-| 2019-10-04 | FireOS 7.2.0.4 | [FireTVCubeGen2-7.2.0.4-20191004.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/YbHeBIPhSWxBTpng8Y0nLiquDC/FireTVCubeGen2-7.2.0.4-20191004.tar.bz2) | 346.9MB | 07576a4674e8b0b3cba93b119eb35fd4 |
-| 2019-11-01 | FireOS 7.2.0.6 | [FireTVCubeGen2-7.2.0.6-20191101.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/FWd8DRNa20m5W2QgYX7dNhlE5m/FireTVCubeGen2-7.2.0.6-20191101.tar.bz2) | 346.9MB | 8020fd8953d5630210d87efa9a403c93 |
-| 2019-12-08 | FireOS 7.2.0.6 | [FireTVCubeGen2-7.2.0.6-20191208.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/jwW1Y4g93Q7xVgMsZgxVomRuDZ/FireTVCubeGen2-7.2.0.6-20191208.tar.bz2) | 347.0MB | c5db5a97dc3e8c2d326b8f143cd22f3f |
+| 2019-10-04 | FireOS 7.2.0.4 | [FireTVCubeGen2-7.2.0.4-20191004.tar.bz2](https://mega.nz/file/ZnsQ3AIY#Crl1VlaqXvmRGW5UMe3XkZcXcB18U8vEP-HTZk9Qci8) | 346.9MB | 07576a4674e8b0b3cba93b119eb35fd4 |
+| 2019-11-01 | FireOS 7.2.0.6 | [FireTVCubeGen2-7.2.0.6-20191101.tar.bz2](https://mega.nz/file/Izt2WIJQ#L5aFm9Q-J0Ljm3e6fAcLulteoxC5zBF_lWwMsKwwZVs) | 346.9MB | 8020fd8953d5630210d87efa9a403c93 |
+| 2019-12-08 | FireOS 7.2.0.6 | [FireTVCubeGen2-7.2.0.6-20191208.tar.bz2](https://mega.nz/file/Mu90UI5B#-H-Pp5o2gqdeKtj7tPuFHRz-okiCh5W0hLsKVz-OeOA) | 347.0MB | c5db5a97dc3e8c2d326b8f143cd22f3f |
 | 2020-02-14 | FireOS 7.2.1.2 | [FireTVCubeGen2-7.2.1.2-20200214.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/lPQPnABUS8JaAeSU0viRdCeLo3/FireTVCubeGen2-7.2.1.2-20200214.tar.bz2) | 344.2MB | ~~8a78ade53f390e5adc9c3c3d7437618f~~ 8fca9628f2a225559bf2af4d09e13ce7 |
 | 2020-08-05 | FireOS 7.2.1.6 | [FireTVCubeGen2-7.2.1.6-20200805.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/iEftvFrFOYyGGi6qIbxvt2oWMp/FireTVCubeGen2-7.2.1.6-20200805.tar.bz2) | 330.4MB | ~~87ee1371e35bb8829617d5efe0797e64~~ 28855a3f197f0c56ce3a366f9a738c02 |
 | 2020-10-05 | FireOS 7.2.2.4 | [FireTVCubeGen2-7.2.2.4-20201005.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/Y9sKfIlw2Xs4A2PtwWyDN8K5JS/FireTVCubeGen2-7.2.2.4-20201005.tar.bz2) | 454.2MB | ~~76628ae4394cb1df02c311684faba3ba~~ d869dee34f3418a9effe731c92a7d720 |
@@ -72,15 +72,17 @@ For other FireTV device firmware visit the following:<br>
 | 2021-06-28 | FireOS 7.2.4.2 | [FireTVCubeGen2-7.2.4.2-20210628.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/rKUQ2o8vSWex0zcvqe0YMmPgm0/FireTVCubeGen2-7.2.4.2-20210628.tar.bz2) | 1101.5MB | ~~c78e2719d3404410b5eed80a7bf26112~~ de3e713dafedcb994ef864ac762a59b4 |
 | 2022-02-14 | FireOS 7.2.4.2 | [FireTVCubeGen2-7.2.4.2-20220214.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/gwonwwYRShNbaNfjHJm4KJkxnk/FireTVCubeGen2-7.2.4.2-20220214.tar.bz2) | 1101.5MB | ~~c78e2719d3404410b5eed80a7bf26112~~ de3e713dafedcb994ef864ac762a59b4 |
 | 2022-02-07 | FireOS 7.2.7.3 | [FireTVCubeGen2-7.2.7.3-20220207.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/KLRB4zxnvzPB3JnK5G6CAr8Weh/FireTVCubeGen2-7.2.7.3-20220207.tar.bz2) | 444.2MB | ~~729b9631c899dd1e004c5cdee2493edd~~ c942b566fa193a27af6d8e38bfcebc33 |
-| 2022-04-26 | FireOS 7.2.7.9 | [FireTVCubeGen2-7.2.7.9-20220426.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/duOe3xPgxLQqwLwXEHOsGnvazS/FireTVCubeGen2-7.2.7.9-20220426.tar.bz2) | 1218.6MB | 3e442bd8bcf13c29d6e4ef2dc682f21d |
+| 2022-04-26 | FireOS 7.2.7.9 | [FireTVCubeGen2-7.2.7.9-20220426.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/duOe3xPgxLQqwLwXEHOsGnvazS/FireTVCubeGen2-7.2.7.9-20220426.tar.bz2) | 1218.6MB | ~~729b9631c899dd1e004c5cdee2493edd~~ 3e442bd8bcf13c29d6e4ef2dc682f21d |
 | 2023-05-19 | FireOS 7.6.0.3 | [FireTVCubeGen2-7.6.0.3-20230519.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/JYbv269CaBZVriYm3GngwHg95Y/FireTVCubeGen2-7.6.0.3-20230519.tar.bz2) | 485.8MB | c480e3ee75cf4d76dec1a2376162b0e4 |
 | 2023-04-14 | FireOS 7.6.1.4 | [FireTVCubeGen2-7.6.1.4-20230414.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/7DgWeFmrKkXCKhvI4YWbitJ0oy/FireTVCubeGen2-7.6.1.4-20230414.tar.bz2) | 485.9MB | aa3f70e764224db268e055d57a2974c5 |
 | 2023-02-16 | FireOS 7.6.2.4 | [FireTVCubeGen2-7.6.2.4-20230216.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/V5nHXE0mFEsQQw6p0q4ra4G8rr/FireTVCubeGen2-7.6.2.4-20230216.tar.bz2) | 508.2MB | ad035bb5ac62598271b0136974009861 |
 | 2023-04-12 | FireOS 7.6.3.3 | [FireTVCubeGen2-7.6.3.3-20230412.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/eI9b5dHFf5VJYgw0RzYHitGYih/FireTVCubeGen2-7.6.3.3-20230412.tar.bz2) | 521.2MB | 60beaf95bdfbcb9c301eb4d54799bfe8 |
 
-Note: There are a couple mistakes on Amazon's <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code page</a>. <br>
+Note: There are a couple mistakes on Amazon's <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code page</a>.<br>  
 FireTVCubeGen2-7.2.4.2-20210628.tar.bz2 = FireTVCubeGen2-7.2.4.2-20220214.tar.bz2 (same file)<br>
-~~FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz2 (same file)~~[fixed]<br>
+~~FireTVCubeGen2-7.2.7.3-20220207.tar.bz2 = FireTVCubeGen2-7.2.7.9-20220426.tar.bz2 (same file)~~[fixed]<br><br>
+Around January 2023, all source was repacked changing the MD5 hashes.  Unsure if any file changes occured.<br>
+In early 2023, Amazon purged the source page of any source older than mid 2020.  These source are now hosted by Mega. <br>
 
 
 ### Stock apps
