@@ -159,6 +159,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon App Store | 2023-03-24 | [release-8.5017.5.v.x.220811.0_422987810 (422987810)](https://d1s31zyz7dcc2d.cloudfront.net/3473b9a482d88ed610df4ac231391b5c/5.v.x.220811.0.apk) | 22.4MB | f7d270e3b8633ed13c975cf2b96dd579 |	
 | Amazon App Store | 2023-04-07 | [release-8.5019.5.v.x.220944.0_423024410 (423024410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9f6cf96990c6a825cfb8d80fdebcb5da/A5-preLD-signed.apk) | 22.4MB | c6a255d9b74e56fc6dfaf24efa1d24fb |
 | Amazon App Store | 2023-05-25 | [release-8.5020.5.v.x.221977.0_423245510 (423245510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/26fdfce2920ef2cb6ee2267628377179/5.v.x.221977.0A6.apk) | 21.8MB | b27c485dc539309490f2d6500bab358e |
+| Amazon App Store | 2023-07-05 | [release-8.5023.5.v.x.222809.0_423471710 (423471710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/1919521207ad1d025d763f8d7dbb0ee3/MiniTVsigned.apk) | 20.8MB | f4b354ea0dac88f2d15266d5006e2c8b |
 |||_com.amazon.venezia_
 |<br>
 | Amazon Game Center | 2022-10-14 | [1.0.735.0-com.amazon.gamehub-tv_1042710 (1042710)](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | 8.2MB | b6b5467b8ac9bb2968c0dd8e9f475801 |
@@ -319,6 +320,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Freevee | 2023-06-02 | [1.0.13062.0 (22493410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/db7473a77ae2c8ed1e80349cab5cb4a2/signed-app-RC-prod-may-release-1.0.13062.0.apk) | 17.1MB | 20f3f4f70625ab70b83334ad40e8c6f0 |
 | Freevee | 2023-06-02 | [1.0.13063.0 (22493610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9a16136727b0f47464866ccacaabdee3/signed-app-RC-prod-April-Rollback-release-1.0.13063.0.apk) | 25.5MB | 540653ee428d37f840d1640ca26c4b67 |
 | Freevee | 2023-06-13 | [1.0.13145.0 (22510810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/d22eae596647ae36bed63a109e1b3e9a/signed-app-RC-prod-may-patch-release-1.0.13145.0.apk) | 26.0MB | 86301979538de7d57c0339c1ac18d253 |
+| Freevee | 2023-07-07 | [1.0.13363.0 (22558410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/c839404a62ce85d2391adb84eae48801/signed_july-_app-prod-RC-13363.apk) | 26.5MB | 7e35943e4f3dc897211f8c3718b29bab |
 |||_com.amazon.imdb.tv.android.app_
 |<br>
 | IME (FireTV Keyboard) | 2021-11-25 | [1.0.525.0-com.amazon.tv.ime-jarvis_616013510 (616013510)](https://d1s31zyz7dcc2d.cloudfront.net/253d26a59b3afe872721001e0c81321f/signed_FireTvKeyboard-jarvis-release_1.0.525.0.apk) | 2.4MB | bcba4effd12755298e6a6139eb28bdb9 |
@@ -357,6 +359,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Live TV | 2023-02-23 | [2.0.221234.0-com.amazon.tv.livetv_1211601710 (1211601710)](https://d1s31zyz7dcc2d.cloudfront.net/47880265b340483a6c24a7adf1fe4b30/com.amazon.tv.livetv.apk) | 12.6MB | 05bbe9d4dab1d9c8d91f319e82a408ee |
 | Live TV | 2023-05-16 | [2.0.221698.0-com.amazon.tv.livetv_1211702810 (1211702810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/45eac13e4096360e2a71532a8c645149/com.amazon.tv.livetv.apk) | 12.6MB | 0caaf02f040cdfa079cf35cca1c008c2 |
 | Live TV | 2023-06-28 | [2.0.222233.0-com.amazon.tv.livetv_1211803810 (1211803810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/f9d7a7157448235e6df3db00b59d819c/com.amazon.tv.livetv.apk) | 12.7MB | 9a10344c1c72359a2a5bc060346ba6fd |
+| Live TV | 2023-07-14 | [2.0.222404.0-com.amazon.tv.livetv_1211803910 (1211803910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/5470ca9074554cd23b84132d07282731/com.amazon.tv.livetv.apk) | 12.7MB | 58b9fdafdca0f40576a5a2aed002a38d |
 |||_com.amazon.tv.livetv_
 |<br>
 | Multimodal SmartHome | 2020-08-28 | [1.0.204315.0_1927310 (1927310)](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 8.9MB | 499d490732d9d843249280914832675b |
@@ -424,6 +427,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Prime Video | 2023-06-23 | [PVFTV-61.1089-L (61108910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/c8356cba0b9513660f49f91b054f8fcf/Firebat-livingRoom-release-signed_61108910.apk) | 14.5MB | 130b6135af024ec2d6f8bd9a3f42e0ce |
 | Prime Video | 2023-06-27 | [PVFTV-62.1573-L (62157310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/7d111e8d3e9cd90045b62ee011d7a9e6/Firebat-livingRoom-release-signed_62157310.apk) | 14.8MB | 43689b522f02a40242ff31aa866f9a6a |
 | Prime Video | 2023-07-06 | [PVFTV-62.1596-L (62159610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/ebdb6ef52746c90a6cc5bc32154e5a12/Firebat-livingRoom-release-signed_62159610.apk) | 14.8MB | 01d423dce9d295907028ae25c5d21574 |
+| Prime Video | 2023-07-19 | [PVFTV-62.1633-L (62163310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9bc063e16e35654f607c18ccb4c8969b/Firebat-livingRoom-release-signed_62163310.apk) | 14.8MB | 5d5b31be19eb7f790218d777b0245ccb |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
