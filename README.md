@@ -77,6 +77,7 @@ For other FireTV device firmware visit the following:<br>
 | 2023-04-14 | FireOS 7.6.1.4 | [FireTVCubeGen2-7.6.1.4-20230414.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/7DgWeFmrKkXCKhvI4YWbitJ0oy/FireTVCubeGen2-7.6.1.4-20230414.tar.bz2) | 485.9MB | aa3f70e764224db268e055d57a2974c5 |
 | 2023-02-16 | FireOS 7.6.2.4 | [FireTVCubeGen2-7.6.2.4-20230216.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/V5nHXE0mFEsQQw6p0q4ra4G8rr/FireTVCubeGen2-7.6.2.4-20230216.tar.bz2) | 508.2MB | ad035bb5ac62598271b0136974009861 |
 | 2023-04-12 | FireOS 7.6.3.3 | [FireTVCubeGen2-7.6.3.3-20230412.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/eI9b5dHFf5VJYgw0RzYHitGYih/FireTVCubeGen2-7.6.3.3-20230412.tar.bz2) | 521.2MB | 60beaf95bdfbcb9c301eb4d54799bfe8 |
+| 2023-06-01 | FireOS 7.6.4.6 | [FireTVCubeGen2-7.6.4.6-20230601.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/7ET9QGr9e3Zyix88QIeMNdUDcA/FireTVCubeGen2-7.6.4.6-20230601.tar.bz2) | 521.4MB | 4081379ff466277c9dc7cfd8ff448604 |
 
 Note: There are a couple mistakes on Amazon's <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code page</a>.<br>  
 FireTVCubeGen2-7.2.4.2-20210628.tar.bz2 = FireTVCubeGen2-7.2.4.2-20220214.tar.bz2 (same file)<br>
@@ -90,6 +91,8 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 |:----:|:---:|:--------:|:----:|:---:|
 | ACA FireTV Android Client | 2021-10-18 | [ACAFireTVAndroidClient-2019.3.0-1.1.1179.0-30170010 (30170010)](https://d1s31zyz7dcc2d.cloudfront.net/334c93fd023f060211b99f7d43738edb/ACAFireTVAndroidClient-fos5-release-signed1179.apk) | 7.3MB | f2be55b87ecec06cd2428fe091ab503f |
 | ACA FireTV Android Client | 2023-03-01 | [ACAFireTVAndroidClient-2019.3.0-1.1.1246.0-30670010 (30670010)](https://d1s31zyz7dcc2d.cloudfront.net/718646c83d2741ae9e3ef97fc025d179/ACAFireTVAndroidClient-fos5-release-signed1246.apk) | 6.5MB | 3b80b40ef299daa821b3494c810de873 |
+| ACA FireTV Android Client | 2023-07-11 | [ACAFireTVAndroidClient-2019.3.0-1.1.1390.0-32150010 (32150010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/b4f7ef3812ca6b56b000212c6c72001e/signed_ACAFireTVAndroidClient-fos5-release_1.apk) | 6.6MB | 6228d4aeb8b3c361fb45f2837d411e62 |
+| ACA FireTV Android Client | 2023-07-18 | [ACAFireTVAndroidClient-2019.3.0-1.1.1393.0-32160010 (32160010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6c71a62398a6d4d9a945ecd5985c0c33/ACAFireTVAndroidClient-fos5-release-signed.apk) | 6.5MB | b7de55272cc3a8a3d5f81337f3fbfd4a |
 |||_com.amazon.aca_
 |<br>
 | AIOnDeCService | 2022-11-23 | [1.0.188.0 (2009010)](https://d1s31zyz7dcc2d.cloudfront.net/8a549d6b917e761f6ce98196f98e8bb8/ASAdsAIOnDeCService-1.0.188.0-release-signed.apk) | 2.5MB | f92f7b3c69bc25f8373aa2791a8a4638 |
@@ -113,7 +116,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Alexa | 2023-04-13 | [3.0.5998.0-com.amazon.vizzini.648.0.0_648800710 (648800710)](https://d1s31zyz7dcc2d.cloudfront.net/d195e8c06ea9f3ae1a9e3e2da4774310/signed_FTVSIM-release_648_1_rollback.apk) | 17.5MB | 53123fb249232563b0549f1dc6d2bc26 |
 | Alexa | 2023-05-03 | [3.0.6468.0-com.amazon.vizzini.648.1.0_648800910 (648800910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/d13f148ec99a7fadf8aee420c01405ed/signed_com.amazon.vizzini_1.apk) | 17.5MB | 1fa82e020b1620d71963ff33da0b26c2 |
 | Alexa | 2023-05-24 | [3.0.6824.0-com.amazon.vizzini.648.1.0_648804210 (648804210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/fdc45939e87995de5a0a53b985d89709/signed_com.amazon.vizzini_648_1_2.apk) | 17.5MB | cec5a13d1a57bc40eff51242840b48ff |
-| Alexa | 2023-06-01 | [3.0.6811.0-com.amazon.vizzini.649.0.0_649166610 (649166610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/1db2317fabea0b2b15c968390a2eace4/signed_com.amazon.vizzini_2.apk) | 18.1MB | e0f9d93b25c3c64d9b775c5159304bbd |
+| Alexa | 2023-07-21 | [3.0.7585.0-com.amazon.vizzini.648.1.3_648807410 (648807410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/131420d8ef3036867d060919e586bc7c/com.amazon.vizzini_648_1_3.apk) | 17.5MB | 9de45b233a92e77e1fbce8c57ae2381c |
 |||_com.amazon.vizzini_
 |<br>
 | Alexa Alerts | 2022-06-22 | [1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010 (103061010)](https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.3MB | 6573d8b8a71c00a752e8808458582251 |
@@ -284,12 +287,14 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | FireTV Player | 2023-05-23 | [FireTv.347.11201 (347011210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/714db7b3e4474c7bf7370c70c5698b27/com.amazon.avod.apk) | 30.8MB | 37cf7b8e251db4a7a4ad8acff76ac08a |
 | FireTV Player | 2023-06-08 | [FireTv.348.23701 (348023710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/4a2434f6d33eee8ece5da9a3397795d8/com.amazon.avod.apk) | 31.5MB | 719787f31fd72a6a080d89f7e1e7d386 |
 | FireTV Player | 2023-06-29 | [FireTv.349.22601 (349022610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/94721262e29d59f2ccb30d274f58e4ba/com.amazon.avod.apk) | 31.5MB | f21d8e4b2ed088b783044fe3d6c655d2 |
+| FireTV Player | 2023-07-18 | [FireTv.350.13001 (350013010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/18c93d62a1480af1dc15928d3485aa16/com.amazon.avod.apk) | 31.6MB | 837b244af7aae17bf84612506019340f |
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1 (106000110)](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
 | FireTV Remote | 2022-10-07 | [1084001.1 (108400110)](https://d1s31zyz7dcc2d.cloudfront.net/34f80d53ba98d918c0cfa2ffd44c630f/1084_RPM-RSE-Server-release-signed_Geneva.apk) | 0.9MB | 9d8635b8cc1f961d68cb849b16c1b92e |
 | FireTV Remote | 2022-11-07 | [1085001.1 (108500110)](https://d1s31zyz7dcc2d.cloudfront.net/a8b8ce33bb53bc8e85aa8024380c9bf0/RPM-RSE-Server-release-signed-Hanoi.apk) | 0.9MB | 8a434c89506b9bfadcd3fa8314dbabdb | 
 | FireTV Remote | 2023-06-09 | [1125001.1 (112500110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/37699dfd53ad7edde6bd76078abe2204/BisonTurnstileServer-release-signed_1.apk) | 0.9MB | a9ee03c11f03da48f997f3fdfb26baee |
+| FireTV Remote | 2023-07-12 | [1133001.1 (113300110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/79b050e74dfe7cb252870417fd5b442b/signed_BisonTurnstileServer-release-2.6.0.apk) | 0.9MB | 36fedce4f52e3931d249e721116932ce |
 |||_com.amazon.tv.turnstile_
 |<br>
 | FireTV Remote App Pairing  | 2023-04-06 | [1.0.385.0_102023710 (102023710)](https://d1s31zyz7dcc2d.cloudfront.net/b5b3f4ef21c2de5765157d08ee4df382/MSTLightningServer-release-signed_3.apk) | 1.3MB | 4a5eb324f84c5689d7f28485b7926fec |  
@@ -428,6 +433,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Prime Video | 2023-06-27 | [PVFTV-62.1573-L (62157310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/7d111e8d3e9cd90045b62ee011d7a9e6/Firebat-livingRoom-release-signed_62157310.apk) | 14.8MB | 43689b522f02a40242ff31aa866f9a6a |
 | Prime Video | 2023-07-06 | [PVFTV-62.1596-L (62159610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/ebdb6ef52746c90a6cc5bc32154e5a12/Firebat-livingRoom-release-signed_62159610.apk) | 14.8MB | 01d423dce9d295907028ae25c5d21574 |
 | Prime Video | 2023-07-19 | [PVFTV-62.1633-L (62163310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9bc063e16e35654f607c18ccb4c8969b/Firebat-livingRoom-release-signed_62163310.apk) | 14.8MB | 5d5b31be19eb7f790218d777b0245ccb |
+| Prime Video | 2023-07-25 | [PVFTV-63.0152-L (63015210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/47a8bb4ece1b555a3398bf2e661c2260/Firebat-livingRoom-release-signed_63015210.apk) | 18.4MB | a4350138d2edb16f19a8b65097d675e4 |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
@@ -466,6 +472,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Silk | 2023-06-11 | [112.5.1.5615.213.30 (1125500110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/194a7166546300866020849731ebdd51/signed_slate_fire_tv_v112_5_1_arm.apk) | 85.4MB | 8a1cfb8d034d1e02e6b3a9e1d68c8ffe |
 | Silk | 2023-06-24 | [112.6.11.5615.213.30 (1126501110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/bae60a5024ef891fcb30fd233ed947c2/signed_slate_fire_tv_v112_6_11_arm.apk) | 85.4MB | 60d03d873173ad3c6b749080f6076f8c |
 | Silk | 2023-07-05 | [112.7.5.5615.213.30 (1127500510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/a6db4adfada7a68c03f9c69fa405907a/signed_slate_fire_tv_v112_7_5_arm.apk) | 85.4MB | f190934867f4cebd3b4ac229ccf1f289 |
+| Silk | 2023-07-25 | [114.2.7.5735.220.30 (1142500710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/a36f76b020626f30f82f7a10e8d41bac/signed_slate_fire_tv_v114_2_7_arm.apk) | 85.4MB | 4844848da8b6294afe702d1f140f2ed4 |
 |||_com.amazon.cloud9_
 |<br>	
 | SSDP Service | 2022-09-28 | [1.0.100053.00 (10005310) ](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
