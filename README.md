@@ -487,7 +487,6 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Settings Menu | 2023-06-21 | [1.0.8260.0-com.amazon.tv.settings.v2-jarvis_631013010 (631013010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/72bd15c4946cfa658f9ad1d990e5a0ab/signed_FireTvSettings-jarvis-release_1.0.8260.0.apk) | 12.9MB | f4bbb9c8e2c9b59e4c554529143990dc |
 | Settings Menu | 2023-08-01 | [1.0.8594.0-com.amazon.tv.settings.v2-jarvis_634003010 (634003010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/b72be3cf10e954581d61ca69e0f4f999/signed_FireTvSettings-jarvis-release_Brussels11.0.8594.0.apk) | 13.1MB | ee0efd62079935041a4d0c06d7cbfca7 |
 | Settings Menu | 2023-08-23 | [1.0.8739.0-com.amazon.tv.settings.v2-jarvis_635006110 (635006110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6942d8d7e89864e01adda35015247e2e/signed_FireTvSettings-jarvis-release_1.0.8739.0.apk) | 13.1MB | 4dd2830008b49f03a0110baa8a3e6dff |
-
 |||_com.amazon.tv.settings.v2_
 |<br>
 | Settings Help Menu | 2022-12-05 | [7.0.77.0-com.amazon.tv.csapp-jarvis_700015610 (700015610)](https://d1s31zyz7dcc2d.cloudfront.net/868de86918ce7ed442b8f364f9183dc2/signed_CSAppFireTV-jarvis-release-7.0.77.0.apk) | 0.9MB | 103778b74ea3c1320f7c19e26ec14539 |	
