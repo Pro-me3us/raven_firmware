@@ -31,6 +31,7 @@ For other FireTV device firmware visit the following:<br>
 | 2023-03-29 | FireOS 7.6.3.3 (PS7633/3445) | [update-kindle-raven-PS7633_user_3445_0027347744132.bin](https://d1s31zyz7dcc2d.cloudfront.net/2765a04b6df1cd0f503d614cbfc24259/update-kindle-raven-PS7633_user_3445_0027347744132.bin) | 843.5MB | d69687d36269b2a2f8b5b54c09703c2a 
 | 2023-05-23 | FireOS 7.6.4.6 (PS7646/3550) | [update-kindle-raven-PS7646_user_3550_0028085968516.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2851b232dd9fba73fda61578c5be43e7/update-kindle-raven-PS7646_user_3550_0028085968516.bin) | 835.4MB | 8bb4424d113c6c98f806066dd8ac7db9 |
 | 2023-08-26 | FireOS 7.6.4.6 (PS7646/3565) | [update-kindle-raven-PS7646_user_3565_0028085972356.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/7df46db52524a0a0d9ed6c4eb8f2eed0/update-kindle-raven-PS7646_user_3565_0028085972356.bin) | 835.5MB | dd1939e38fd5fb620db1ce3c81e7a379 |
+| 2023-08-26 | FireOS 7.6.5.2 (PS7652/3564) | [update-kindle-raven-PS7652_user_3564_0028488625284.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e29cd908b43e700bea46f50a3ff45226/update-kindle-raven-PS7652_user_3564_0028488625284.bin) | 829.1MB | af486212b9a0e67e2094f257b3aba0c8 |
 
 
 ### Differential Firmware Update
@@ -170,6 +171,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon App Store | 2023-05-25 | [release-8.5020.5.v.x.221977.0_423245510 (423245510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/26fdfce2920ef2cb6ee2267628377179/5.v.x.221977.0A6.apk) | 21.8MB | b27c485dc539309490f2d6500bab358e |
 | Amazon App Store | 2023-07-05 | [release-8.5023.5.v.x.222809.0_423471710 (423471710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/1919521207ad1d025d763f8d7dbb0ee3/MiniTVsigned.apk) | 20.8MB | f4b354ea0dac88f2d15266d5006e2c8b |
 | Amazon App Store | 2023-08-01 | [release-8.5024.5.v.x.223487.0_423673510 (423673510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/b602ce4a2a0e7946e2712541f248a765/com.amazon.venezia.apk) | 20.9MB | 03a49bb06153f1b2505130770a067488 |
+| Amazon App Store | 2023-08-28 | [release-8.5024.5.v.x.224085.0_423866810 (423866810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e3ddecb5847e4899d425543dd89a0b8c/MASClientNapkinAPK-ftv-release-signed-A8.1.1-5.v.x.224085.0.apk) | 20.9MB | dc859054f6a986ac2a02b8fe22e952c3 |
 |||_com.amazon.venezia_
 |<br>
 | Amazon Game Center | 2022-10-14 | [1.0.735.0-com.amazon.gamehub-tv_1042710 (1042710)](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | 8.2MB | b6b5467b8ac9bb2968c0dd8e9f475801 |
@@ -484,6 +486,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Settings Menu | 2023-05-05 | [1.0.7980.0-com.amazon.tv.settings.v2-jarvis_630018310 (630018310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2364f7c6b590acd2bdd9a80bbf67eec4/signed_FireTvSettings-jarvis-release_1.0.7980.0.apk) | 12.9MB | e48fe2f726fbad76791eb33346cdd904 |
 | Settings Menu | 2023-06-21 | [1.0.8260.0-com.amazon.tv.settings.v2-jarvis_631013010 (631013010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/72bd15c4946cfa658f9ad1d990e5a0ab/signed_FireTvSettings-jarvis-release_1.0.8260.0.apk) | 12.9MB | f4bbb9c8e2c9b59e4c554529143990dc |
 | Settings Menu | 2023-08-01 | [1.0.8594.0-com.amazon.tv.settings.v2-jarvis_634003010 (634003010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/b72be3cf10e954581d61ca69e0f4f999/signed_FireTvSettings-jarvis-release_Brussels11.0.8594.0.apk) | 13.1MB | ee0efd62079935041a4d0c06d7cbfca7 |
+| Settings Menu | 2023-08-23 | [1.0.8739.0-com.amazon.tv.settings.v2-jarvis_635006110 (635006110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6942d8d7e89864e01adda35015247e2e/signed_FireTvSettings-jarvis-release_1.0.8739.0.apk) | 13.1MB | 4dd2830008b49f03a0110baa8a3e6dff |
+
 |||_com.amazon.tv.settings.v2_
 |<br>
 | Settings Help Menu | 2022-12-05 | [7.0.77.0-com.amazon.tv.csapp-jarvis_700015610 (700015610)](https://d1s31zyz7dcc2d.cloudfront.net/868de86918ce7ed442b8f364f9183dc2/signed_CSAppFireTV-jarvis-release-7.0.77.0.apk) | 0.9MB | 103778b74ea3c1320f7c19e26ec14539 |	
