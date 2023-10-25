@@ -412,6 +412,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Live TV | 2023-08-11 | [2.0.222817.0-com.amazon.tv.livetv_1212649910 (1212649910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/cf02b975a6ed6f18f7f75dabe3267724/6A_Rollback_12126499.apk) | 12.7MB | b03abb3b19140aac074ef07b42c4ba74 |
 | Live TV | 2023-09-06 | [2.0.223236.0-com.amazon.tv.livetv_1212650110 (1212650110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/cdae84c2dd473beb2d6eda78c39bc40a/com.amazon.tv.livetv.apk) | 13.1MB | 2b79a4a1edeb82f793551b4cad3bd6c6 |
 | Live TV | 2023-09-27 | [2.0.223590.0-com.amazon.tv.livetv_1212704610 (1212704610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/53464a529af38cec0508de2c1a7c8b05/com.amazon.tv.livetv.apk) | 14.3MB | 26c3e0e52a2dcee3ed600bbc1a3b5896 |
+| Live TV | 2023-09-19 | [2.0.223337.0-com.amazon.tv.livetv_1212749910 (1212749910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9c55c7cb7d53495ddb6342ab12d8d15e/com.amazon.tv.livetv6.apk) | 13.1MB | f2bc23e7c1023f526e9b78559d6720a8 |
 |||_com.amazon.tv.livetv_
 |<br>
 | Low Storage Manager | 2023-07-25 | [1.0.252.0-com.amazon.device.lowstoragemanager_3009810 (3009810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/1765052288d8269eeca09471fd387fbb/signed_fos7FireTVLowStorageManager-release.apk) | 0.5MB | 808613bd90a9f58b724ff31c614a3fe6 |
@@ -550,6 +551,9 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 |<br>	
 | SSDP Service | 2022-09-28 | [1.0.100053.00 (10005310) ](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
 |||_com.amazon.ssdpservice_
+|<br>
+| Storage Manager | 2023-08-31 | [1.0.254.0-com.amazon.storage.manager_1027310 (1027310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/80a29e018b6a5989cee532b015ec7834/signed_FireTVStorageManager-release4.apk) | 0.3MB | f0b7c150cf0e6842465e2a449a2ed16c |
+|||_com.amazon.storage.manager_
 |<br>
 | System Status Monitor | 2022-09-12 | [1.0.526.0-com.amazon.ssmsys_5043110 (5043110)](https://d1s31zyz7dcc2d.cloudfront.net/30c1fc0669bd72a8ef2551e8b1e8c559/com.amazon.ssmsys.apk) | 2.5MB | b0031f19800b9b50a4fc08b8904d1508 |
 | System Status Monitor | 2022-10-12 | [1.0.625.0-com.amazon.ssmsys_5053110 (5053110)](https://d1s31zyz7dcc2d.cloudfront.net/fc89572c6f7ff508c934aecc2fb1b4ad/com.amazon.ssmsys.apk) | 2.5MB | abb581fb94a5d413b4448b8fe8047627 |
