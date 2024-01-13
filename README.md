@@ -84,6 +84,8 @@ For other FireTV device firmware visit the following:<br>
 | 2023-02-16 | FireOS 7.6.2.4 | [FireTVCubeGen2-7.6.2.4-20230216.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/V5nHXE0mFEsQQw6p0q4ra4G8rr/FireTVCubeGen2-7.6.2.4-20230216.tar.bz2) | 508.2MB | ad035bb5ac62598271b0136974009861 |
 | 2023-04-12 | FireOS 7.6.3.3 | [FireTVCubeGen2-7.6.3.3-20230412.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/eI9b5dHFf5VJYgw0RzYHitGYih/FireTVCubeGen2-7.6.3.3-20230412.tar.bz2) | 521.2MB | 60beaf95bdfbcb9c301eb4d54799bfe8 |
 | 2023-06-01 | FireOS 7.6.4.6 | [FireTVCubeGen2-7.6.4.6-20230601.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/7ET9QGr9e3Zyix88QIeMNdUDcA/FireTVCubeGen2-7.6.4.6-20230601.tar.bz2) | 521.4MB | 4081379ff466277c9dc7cfd8ff448604 |
+| 2023-11-07 | FireOS 7.6.5.2 | [FireTVCubeGen2-7.6.5.2-20231107.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/U2FZybmnvI7gyLA91f4nTHH1On/FireTVCubeGen2-7.6.5.2-20231107.tar.bz2) | 516.7MB | bd7ffe65d44c82bc7a9e1bb533edd509 |
+| 2023-11-24 | FireOS 7.6.6.4 | [FireTVCubeGen2-7.6.6.4-20231124.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/KV4Nx9kk8y1XASpq43cbbxPWTZ/FireTVCubeGen2-7.6.6.4-20231124.tar.bz2) | 535.5MB | e90718438cd2d25444d0de792376f38c |
 
 Note: There are a couple mistakes on Amazon's <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code page</a>.<br>  
 FireTVCubeGen2-7.2.4.2-20210628.tar.bz2 = FireTVCubeGen2-7.2.4.2-20220214.tar.bz2 (same file)<br>
