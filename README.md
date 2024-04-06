@@ -149,6 +149,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Alexa | 2023-10-13 | [3.0.8639.0-com.amazon.vizzini.650.2.0_650820010 (650820010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/fca5230a10a16e876aa2b58d8b851057/signed_3.0.8639.0-com.amazon.vizzini.650.2.0_650820010.apk) | 18.2MB | 5720983b707e2ab60c90b68275ee91eb |
 | Alexa | 2023-11-13 | [3.0.9041.0-com.amazon.vizzini.651.0.1_651092110 (651092110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0e8065a7b8bc040318abd23f26cd7349/signed_com.amazon.vizzini_651_0_1_11_13.apk) | 18.3MB | 63fa92ce794bcaeb4316c7a2cbbf07bb |
 | Alexa | 2023-12-15 | [3.0.9336.0-com.amazon.vizzini.651.1.1_651093010 (651093010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2023/12/15/daf8d33e-24b3-4363-908b-8e63a2ac07fa/1702610819584-FTVSIM-3.0.9336.apk) | 18.3MB | 962be6823eba339f7ebe3e67c97d5851 |
+| Alexa | 2024-03-14 | [3.0.10321.0-com.amazon.vizzini.652.1.0_652803310 (652803310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/14/55ecb94f-a794-4190-868e-cbb4850b82fd/1710364556529-signed_com.amazon.vizzini_652_1_13_march.apk) | 21.1MB | a58739f0ed362680cb13d6e6d155664e |
 |||_com.amazon.vizzini_
 |<br>
 | Alexa Alerts | 2022-06-22 | [1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010 (103061010)](https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | 11.3MB | 6573d8b8a71c00a752e8808458582251 |
@@ -207,6 +208,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon App Store | 2023-10-26 | [release-8.5026.5.v.x.224777.0_424181710 (424181710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9273950a6bd65a54ef0a38b79914eb8a/5.v.x.224777.0_ftv_signed_A10latest.apk) | 21.9MB | 9f3c8a416d61694aeb10bff5f0fdbae7 |
 | Amazon App Store | 2024-01-04 | [release-8.5026.5.v.x.225230.0_424339610 (424339610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/1/4/24ba8464-344f-4128-ab83-15e872dac70d/1704360357341-MASClientNapkinAPK-ftv-release-signed_5.v.x.225230.0.apk) | 21.9MB | d40caa0bac6b9d75cd499ec27d9e6510 |
 | Amazon App Store | 2024-02-15 | [release-8.5029.5.v.x.225700.0_424540410 (424540410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/15/e4bd6df2-0141-4f08-a72f-09f03d1c34d1/1708002822841-AR1_GM_5.v.x.225700.0_FTV.apk) | 22.3MB | e7fd925ed5e21ec1fc0087f0af8ac999 |
+| Amazon App Store | 2024-03-21 | [release-8.5029.5.v.x.226296.0_424778510 (424778510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/21/2f207a8b-d274-4d30-add5-19b3e5b092af/com.amazon.venezia.apk) | 22.3MB | 5357682b5627cae4bef20caec2a924a3 |
 |||_com.amazon.venezia_
 |<br>
 | Amazon Game Center | 2022-10-14 | [1.0.735.0-com.amazon.gamehub-tv_1042710 (1042710)](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | 8.2MB | b6b5467b8ac9bb2968c0dd8e9f475801 |
@@ -244,6 +246,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon Music | 2023-09-26 | [3.4.1311.0 (304103110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/c4a39777670f5ba320ba9fea084ad2ac/signed_DMTVAndroid-firetv-prod-arm32-rel-3.4.1311.apk) | 20.9MB | 4633045f87da5d0d124a67df9d7949ae |
 | Amazon Music | 2023-11-14 | [3.4.1423 (304142310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2acd1e0b50d67cf2494eaa0df409b9e3/signed_DMTVAndroid-firetv-prod-arm32-release_1.apk) | 24.7MB | e3814a17ea26093db4e71ce8207ea254 |
 | Amazon Music | 2024-03-14 | [3.4.1425 (304142510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/14/72b7a033-4f40-433f-802a-f03671655511/1710429448481-signed_3.4.1454.0-firetv-prod-arm32-release.apk) | 24.8MB | 9ffdd86e72ac280f1b1fdfd44fd31c1f |
+| Amazon Music | 2024-03-22 | [3.4.1427 (304142710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/22/6b40ab9e-adfd-41eb-b60d-17b9234a4880/1711107482438-signed_3.4.1427-firetv-prod-arm32-release.apk) | 24.8MB | e692b0e844af194b68f26c0207fc5e66 |
 |||_com.amazon.bueller.music_
 |<br>
 | Amazon Photos | 2022-02-25 | [2.14.0-883278710 (883278710)](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
@@ -374,6 +377,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | FireTV Player | 2024-02-27 | [FireTv.364.502301 (364502310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/27/ad6638d5-647e-48a9-ba87-bc80505660bf/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_364502310.apk) | 36.7MB | cef397d06a5ebc8f67e144f867f9d2ee |
 | FireTV Player | 2024-03-11 | [FireTv.365.501901 (365501910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/11/b8c1d097-664d-44de-9f1b-ad8884e30b8f/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_365501910.apk) | 36.7MB | 0577a1fb704334fa4c91e35fcb96d604 |
 | FireTV Player | 2024-03-21 | [FireTv.365.502101 (365502110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/21/68fa98a6-acb4-48a7-9b67-42c31897a26f/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_365502110.apk) | 36.7MB | 7218b66b8d56091b6054f144f65629ae |
+| FireTV Player | 2024-04-01 | [FireTv.366.502401 (366502410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/1/92e0c0e6-21fa-466b-aea4-b5c6e347907b/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_366502410.apk) | 37.0MB | fb03b477568fa530d873df021419700a |
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1 (106000110)](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
@@ -480,6 +484,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 |||_com.amazon.device.lowstoragemanager_
 |<br>
 | MiniTV | 2023-07-30 | [1.2.0.100 (2002110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/55d50845b657587ccb26188fd6f5c124/signed_com.amazon.minitv.android.app.release.apk) | 1.4MB | e76115f295a914f5333b484e497d66cf |
+| MiniTV | 2024-03-28 | [1.2.1.100 (2002210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/28/db70b4f1-de6a-4469-af60-d75624af2a41/1711623033768-signed_com.amazon.minitv.android.app.release_V2.apk) | 2.8MB | 72568859ef6788316b3b192786dc98a4 |
 |||_com.amazon.minitv.android.app_
 |<br>
 | Multimodal SmartHome | 2020-08-28 | [1.0.204315.0_1927310 (1927310)](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 8.9MB | 499d490732d9d843249280914832675b |
@@ -494,6 +499,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | News | 2023-08-07 | [1.0.11203.0_12098310 (12098310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/56aae67197af4f48ed520b008b833c1c/signed_HedwigNews-release_v40.apk) | 14.3MB | 7ab94ebc9f6fff8607fe5ee4da651651 |
 | News | 2023-08-21 | [1.0.11296.0_12112010 (12112010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/25030e46f18609b63e198e78f8ccbf4d/signed_HedwigNews-release_v44.apk) | 14.3MB | e6d990df13f1c6069f7a85930d7883e2 |
 | News | 2023-10-24 | [1.0.11905.0_12198010 (12198010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2023/10/24/06379d8f-b2fc-424a-843a-f1a510737e2d/1698108210395-signed_Hedwig_release_FC_V19.apk) | 10.9MB | 8120e85636484245dcf5edfb88d1e389 |
+| News | 2024-03-18 | [1.0.12974.0_12359710 (12359710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/18/e767f14f-1d85-47c7-b3a3-b5e64c436725/1710783070487-signed_HedwigNews-release-V0314.apk) | 11.0MB | 5b53198659bc926747649f161b6b0ed9 |
 |||_com.amazon.hedwig_
 |<br>
 | OOBE (Out-of-Box-Experience) | 2022-08-07 | [1.0.6460.0-com.amazon.tv.oobe-jarvis_624016310 (624016310)](https://d1s31zyz7dcc2d.cloudfront.net/1280b8179678dc072c1bcb9503a5c5e9/signed_FireTvOobe-jarvis-release_1.0.6460.0_GM_Oakwood.apk) | 11.3MB | 78648873671d85927440ee7797e67b33 |
@@ -582,6 +588,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Prime Video | 2024-02-26 | [PVFTV-75.0132-L (75013210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/26/631c53bc-0e9e-40ba-a2b5-a1f4785bf4de/1708985300804-Firebat-livingRoom-release-signed_75013210.apk) | 19.6MB | 59c17de683acf843848dfb6592e01e07 |
 | Prime Video | 2024-03-08 | [PVFTV-76.0130-L (76013010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/8/69a6f6fd-8ab4-4eed-bd9b-08e6aa3857cd/1709870210252-Firebat-livingRoom-release-signed_76013010.apk) | 19.8MB | a9a5f4d1d39330ecf918cd7d83aaa418 |
 | Prime Video | 2024-03-16 | [PVFTV-77.0098-L (77009810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/16/b9fdc76d-3597-408d-b110-917b1055bba0/1710548985792-Firebat-livingRoom-release-signed_77009810.apk) | 19.4MB | a46b7e77b24ad4f49d7f894755ba80b9 |
+| Prime Video | 2024-03-29 | [PVFTV-78.0080-L (78008010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/29/90bff6e8-3557-495a-94b2-d9059c256928/1711743905188-Firebat-livingRoom-release-signed_78008010.apk) | 19.5MB | 7d3214606a74a4d65c1bf77c71828a67 |
+| Prime Video | 2024-04-05 | [PVFTV-78.0082-L (78008210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/5/b598ea15-953c-44a8-9bb0-88103c43950d/1712353433600-Firebat-livingRoom-release-signed_78008210.apk) | 19.5MB | 6303891d2c94e17667e244876d92917c |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
