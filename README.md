@@ -388,6 +388,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | FireTV Player | 2024-04-11 | [FireTv.367.502801 (367502810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/11/ee54febf-ff7d-4981-90ad-969ae6dc1477/1712864799985-com.amazon.avod.apk) | 37.0MB | 1419d7a1e508279abb0adc0c06e70c66 |
 | FireTV Player | 2024-04-26 | [FireTv.368.501701 (368501710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/26/6de32451-a084-4372-a29a-0ca74654ca8c/1714110787324-com.amazon.avod.apk) | 37.1MB | 5a0014e480fec7eb2b758230ee86382d |
 | FireTV Player | 2024-05-09 | [FireTv.369.502501 (369502510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/9/74253b26-dc0a-4187-8b1f-264c1ee414df/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_369502510.apk) | 37.2MB | a7f67eae97fd8bbf1b2aa590324d60e4 |
+| FireTV Player | 2024-05-20 | [FireTv.370.501901 (370501910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/20/0ce0514d-7909-4496-b12f-8fcc17384179/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_370501910.apk) | 37.6MB | cc6961efd2c062f4db4c568d18dae014 |
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1 (106000110)](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
@@ -466,6 +467,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 |||_com.amazon.kso.blackbird_
 |<br>
 | Music & More | 2023-12-07 | [1.00488.1.1 (10048811)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e7897425f12414224031632633958c93/app-armeabi-v7a-release-prod-signed-10048811.apk) | 15.9MB | 35b5bf9b8cca58208c5211d46af25a61 |
+| Music & More | 2024-05-15 | [1.00759.1.1 (10075911)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/15/62f88cef-f262-4d14-a7a9-375e79b35b98/app-armeabi-v7a-release-prod-signed-10075911.apk) | 9.2MB | 5089b5ebc3bd8b055313a6911bbbd61b |
 |||_com.amazon.audiohome_
 |<br>
 | Live TV | 2022-09-29 | [2.0.220164.0-com.amazon.tv.livetv_1211201910 (1211201910)](https://d1s31zyz7dcc2d.cloudfront.net/a34825690de3b3e9575f9bd852c877fc/com.amazon.tv.livetv.apk) | 12.0MB | c39aa05ae5b85e819c5619eb509a1bae |
@@ -668,6 +670,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Silk | 2024-04-25 | [122.4.1.6261.160.30 (1224500110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/25/995aa9a2-1fd9-4048-815b-83664d044306/1714070093420-signed_slate_fire_tv_v122_4_1_arm.apk) | 94.1MB | b4e7ffbc6329ee2ce0d791af650ab0ea |
 | Silk | 2024-05-09 | [122.5.1.6261.160.30 (1225500110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/9/de8e57ab-acc4-4980-9d30-679f24fcaafb/1715278388768-signed_slate_fire_tv_v122_5_1_arm.apk) | 93.9MB | b75304138449e78b70614fcee9928144 |
 | Silk | 2024-05-15 | [122.6.4.6261.160.30 (1226500410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/15/d89189a8-e66d-4d30-8915-32570c1ad6fe/1715793856117-signed_slate_fire_tv_v122_6_4_arm.apk) | 93.9MB | dbfa628586f633ad99b5378ee647a302 |
+| Silk | 2024-05-24 | [124.3.2.6367.221.30 (1243500210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/24/fbf15170-4e3a-428b-99d8-d00a49e7f910/1716570638864-signed_slate_fire_tv_v124_3_2_arm.apk) | 95.8MB | 5fb46951ac7c35f7b0270b4814967bde |
 |||_com.amazon.cloud9_
 |<br>	
 | SSDP Service | 2022-09-28 | [1.0.100053.00 (10005310) ](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
