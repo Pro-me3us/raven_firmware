@@ -136,6 +136,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Alberto Service | 2023-10-27 | [1.0-AlbertoService-1001400800 (1001400810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0889cd6fb6ce793f8252ce7958b782b8/10014008.apk) | 5.2MB | ff114ce52df2e1a91ec3c2801671a617 |
 | Alberto Service | 2023-12-19 | [1.0-AlbertoService-1001401500 (1001401510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e9ec03430e05b200ad5749412fb13847/4015.apk) | 5.2MB | 22b9fd27b2dc189ff9e669e1aea80496 |
 | Alberto Service | 2024-01-24 | [1.0-AlbertoService-1001601500 (1001601510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/1/24/cea0fed2-1940-4508-83f8-4a8ee93c69ce/1706069530247-10016015.apk) | 6.3MB | 8bd205855757c6685c701bd836c200f0 |
+| Alberto Service | 2024-07-16 | [1.0-AlbertoService-1001601700 (1001601710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/16/ca7d5603-c737-4e64-bdb4-977ac29e3705/1721124709915-com.amazon.tv.developer.dataservice.apk) | 6.4MB | 70682ae6044a87b8fd18908fc2c3668d |
 |||_com.amazon.tv.developer.dataservice_
 |<br>		
 | Alexa | 2021-01-08 | [2.0.10021.0-com.amazon.vizzini.632.0.0_632128610 (632128610)](https://d1s31zyz7dcc2d.cloudfront.net/13a8f301d98727e66618a0c9334af545/signed_com.amazon.vizzini.apk) | 28.1MB | db0f9e03e80781fd373dc4a36de48123 |
@@ -220,6 +221,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon App Store | 2024-02-15 | [release-8.5029.5.v.x.225700.0_424540410 (424540410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/15/e4bd6df2-0141-4f08-a72f-09f03d1c34d1/1708002822841-AR1_GM_5.v.x.225700.0_FTV.apk) | 22.3MB | e7fd925ed5e21ec1fc0087f0af8ac999 |
 | Amazon App Store | 2024-03-21 | [release-8.5029.5.v.x.226296.0_424778510 (424778510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/21/2f207a8b-d274-4d30-add5-19b3e5b092af/com.amazon.venezia.apk) | 22.3MB | 5357682b5627cae4bef20caec2a924a3 |
 | Amazon App Store | 2024-04-23 | [release-8.5030.5.v.x.226796.0_424950710 (424950710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/23/71c156de-7490-4f8f-9711-49400d328098/1713852608993-com.amazon.venezia-5.v.x.226796.0-AR2.apk) | 22.4MB | f1d5fbb0f64e35fd562458684e92f533 |
+| Amazon App Store | 2024-07-18 | [release-8.5032.5.v.x.228309.0_425474110 (425474110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/18/4e8e24b9-8f0d-424f-b822-dc069cebaaee/1721318593338-AR3_DOT_8.5032.5.v.x.228309.0_425474110.apk) | 22.5MB | 8392f8104c260a5a811e8eeecf76b3c1 |
 |||_com.amazon.venezia_
 |<br>
 | Amazon Game Center | 2022-10-14 | [1.0.735.0-com.amazon.gamehub-tv_1042710 (1042710)](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | 8.2MB | b6b5467b8ac9bb2968c0dd8e9f475801 |
@@ -262,6 +264,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon Music | 2024-03-22 | [3.4.1427 (304142710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/22/6b40ab9e-adfd-41eb-b60d-17b9234a4880/1711107482438-signed_3.4.1427-firetv-prod-arm32-release.apk) | 24.8MB | e692b0e844af194b68f26c0207fc5e66 |
 | Amazon Music | 2024-06-20 | [3.4.1506 (304150610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/6/20/096cde08-dc61-4384-931d-bfcb6f74e6c7/1718884666281-signed_3.4.1475.0-firetv-prod-arm32-release.apk) | 33.2MB | e1a90029a6906ac94381129aed05a203 |
 | Amazon Music | 2024-07-26 | [3.4.1528 (304152810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/26/62034189-e718-4b67-8689-876b36e6f931/1721988173584-signed_3.4.1528-firetv-prod-arm32-release.apk) | 28.5MB | 5f89ad753939e0ccc9b7c30c1cc0d101 |
+| Amazon Music | 2024-08-20 | [3.4.1529 (304152910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/20/2aaa4176-ed5e-4577-a492-31b0b0158278/1724154520604-signed_3.4.1481-firetv-prod-arm32-release.apk) | 28.0MB | 0da6f1986d0a282a0bae9d07e4c1e469 |
 |||_com.amazon.bueller.music_
 |<br>
 | Amazon Photos | 2022-02-25 | [2.14.0-883278710 (883278710)](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
@@ -411,6 +414,8 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | FireTV Player | 2024-08-01 | [FireTv.376.502801 (376502810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/1/e36f1c86-3171-41e4-90bf-b016b6fa8ce8/1722485892812-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_376502810.apk) | 38.7MB | 45699f11a8f2bead7cfff739a6a60f01 |
 | FireTV Player | 2024-08-02 | [FireTv.376.502901 (376502910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/2/29b8a81c-d5af-40bb-9298-e16a42121d6f/1722636740405-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_376502910.apk) | 38.7MB | 7e738c5acca3d19e05c01428e75eb4a3 |
 | FireTV Player | 2024-08-09 | [FireTv.376.503201 (376503210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/9/0098b13f-ae3e-460e-8db4-eba3be5c93b9/1723178278925-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_376503210.apk) | 38.7MB | 7849013c411ea4c5fb7c6aae044a1c58 |
+| FireTV Player | 2024-08-09 | [FireTv.377.502101 (377502110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/9/f1673318-cb43-4cfe-bc06-7c537455a6be/1723241392448-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377502110.apk) | 40.0MB | c5f0257f6fd85700e46c298ca324395b |
+| FireTV Player | 2024-08-14 | [FireTv.377.502601 (377502610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/14/80460ba2-a80b-401b-8ab3-9cf5c5208eaf/1723596742125-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377502610.apk) | 40.0MB | 5e92f1976528fcb6b07dcdc021dd5aba |
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1 (106000110)](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
@@ -494,6 +499,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 |<br>
 | Music & More | 2023-12-07 | [1.00488.1.1 (10048811)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e7897425f12414224031632633958c93/app-armeabi-v7a-release-prod-signed-10048811.apk) | 15.9MB | 35b5bf9b8cca58208c5211d46af25a61 |
 | Music & More | 2024-05-15 | [1.00759.1.1 (10075911)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/15/62f88cef-f262-4d14-a7a9-375e79b35b98/app-armeabi-v7a-release-prod-signed-10075911.apk) | 9.2MB | 5089b5ebc3bd8b055313a6911bbbd61b |
+| Music & More | 2024-07-30 | [1.01034.1.1 (10103411)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/30/15b4e965-c19d-4f4e-a04f-38c2d9570f91/app-fireTv-armeabi-v7a-release-prod-signed-10103411.apk) | 16.1MB | a7c2a7a0fe5245e29c5be5fde0472bb4 |
 |||_com.amazon.audiohome_
 |<br>
 | Live TV | 2022-09-29 | [2.0.220164.0-com.amazon.tv.livetv_1211201910 (1211201910)](https://d1s31zyz7dcc2d.cloudfront.net/a34825690de3b3e9575f9bd852c877fc/com.amazon.tv.livetv.apk) | 12.0MB | c39aa05ae5b85e819c5619eb509a1bae |
@@ -651,6 +657,10 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Prime Video | 2024-07-25 | [PVFTV-85.0166-L (85016610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/25/ad8fb1e7-a946-4d6d-9571-429e18f3ec02/1721939002547-Firebat-livingRoom-release-signed_85016610.apk) | 19.9MB | 3c7bd83debe139109cdc948e575157e4 |
 | Prime Video | 2024-08-02 | [PVFTV-85.0182-L (85018210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/2/254eae89-bc8f-40d3-b98a-6477fdb270b7/1722569331136-Firebat-livingRoom-release-signed_85018210.apk) | 19.9MB | 8d7d3180933b02136ce47475c4f77c90 |
 | Prime Video | 2024-08-03 | [PVFTV-85.0190-L (85019010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/3/13a2305f-abd6-4be9-8755-7e59624770d5/1722646322475-Firebat-livingRoom-release-signed_85019010.apk) | 19.9MB | a9ae5b6d75b7b682a25c391ed0197e95 |
+| Prime Video | 2024-08-09 | [PVFTV-87.0214-L (87021410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/9/5d7e4c22-b009-40ae-bb9e-beaf13193d7d/1723237307314-Firebat-livingRoom-release-signed_87021410.apk) | 19.9MB | 4f16dc89d310f938cfac6cd90dafe116 |
+| Prime Video | 2024-08-16 | [PVFTV-87.0234-L (87023410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/16/8e78af3a-b615-474c-b598-8cf5154cd081/1723841880818-Firebat-livingRoom-release-signed_87023410.apk) | 19.9MB | fc600b6a7fa37f31833d63cb547bd556 |
+| Prime Video | 2024-08-20 | [PVFTV-87.0240-L (87024010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/20/502abfc1-dd01-4484-812e-a1a11cff9488/1724116470915-Firebat-livingRoom-release-signed_87024010.apk) | 19.9MB | 9a929b9ec070339366316d3ada60317b |
+| Prime Video | 2024-08-23 | [PVFTV-87.0244-L (87024410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/23/465eff02-3272-43e8-a793-590b5d95a9d9/1724456008117-Firebat-livingRoom-release-signed_87024410.apk) | 19.9MB | d818c149549b1e364289cc10b5c89ca8 |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
@@ -718,6 +728,7 @@ Easy Upgrade | 2022-07-14 | [1.0.445.0-com.amazon.tv.easyupgrade-jarvis_2070310 
 | Silk | 2024-06-18 | [124.5.2.6367.248.30 (1245500210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/6/18/ab4b6170-45c5-49a9-8fa4-7e10cf89f2ec/1718751450134-signed_slate_fire_tv_v124_5_2_arm.apk) | 95.8MB | a841493b2083fa5edbea471193d11eff |
 | Silk | 2024-07-24 | [126.2.1.6478.186.30 (1262500110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/24/a577f200-20a8-41bf-bfb1-2fd9f586dfd2/1721851643524-signed_slate_fire_tv_v126_2_1_arm.apk) | 96.5MB | ed48e7ac4ecffc10eafaf124a9319832 |
 | Silk | 2024-07-30 | [126.3.3.6478.186.30 (1263500310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/30/f8ce272f-ed46-4bf0-bbe0-5d94044c73d5/1722360691747-signed_slate_fire_tv_v126_3_3_arm.apk) | 96.5MB | 290b06577e86bd981f514a9f3ebbe9c3 |
+| Silk | 2024-08-21 | [126.5.1.6478.238.30 (1265500110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/21/c9e96a38-a458-4b0f-b33f-11747d4a6644/1724270090151-signed_slate_fire_tv_v126_5_1_arm.apk) | 96.5MB | 485d6ff1d5104f99d675aee2bec6a484 |
 |||_com.amazon.cloud9_
 |<br>	
 | SSDP Service | 2022-09-28 | [1.0.100053.00 (10005310) ](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
