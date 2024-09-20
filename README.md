@@ -38,6 +38,7 @@ For other FireTV device firmware visit the following:<br>
 | 2024-04-16 | FireOS 7.6.7.1 (PS7671/4097) | [update-kindle-raven-PS7671_user_4097_0029965156740.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/16/463682e8-98dc-4ec8-9381-732d7e5e6cff/update-kindle-raven-PS7671_user_4097_0029965156740.bin) | 858.1MB | c3405a78a4ccbf7a77a3dc8b00f8c6fc |
 | 2024-05-17 | FireOS 7.6.7.3 (PS7673/4183) | [update-kindle-raven-PS7673_user_4183_0030367831940.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/18/cd7e6176-2120-47a1-b6ca-b86415b9b597/update-kindle-raven-PS7673_user_4183_0030367831940.bin) | 859.6MB | be24a69fabe21924c71d5055377e952b |
 | 2024-07-06 | FireOS 7.6.7.9 (PS7679/4292) | [update-kindle-raven-PS7679_user_4292_0030971839620.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/8/d56dd5b3-6f4c-4f15-98b9-c675fbcfc7a2/update-kindle-raven-PS7679_user_4292_0030971839620.bin) | 860.6MB | de266cf3f4ff7cd3a9e36d974a3feec2 |
+| 2024-09-01 | FireOS 7.6.8.1 (PS7681/4384) | [update-kindle-raven-PS7681_user_4384_0031106080900.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/2/19de262c-6a49-4c0b-b3d0-c5d34efaa857/update-kindle-raven-PS7681_user_4384_0031106080900.bin) | 862.5MB | 203b4986b1b84eef61683b9b27362daa |
 
 Note: superscript v1-7 indicate bootloader version
 
@@ -74,6 +75,7 @@ Note: superscript v1-7 indicate bootloader version
 | <sub>2024-04-16</sub> | <sub>FireOS 7.6.6.9 (PS7669/4007)</sub> | <sub>FireOS 7.6.7.1 (PS7671/4097)</sub> | <sub>[update-raven-diff-PS7669.4007N_4007_0029696698244-to-PS7671_user_4097_0029965156740.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/18/487ad8ab-a4e3-4a84-96c3-bf2ef7b6df1f/update-raven-diff-PS7669.4007N_4007_0029696698244-to-PS7671_user_4097_0029965156740.bin)</sub> | <sub>139.8MB</sub> | <sub>f906fef3907e8257388b13644030f27a</sub> |
 | <sub>2024-05-17</sub> | <sub>FireOS 7.6.7.1 (PS7671/4097)</sub> | <sub>FireOS 7.6.7.3 (PS7673/4183)</sub> | <sub>[update-raven-diff-PS7671.4097N_4097_0029965156740-to-PS7673_user_4183_0030367831940.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/21/824bccdd-af7b-462f-a685-db6c27a44c6e/update-raven-diff-PS7671.4097N_4097_0029965156740-to-PS7673_user_4183_0030367831940.bin)</sub> | <sub>131.4MB</sub> | <sub>b78a25f2a1adac119b7217dbffa35819</sub> |
 | <sub>2024-07-06</sub> | <sub>FireOS 7.6.7.3 (PS7673/4183)</sub> | <sub>FireOS 7.6.7.9 (PS7679/4292)</sub> | <sub>[update-raven-diff-PS7673.4183N_4183_0030367831940-to-PS7679_user_4292_0030971839620.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/6/dc5b58ee-13f3-439d-b0ef-912dbdfd55ea/update-raven-diff-PS7673.4183N_4183_0030367831940-to-PS7679_user_4292_0030971839620.bin)</sub> | <sub>109.4MB</sub> | <sub>047ff738dd201a54222808d459ec32de</sub> |
+| <sub>2024-09-01</sub> | <sub>FireOS 7.6.7.9 (PS7679/4292)</sub> | <sub>FireOS 7.6.8.1 (PS7681/4384)</sub> | <sub>[update-raven-diff-PS7679.4292N_4292_0030971839620-to-PS7681_user_4384_0031106080900.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/6/a77ad737-a034-452a-b977-883b44a6c88e/update-raven-diff-PS7679.4292N_4292_0030971839620-to-PS7681_user_4384_0031106080900.bin)</sub> | <sub>133.6MB</sub> | <sub>ae1edcf4642275592cd271bd06df94bf</sub> |
 
 
 
@@ -83,11 +85,11 @@ Note: superscript v1-7 indicate bootloader version
 | 2019-10-04 | FireOS 7.2.0.4 | [FireTVCubeGen2-7.2.0.4-20191004.tar.bz2](https://mega.nz/file/ZnsQ3AIY#Crl1VlaqXvmRGW5UMe3XkZcXcB18U8vEP-HTZk9Qci8) | 346.9MB | 07576a4674e8b0b3cba93b119eb35fd4 |
 | 2019-11-01 | FireOS 7.2.0.6 | [FireTVCubeGen2-7.2.0.6-20191101.tar.bz2](https://mega.nz/file/Izt2WIJQ#L5aFm9Q-J0Ljm3e6fAcLulteoxC5zBF_lWwMsKwwZVs) | 346.9MB | 8020fd8953d5630210d87efa9a403c93 |
 | 2019-12-08 | FireOS 7.2.0.6 | [FireTVCubeGen2-7.2.0.6-20191208.tar.bz2](https://mega.nz/file/Mu90UI5B#-H-Pp5o2gqdeKtj7tPuFHRz-okiCh5W0hLsKVz-OeOA) | 347.0MB | c5db5a97dc3e8c2d326b8f143cd22f3f |
-| 2020-02-14 | FireOS 7.2.1.2 | [FireTVCubeGen2-7.2.1.2-20200214.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/lPQPnABUS8JaAeSU0viRdCeLo3/FireTVCubeGen2-7.2.1.2-20200214.tar.bz2) | 344.2MB | ~~8a78ade53f390e5adc9c3c3d7437618f~~ 8fca9628f2a225559bf2af4d09e13ce7 |
-| 2020-08-05 | FireOS 7.2.1.6 | [FireTVCubeGen2-7.2.1.6-20200805.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/iEftvFrFOYyGGi6qIbxvt2oWMp/FireTVCubeGen2-7.2.1.6-20200805.tar.bz2) | 330.4MB | ~~87ee1371e35bb8829617d5efe0797e64~~ 28855a3f197f0c56ce3a366f9a738c02 |
-| 2020-10-05 | FireOS 7.2.2.4 | [FireTVCubeGen2-7.2.2.4-20201005.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/Y9sKfIlw2Xs4A2PtwWyDN8K5JS/FireTVCubeGen2-7.2.2.4-20201005.tar.bz2) | 454.2MB | ~~76628ae4394cb1df02c311684faba3ba~~ d869dee34f3418a9effe731c92a7d720 |
-| 2020-11-18 | FireOS 7.2.2.9 | [FireTVCubeGen2-7.2.2.9-20201118.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/JnV5RT1byYZhsDAFQ0MuCECV5q/FireTVCubeGen2-7.2.2.9-20201118.tar.bz2) | 330.8MB | ~~6c4171dd97b5170ad28ea4b081cc8284~~ 99abcd24db47a100ab531a469e70d9c8 |
-| 2021-03-22 | FireOS 7.2.3.4 | [FireTVCubeGen2-7.2.3.4-20210322.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/SMLbXrYC0NhByE1xXPSxEqeMJp/FireTVCubeGen2-7.2.3.4-20210322.tar.bz2) | 1032.9MB | ~~3bde3581b1d1787162c249182710e336~~ 1210770d64af8370d8d1cedf37980ae5 |
+| 2020-02-14 | FireOS 7.2.1.2 | [FireTVCubeGen2-7.2.1.2-20200214.tar.bz2](https://mega.nz/file/B6MBWLTI#Z12ij_DNTDRnSjTjViQtDsbT1WEtKLH5fXPsL3XMw-o) | 344.2MB | ~~8a78ade53f390e5adc9c3c3d7437618f~~ 8fca9628f2a225559bf2af4d09e13ce7 |
+| 2020-08-05 | FireOS 7.2.1.6 | [FireTVCubeGen2-7.2.1.6-20200805.tar.bz2](https://mega.nz/file/U7N2BLhC#h40jfkhuoAnx-MoycwXSwk53jqgejw0REDkSDWSJSf4) | 330.4MB | ~~87ee1371e35bb8829617d5efe0797e64~~ 28855a3f197f0c56ce3a366f9a738c02 |
+| 2020-10-05 | FireOS 7.2.2.4 | [FireTVCubeGen2-7.2.2.4-20201005.tar.bz2](https://mega.nz/file/MuF1hJRS#1JklxUY60MmmoUhX0JlXu3Bml5qLDYWqBQbze7sQ-Y8) | 454.2MB | ~~76628ae4394cb1df02c311684faba3ba~~ d869dee34f3418a9effe731c92a7d720 |
+| 2020-11-18 | FireOS 7.2.2.9 | [FireTVCubeGen2-7.2.2.9-20201118.tar.bz2](https://mega.nz/file/YvFywKIB#QmpWZY2ClDGiA2cINRIN5_Pi3mOjqSeyVvyo7NdqfAs) | 330.8MB | ~~6c4171dd97b5170ad28ea4b081cc8284~~ 99abcd24db47a100ab531a469e70d9c8 |
+| 2021-03-22 | FireOS 7.2.3.4 | [FireTVCubeGen2-7.2.3.4-20210322.tar.bz2](https://mega.nz/file/cnMxSB5R#mEtpvyml9FbWsXWV6zWqAVysFKmQdBlhkiDM9snacYQ) | 1032.9MB | ~~3bde3581b1d1787162c249182710e336~~ 1210770d64af8370d8d1cedf37980ae5 |
 | 2021-06-28 | FireOS 7.2.4.2 | [FireTVCubeGen2-7.2.4.2-20210628.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/rKUQ2o8vSWex0zcvqe0YMmPgm0/FireTVCubeGen2-7.2.4.2-20210628.tar.bz2) | 1101.5MB | ~~c78e2719d3404410b5eed80a7bf26112~~ de3e713dafedcb994ef864ac762a59b4 |
 | 2022-02-14 | FireOS 7.2.4.2 | [FireTVCubeGen2-7.2.4.2-20220214.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/gwonwwYRShNbaNfjHJm4KJkxnk/FireTVCubeGen2-7.2.4.2-20220214.tar.bz2) | 1101.5MB | ~~c78e2719d3404410b5eed80a7bf26112~~ de3e713dafedcb994ef864ac762a59b4 |
 | 2022-02-07 | FireOS 7.2.7.3 | [FireTVCubeGen2-7.2.7.3-20220207.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/KLRB4zxnvzPB3JnK5G6CAr8Weh/FireTVCubeGen2-7.2.7.3-20220207.tar.bz2) | 444.2MB | ~~729b9631c899dd1e004c5cdee2493edd~~ c942b566fa193a27af6d8e38bfcebc33 |
@@ -102,6 +104,8 @@ Note: superscript v1-7 indicate bootloader version
 | 2024-01-18 | FireOS 7.6.6.8 | [FireTVCubeGen2-7.6.6.8-20240118.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/ijrcy8yfZ2tzPgth3TsaavUyCL/FireTVCubeGen2-7.6.6.8-20240118.tar.bz2) | 826.3MB | 14bc5e2c84fd60225ed08a2984ca6f7e |
 | 2024-02-14 | FireOS 7.6.6.9 | [FireTVCubeGen2-7.6.6.9-20240214.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/BEqGDHrFx3xcfFzckySg1H3wJm/FireTVCubeGen2-7.6.6.9-20240214.tar.bz2) | 826.6MB | 10952b1b4400a762a081009f93921d69 |
 | 2024-03-31 | FireOS 7.6.7.1 | [FireTVCubeGen2-7.6.7.1-20240331.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/oA5TlUpM09B6JnZzaVwyb0yVrl/FireTVCubeGen2-7.6.7.1-20240331.tar.bz2) | 1563.3MB | 796c23291aa828a98f4212fe163f7451 |
+| 2024-06-24 | FireOS 7.6.7.3 | [FireTVCubeGen2-7.6.7.3-20240624.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/onTEUzlHvFHTbZaI2Ff4nNCXRI/FireTVCubeGen2-7.6.7.3-20240624.tar.bz2) | 2409.7MB | 4c5ca196ce824e4e49b7cec544246434 |
+| 2024-07-25 | FireOS 7.6.7.9 | [FireTVCubeGen2-7.6.7.9-20240725.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/K7UWJChhsqfeEMmKmN1grMNbYc/FireTVCubeGen2-7.6.7.9-20240725.tar.bz2) | 2431.0MB | 796c23291aa828a98f4212fe163f7451 |
 
 Note: There are a couple mistakes on Amazon's <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code page</a>.<br>  
 FireTVCubeGen2-7.2.4.2-20210628.tar.bz2 = FireTVCubeGen2-7.2.4.2-20220214.tar.bz2 (same file)<br>
@@ -290,6 +294,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon System WebView | 2024-04-10 | [122.amazon-webview-v122-6261-tv.6261.140.25 (60864232)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/10/dd560574-bb4e-41ac-9e5b-00365910f1ce/1712784214457-signed_AmazonWebView-debug-32-signed.apk) | 50.2MB | 07d5a0af6d2341e6db2426360bc513d2 |
 | Amazon System WebView | 2024-05-24 | [122.amazon-webview-v122-6261-tv.6261.140.42 (60902632)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/24/12e9f1b4-9a52-47d7-9599-f6e8b59230f1/1716594397103-signed_AmazonWebView-debug-32-signed.apk) | 50.2MB | 2c4f7f5020b60633cff5199fa054d8d6 |
 | Amazon System WebView | 2024-06-17 | [124.amazon-webview-v124-6367-tv.6367.248.61 (60925032)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/6/17/d7a44f60-88b2-4aa0-a7bc-ff8dabe96f7e/1718660695820-signed_AmazonWebView-debug-32-signed-2.apk) | 51.3MB | ead045210c0d37bec8df9fe876f80969 |
+| Amazon System WebView | 2024-08-29 | [124.amazon-webview-v124-6367-tv.6367.248.109 (61002232)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/29/301dc664-e0b1-4f02-9790-663f5c8c2663/1724965493655-109_signed_AmazonWebView-debug-signed-2.apk) | 51.3MB | 4d8413b993d0a668a444dfa5443ff1ff |
 |||_com.amazon.webview.chromium_
 |<br>
 | Aria | 2022-04-20 | [AriaRuntime-1.10.334.0 (3894410)](https://d1s31zyz7dcc2d.cloudfront.net/c5e9a97ead16e216fed59fa456106921/signed_AriaRuntime-1.10.334.0-standard-universal-release.apk) | 12.4MB | 09266735e13bbd997cc7b2c20eeff98a |
@@ -418,6 +423,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | FireTV Player | 2024-08-09 | [FireTv.377.502101 (377502110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/9/f1673318-cb43-4cfe-bc06-7c537455a6be/1723241392448-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377502110.apk) | 40.0MB | c5f0257f6fd85700e46c298ca324395b |
 | FireTV Player | 2024-08-14 | [FireTv.377.502601 (377502610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/14/80460ba2-a80b-401b-8ab3-9cf5c5208eaf/1723596742125-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377502610.apk) | 40.0MB | 5e92f1976528fcb6b07dcdc021dd5aba |
 | FireTV Player | 2024-08-28 | [FireTv.377.503301 (377503310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/28/a595d375-2aaf-44bd-b796-dd355ad43f8a/1724803675745-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377503310.apk) | 40.0MB | ee5a8e16dfcba821c9390be2ffb41ae3 |
+| FireTV Player | 2024-09-13 | [FireTv.377.503601 (377503610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/13/06900699-42eb-465c-91d6-85889eb0a9d6/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377503610.apk) | 40.0MB | c0fa1f0d9bb2e364052a58bb0171f70f |
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1 (106000110)](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
@@ -744,6 +750,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 |||_com.amazon.storage.manager_
 |<br>
 | Subscription Central | 2024-08-19 | [v8.10.33.1006 (100610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/19/dd6771f1-ede3-4e94-91e3-fc2987c7631e/1724041207597-signed_Tigris-v1-final.apk) | 21.4MB | 8cbb88bbbf7c575ed76e4106e67d2756 |
+| Subscription Central | 2024-09-12 | [v8.10.33.1008 (100810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/12/f0fcaee2-140a-4a7e-8f32-347686dbd4b9/1726136040560-tigris-v1.1-hotfix-final-signed(1).apk) | 21.4MB | 59b9561ba7b6a0ec5d3ad41fd3921e6f |
 |||_com.amazon.tigris_
 |<br>
 | System Status Monitor | 2022-09-12 | [1.0.526.0-com.amazon.ssmsys_5043110 (5043110)](https://d1s31zyz7dcc2d.cloudfront.net/30c1fc0669bd72a8ef2551e8b1e8c559/com.amazon.ssmsys.apk) | 2.5MB | b0031f19800b9b50a4fc08b8904d1508 |
