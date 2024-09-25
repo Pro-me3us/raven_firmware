@@ -672,6 +672,8 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Prime Video | 2024-08-23 | [PVFTV-87.0244-L (87024410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/23/465eff02-3272-43e8-a793-590b5d95a9d9/1724456008117-Firebat-livingRoom-release-signed_87024410.apk) | 19.9MB | d818c149549b1e364289cc10b5c89ca8 |
 | Prime Video | 2024-08-30 | [PVFTV-87.0246-L (87024610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/30/8a17ffed-b7d5-4f37-bc28-a31c22abb74e/1724977791067-Firebat-livingRoom-release-signed_87024610.apk) | 19.9MB | 82b337dfd28364e18808dc9a3c9cb302 |
 | Prime Video | 2024-08-30 | [PVFTV-88.0076-L (88007610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/30/d6f26de8-f937-4b94-a9cf-e104b24fe19e/1724977594146-Firebat-livingRoom-release-signed_88007610.apk) | 20.6MB | bc158f6805e13971edd150e72db5ba4b |
+| Prime Video | 2024-09-20 | [PVFTV-89.0110-L (89011010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/20/14c24799-cd48-4acb-b70d-24d8012e8eb9/1726856652452-Firebat-livingRoom-release-signed_89011010.apk) | 20.7MB | fe6eb4ce6b9df8dee0c1535086a7a94e |
+| Prime Video | 2024-09-21 | [PVFTV-89.0111-L (89011110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/21/f9ad781c-4b8a-437c-8f1f-120216106518/1726880210272-Firebat-livingRoom-release-signed_89011110.apk) | 20.7MB | 3b9a614d922b6f5108be3f1171b4756d |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
