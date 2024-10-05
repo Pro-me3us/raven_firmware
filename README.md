@@ -250,6 +250,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon Live Shopping | 2023-10-18 | [3.0.204166.0_2049510 (2049510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0413f56740da8dfe4eeaae02f29b73fb/MShopAndroidTV3PClient-release-signed-release1017.apk) | 19.7MB | 6aae6248ebb0dec7daf130b4b8dcfab2 |
 | Amazon Live Shopping | 2023-12-15 | [3.0.204179.0_2050610 (2050610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/5e79b88ee57c35352347dfd2aa9add72/MShopAndroidTV3PClient-release-231213release-signed.apk) | 19.7MB | 65b22e84ac02c0896b450c93a113a542 |
 | Amazon Live Shopping | 2024-05-24 | [3.0.204199.0_2051910 (2051910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/24/02c77670-c798-48a9-803d-540061879ac2/1716576375666-MShopAndroidTV3PClient-release-20240522release-signed.apk) | 19.7MB | 5403806e5beabd732ad151706a86bf5d |
+| Amazon Live Shopping | 2024-09-16 | [3.0.204215.0_2052910 (2052910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/16/7acdcd31-bcf9-49ec-878d-337b9ab98fc6/1726503370031-MShopAndroidTV3PClient-release-release0910-signed.apk) | 19.7MB | a579afb69510b1c0e3597cdb76eefbb5 |
 |||_com.amazon.shoptv.firetv.client_
 |<br>
 | Amazon Music | 2022-07-15 | [3.4.495.0 (304048710)](https://d1s31zyz7dcc2d.cloudfront.net/0ba33a795feeb233d618a9097a3909d1/signed_DMTVAndroid-firetv-prod-arm32-rel-3.4.495.apk) | 20.5MB | 64eb191c677bf0f2e68429fc61ad3773 |
@@ -328,6 +329,9 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Device Control | 2023-04-17 | [1.0.213028.0_1002405710 (1002405710)](https://d1s31zyz7dcc2d.cloudfront.net/174a3689f661e4b313ff8602d9addb64/213028_FireTV_DeviceControl-release-signed.apk) | 2.7MB | bd614e9d3acd7c2033c8f17089b5e022 |
 | Device Control | 2023-06-15 | [1.0.213265.0_1002435510 (1002435510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/1cd8dc2c885a67b0fc95b38d5c4f3f8f/FireTV_DeviceControl-release-signed_2_9.apk) | 2.8MB | b2385d872772e5e9c43343ff169f14a9 |
 |||_com.amazon.tv.devicecontrol_
+|<br>	
+| Device DataStore | 2024-08-14 | [0.1.155.0 (2010611)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/14/e8089798-a32d-4f85-83c3-de8c41b946c5/1723651544025-signed_com.amazon.alexa.datastore.app(4).apk) | 2.9MB | aad08971a17a5085cfecf524be410fcd |
+|||_com.amazon.alexa.datastore.app_
 |<br>
 | Dial Service | 2022-09-28 | [1.0.100053.00 (10005310)](https://d1s31zyz7dcc2d.cloudfront.net/8dfd7f1fa246c1797d5bc0f081090bed/DialService.apk) | 83.9KB | f6d20867031f2640b976a631ec0c6698 | 
 |||_com.amazon.dialservice_
@@ -424,6 +428,8 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | FireTV Player | 2024-08-14 | [FireTv.377.502601 (377502610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/14/80460ba2-a80b-401b-8ab3-9cf5c5208eaf/1723596742125-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377502610.apk) | 40.0MB | 5e92f1976528fcb6b07dcdc021dd5aba |
 | FireTV Player | 2024-08-28 | [FireTv.377.503301 (377503310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/28/a595d375-2aaf-44bd-b796-dd355ad43f8a/1724803675745-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377503310.apk) | 40.0MB | ee5a8e16dfcba821c9390be2ffb41ae3 |
 | FireTV Player | 2024-09-13 | [FireTv.377.503601 (377503610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/13/06900699-42eb-465c-91d6-85889eb0a9d6/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377503610.apk) | 40.0MB | c0fa1f0d9bb2e364052a58bb0171f70f |
+| FireTV Player | 2024-09-20 | [FireTv.380.501201 (380501210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/20/b42ebc67-af46-4b84-a0c1-cc9ca3d87c0d/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_380501210.apk) | 39.6MB | 45172cb2f79f0565196816067f01ab7b |
+| FireTV Player | 2024-09-30 | [FireTv.382.500601 (382500610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/30/cb69eb99-1cae-4032-a60e-8acf2f620b16/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_382500610.apk) | 39.7MB | 9690b96b6c978b6e7705106bcc005218 |
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1 (106000110)](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
@@ -674,6 +680,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Prime Video | 2024-08-30 | [PVFTV-88.0076-L (88007610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/30/d6f26de8-f937-4b94-a9cf-e104b24fe19e/1724977594146-Firebat-livingRoom-release-signed_88007610.apk) | 20.6MB | bc158f6805e13971edd150e72db5ba4b |
 | Prime Video | 2024-09-20 | [PVFTV-89.0110-L (89011010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/20/14c24799-cd48-4acb-b70d-24d8012e8eb9/1726856652452-Firebat-livingRoom-release-signed_89011010.apk) | 20.7MB | fe6eb4ce6b9df8dee0c1535086a7a94e |
 | Prime Video | 2024-09-21 | [PVFTV-89.0111-L (89011110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/21/f9ad781c-4b8a-437c-8f1f-120216106518/1726880210272-Firebat-livingRoom-release-signed_89011110.apk) | 20.7MB | 3b9a614d922b6f5108be3f1171b4756d |
+| Prime Video | 2024-10-04 | [PVFTV-90.0136-L (90013610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/4/a604bf49-4943-48ab-a3a3-d3b53eab9e34/1728073498122-Firebat-livingRoom-release-signed_90013610.apk) | 21.7MB | 33c1366da945b1bf16abde2bc8218882 |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
@@ -709,6 +716,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Shop TV Client | 2023-06-26 | [3.0.203700.0_300438410 (300438410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/98b8cea4653a86fe5bbafdec23b7a20b/MShopAndroidTVClient-release-signed-release0622.apk) | 10.4MB | 39f206fa6e31f47d7451e633842824cc |
 | Shop TV Client | 2023-12-15 | [3.0.203766.0_300443310 (300443310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/3a10e2afd7b737ab5f854850786c8aa1/MShopAndroidTVClient-release-231213release-signed.apk) | 10.4MB | f8f285bb0752efd67a6e9c3b7a9840e6 |
 | Shop TV Client | 2024-05-24 | [3.0.203784.0_300444610 (300444610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/24/f468d827-20c1-410a-9c38-8965f1f23cd6/1716575866020-MShopAndroidTVClient-release-20240522release-signed.apk) | 10.4MB | 1852e34643d18baa6bc505a1e599c56b |
+| Shop TV Client | 2024-09-16 | [3.0.203797.0_300445410 (300445410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/16/ba08a8da-7458-414f-9be9-268c0e1ddd63/1726503936488-MShopAndroidTVClient-release-release0910-signed.apk) | 10.4MB | 5ec4869f103d95f8f14be551b7122519 |
 |||_com.amazon.shoptv.client_
 |<br>
 | Silk | 2022-12-03 | [106.5.14.5249.208.30 (1065501410)](https://d1s31zyz7dcc2d.cloudfront.net/4b0c7dbd5ce6a4c48a0e9417c094daa4/signed_slate_fire_tv_v106_5_14_arm.apk) | 70.3MB | f06852725990d5a5f486cafc53147a5b |
@@ -743,6 +751,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Silk | 2024-07-30 | [126.3.3.6478.186.30 (1263500310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/30/f8ce272f-ed46-4bf0-bbe0-5d94044c73d5/1722360691747-signed_slate_fire_tv_v126_3_3_arm.apk) | 96.5MB | 290b06577e86bd981f514a9f3ebbe9c3 |
 | Silk | 2024-08-21 | [126.5.1.6478.238.30 (1265500110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/21/c9e96a38-a458-4b0f-b33f-11747d4a6644/1724270090151-signed_slate_fire_tv_v126_5_1_arm.apk) | 96.5MB | 485d6ff1d5104f99d675aee2bec6a484 |
 | Silk | 2024-08-26 | [126.6.2.6478.238.30 (1266500210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/26/e479e643-b4f2-469b-970e-ee6c267dc6d8/1724697817490-signed_slate_fire_tv_v126_6_2_arm.apk) | 96.6MB | 6587954518120038f2758f9111ca00e2 |
+| Silk | 2024-09-24 | [128.3.2.6613.146.30 (1283500210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/24/136ee867-9c1a-4fdf-9e82-fdbe1b1c407e/1727197335096-signed_slate_fire_tv_v128_3_2_arm.apk) | 98.6MB | 0219c5cca8740a520a76aaa7222376da |
 |||_com.amazon.cloud9_
 |<br>	
 | SSDP Service | 2022-09-28 | [1.0.100053.00 (10005310) ](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
