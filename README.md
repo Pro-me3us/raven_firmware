@@ -169,6 +169,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Alexa | 2023-12-15 | [3.0.9336.0-com.amazon.vizzini.651.1.1_651093010 (651093010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2023/12/15/daf8d33e-24b3-4363-908b-8e63a2ac07fa/1702610819584-FTVSIM-3.0.9336.apk) | 18.3MB | 962be6823eba339f7ebe3e67c97d5851 |
 | Alexa | 2024-03-14 | [3.0.10321.0-com.amazon.vizzini.652.1.0_652803310 (652803310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/14/55ecb94f-a794-4190-868e-cbb4850b82fd/1710364556529-signed_com.amazon.vizzini_652_1_13_march.apk) | 21.1MB | a58739f0ed362680cb13d6e6d155664e |
 | Alexa | 2024-06-13 | [3.0.11134.0-com.amazon.vizzini.653.0.1_653057410 (653057410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/6/13/284f3030-1230-410c-be3a-601a70fe3713/1718299898337-signed_com.amazon.vizzini_653_01_13_june.apk) | 26.8MB | 0499ce2b5cab6bd114b76f3cbdf01532 |
+| Alexa | 2024-09-26 | [3.0.13271.0-com.amazon.vizzini.655.1.3_655057810 (655057810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/26/d9c79856-afca-49bf-bf0a-af1fa1888ddc/1727389810824-signed_com.amazon.vizzini_655_1_3.apk) | 25.7MB | 7669e98a9fc8b9ec6d259b264d26ee98 |
 |||_com.amazon.vizzini_
 |<br>
 | Alexa Communication | 2020-11-30 | [1.0.1765.0 (1255710)](https://d1s31zyz7dcc2d.cloudfront.net/7bcbc6ae3fad47a7176567bd30d25707/StarkTachyon-armeabi-v7a-release-signedMcFly.apk) | 20.8MB | e0c9c1b4f60fcd9d11ff1f84acfcb00b | 
@@ -240,6 +241,9 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon Game Center | 2023-11-01 | [1.0.2921.0-com.amazon.gamehub-tv_1063110 (1063110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/720471e59f8305ad47ea59b50543721e/signed_GameHubAPK-tv2921-release.apk) | 9.0MB | e0d0bd1c01f1b2b61dc69322cc730e88 |
 | Amazon Game Center | 2024-04-23 | [1.0.2967.0-com.amazon.gamehub-tv_1065510 (1065510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/23/abaa5ef9-e88f-4562-8934-7ea2bd813fa4/1713871723454-signed_GameHubAPK-tv2967-release.apk) | 9.0MB | 38745393c4242f83b7ccadc82cb78d5f |
 |||_com.amazon.gamehub_
+|<br>
+| Amazon Keystore | 2019-11-13 | [4.0 (4210)](https://d1s31zyz7dcc2d.cloudfront.net/5eca1b3667c87e6456bdcdbcd81da9fa/signed_com.amazon.appaccesskeyprovider.apk) | 0.8MB | e8251686a1201bdc7cd2af28871ebc4a |
+|||_com.amazon.appaccesskeyprovider_
 |<br>
 | Amazon Live Shopping | 2022-09-12 | [3.0.203781.0_2025210 (2025210)](https://d1s31zyz7dcc2d.cloudfront.net/cbf7089ae485cfc3c5e4f491130ce04a/MShopAndroidTV3PClient-release-signed_0909release.apk) | 21.4MB | db242a5f4e0a18181c2b07c3f8128249 | 
 | Amazon Live Shopping | 2022-11-06 | [3.0.203843.0_2028810 (2028810)](https://d1s31zyz7dcc2d.cloudfront.net/c771d84cd52580a7d1e7796956ace670/MShopAndroidTV3PClient-release-signed_1105release.apk) | 21.4MB | 5eeafc94cadc7165336cbed458964f43 | 
@@ -321,7 +325,9 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | ClientRenderer | 2023-03-28 | [1.3 (103050710)](https://d1s31zyz7dcc2d.cloudfront.net/e7968ebc0c83d02c190c68fa491fafe2/FXPArc-release1.apk) | 12.9MB | 55bff8a0c10eb44ea68dcfda46188b90 |
 |||_com.amazon.tv.arc_
 |<br>	
+| Device Control | 2020-07-06 | [1.0.207332.0_1001485010 (1001485010)](https://d1s31zyz7dcc2d.cloudfront.net/a32c2aeff2ecf03f08a1d6d49f9ed090/FireTV_DeviceControl-release-signed_3_1.apk) | 1.6MB | c11ffbc1b765fa1558f360afeff8ecbb |    
 | Device Control | 2020-09-03 | [1.0.207983.0_1001626310 (1001626310)](https://d1s31zyz7dcc2d.cloudfront.net/7dfab9016a594f5ed01f1f62621cdc60/FireTV_DeviceControl-release-signed_3.apk) | 1.9MB | 906c598a3a8286664d9b013cfd93e23a |
+| Device Control | 2020-10-22 | [1.0.208262.0_1001691410 (1001691410)](https://d1s31zyz7dcc2d.cloudfront.net/01881a928032410e5a2308445a1068a2/FireTV_DeviceControl-release-signed_5.apk) | 2.0MB | 5ff261fde62be81394eb6bdac7d41d0a |
 | Device Control | 2020-11-30 | [1.0.208492.0_1001745510 (1001745510)](https://d1s31zyz7dcc2d.cloudfront.net/6a928ad0d2fb458921ee410c28fd99fd/FireTV_DeviceControl-release-signed.apk) | 2.0MB | 01af64057aa81eda89ea03b729208999 |
 | Device Control | 2021-11-22 | [1.0.210503.0_1002079510 (1002079510)](https://d1s31zyz7dcc2d.cloudfront.net/589c6f624e7224bb15bbe27594aee072/210503_FireTV_DeviceControl-release-signed.apk) | 2.2MB | 30815e95a584164061a5ac84969d35cd |
 | Device Control | 2022-02-04 | [1.0.210812.0_1002115110 (1002115110)](https://d1s31zyz7dcc2d.cloudfront.net/62c7e7d84e608e243e53d0f0a99ec374/210812_FireTV_DeviceControl-release-signed.apk) | 2.4MB | 92471d261f957c07e026d28e644a2edf |
@@ -483,6 +489,9 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Freevee | 2024-07-11 | [1.0.14452.0 (22759210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/11/5239d8d3-fed4-4b39-a411-2b4c63ac622f/1720738311671-signed_app-prod-release(1).apk) | 28.1MB | 440dc7822fdc42198e1addb63e2dc8a9 |
 |||_com.amazon.imdb.tv.android.app_
 |<br>
+| Gloria | 2019-12-30 | [1.0.201462.0_173310 (173310)](https://d1s31zyz7dcc2d.cloudfront.net/6ba9a31b4a1df897c4101738852b3b43/com.amazon.ftv.glorialist.apk) | 28.6MB | 2e1942c6666b91b64bbb442bd12a6d4e | 
+|||_com.amazon.ftv.glorialist_
+|<br>
 | IME (FireTV Keyboard) | 2021-11-25 | [1.0.525.0-com.amazon.tv.ime-jarvis_616013510 (616013510)](https://d1s31zyz7dcc2d.cloudfront.net/253d26a59b3afe872721001e0c81321f/signed_FireTvKeyboard-jarvis-release_1.0.525.0.apk) | 2.4MB | bcba4effd12755298e6a6139eb28bdb9 |
 |||_com.amazon.tv.ime_
 |<br>
@@ -555,6 +564,9 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Multimodal SmartHome | 2020-08-28 | [1.0.204315.0_1927310 (1927310)](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 8.9MB | 499d490732d9d843249280914832675b |
 |||_com.amazon.gloria.smarthome_
 |<br>
+| Naatyam | 2020-03-05 | [1.0.294.0-com.amazon.naatyam_106011810 (106011810)](https://d1s31zyz7dcc2d.cloudfront.net/21f5f52019c9c7c58f00bd7086bb103e/signed_NaatyamClient-release-build2.apk) | 2.8MB | 71f3f2461e0484d608c58b80d039b2f1 |
+|||_com.amazon.naatyam_
+|<br>
 | News | 2021-12-30 | [1.0.6869.0_11087810 (11087810)](https://d1s31zyz7dcc2d.cloudfront.net/dca199a5ef3b90e01d4882b95d62f9bf/signed_HedwigNews-release_Flourine_LD2_6869.apk) | 12.1MB | ba9582e1491f59e98cf64ab2a278c06e | 
 | News | 2022-08-05 | [1.0.7294.0_11190110 (11190110)](https://d1s31zyz7dcc2d.cloudfront.net/a4bfafd5fa42df72dba5410d124eeb6a/signed_HedwigNews-release_7294_Prod_LD.apk) | 10.8MB | 93a0f4b180e7f94df1aa53314376d09b | 
 | News | 2022-11-14 | [1.0.8132.0_11386610 (11386610)](https://d1s31zyz7dcc2d.cloudfront.net/290ff5a81bb219643f4a174e1c260c77/signed_HedwigNews-release_8132_R1_HF1.apk) | 10.8MB | 3b06d36047ca354c3640879db351add4 |  
@@ -581,6 +593,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | OOBE (Out-of-Box-Experience) | 2024-01-02 | [1.0.10881.0-com.amazon.tv.oobe-jarvis_634279810 (634279810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/78617dac6216cf62a0c96af43afa864f/signed_FireTvOobe-jarvis-release_10881.apk) | 14.1MB | 407c5d4e2b8e6243199040a60898aeed |
 |||_com.amazon.tv.oobe_
 |<br>
+| Ott Sso Companion App | 2020-02-16 | [1.0 (5010)](https://d1s31zyz7dcc2d.cloudfront.net/aaa109d081daf440158d4bf71f794ae6/TO_PROD_app-tv-release-signed.apk) | 0.3MB | ce6ea5fd63c312c80daa34ede2f987e1 | 
 | Ott Sso Companion App | 2020-05-19 | [1.0 (5510)](https://d1s31zyz7dcc2d.cloudfront.net/5c5fda1564c96323914890a6f6e37ba1/SSO_ClientlessSupport_app-tv-release-signed.apk) | 1.9MB | f0df3354b333911e0b831efeddd0d48e |
 |||_com.amazon.tv.ottssocompanionapp_
 |<br>
