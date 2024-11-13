@@ -39,6 +39,7 @@ For other FireTV device firmware visit the following:<br>
 | 2024-05-17 | FireOS 7.6.7.3 (PS7673/4183) | [update-kindle-raven-PS7673_user_4183_0030367831940.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/18/cd7e6176-2120-47a1-b6ca-b86415b9b597/update-kindle-raven-PS7673_user_4183_0030367831940.bin) | 859.6MB | be24a69fabe21924c71d5055377e952b |
 | 2024-07-06 | FireOS 7.6.7.9 (PS7679/4292) | [update-kindle-raven-PS7679_user_4292_0030971839620.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/8/d56dd5b3-6f4c-4f15-98b9-c675fbcfc7a2/update-kindle-raven-PS7679_user_4292_0030971839620.bin) | 860.6MB | de266cf3f4ff7cd3a9e36d974a3feec2 |
 | 2024-09-01 | FireOS 7.6.8.1 (PS7681/4384) | [update-kindle-raven-PS7681_user_4384_0031106080900.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/2/19de262c-6a49-4c0b-b3d0-c5d34efaa857/update-kindle-raven-PS7681_user_4384_0031106080900.bin) | 862.5MB | 203b4986b1b84eef61683b9b27362daa |
+| 2024-10-30 | FireOS 7.6.8.5 (PS7685/4486) | [update-kindle-raven-PS7685_user_4486_0031642977924.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/30/a9e173f6-b9f0-4cfe-8730-52b637fe5b4a/update-kindle-raven-PS7685_user_4486_0031642977924.bin) | 863.4MB | 3d3be41e779dc0d6cbf7b002c7ee1a18 |
 
 Note: superscript v1-7 indicate bootloader version
 
@@ -76,8 +77,7 @@ Note: superscript v1-7 indicate bootloader version
 | <sub>2024-05-17</sub> | <sub>FireOS 7.6.7.1 (PS7671/4097)</sub> | <sub>FireOS 7.6.7.3 (PS7673/4183)</sub> | <sub>[update-raven-diff-PS7671.4097N_4097_0029965156740-to-PS7673_user_4183_0030367831940.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/21/824bccdd-af7b-462f-a685-db6c27a44c6e/update-raven-diff-PS7671.4097N_4097_0029965156740-to-PS7673_user_4183_0030367831940.bin)</sub> | <sub>131.4MB</sub> | <sub>b78a25f2a1adac119b7217dbffa35819</sub> |
 | <sub>2024-07-06</sub> | <sub>FireOS 7.6.7.3 (PS7673/4183)</sub> | <sub>FireOS 7.6.7.9 (PS7679/4292)</sub> | <sub>[update-raven-diff-PS7673.4183N_4183_0030367831940-to-PS7679_user_4292_0030971839620.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/6/dc5b58ee-13f3-439d-b0ef-912dbdfd55ea/update-raven-diff-PS7673.4183N_4183_0030367831940-to-PS7679_user_4292_0030971839620.bin)</sub> | <sub>109.4MB</sub> | <sub>047ff738dd201a54222808d459ec32de</sub> |
 | <sub>2024-09-01</sub> | <sub>FireOS 7.6.7.9 (PS7679/4292)</sub> | <sub>FireOS 7.6.8.1 (PS7681/4384)</sub> | <sub>[update-raven-diff-PS7679.4292N_4292_0030971839620-to-PS7681_user_4384_0031106080900.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/6/a77ad737-a034-452a-b977-883b44a6c88e/update-raven-diff-PS7679.4292N_4292_0030971839620-to-PS7681_user_4384_0031106080900.bin)</sub> | <sub>133.6MB</sub> | <sub>ae1edcf4642275592cd271bd06df94bf</sub> |
-
-
+| <sub>2024-10-30</sub> | <sub>FireOS 7.6.8.1 (PS7681/4384)</sub> | <sub>FireOS 7.6.8.5 (PS7685/4486)</sub> | <sub>[update-raven-diff-PS7681.4384N_4384_0031106080900-to-PS7685_user_4486_0031642977924.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/30/5eef9803-9e1d-4e83-957e-9fb6ed235924/update-raven-diff-PS7681.4384N_4384_0031106080900-to-PS7685_user_4486_0031642977924.bin)</sub> | <sub>159.9MB</sub> | <sub>88d41cdced3bf58a97346b698ba0b749</sub> |
 
 ### Source Code
 | Date | Version | Download | Size | MD5 |
@@ -278,6 +278,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon Music | 2024-10-01 | [3.4.1563 (304156310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/1/ec376188-e154-4d31-b331-c7d31ebe04bb/1727785289762-Uploadsigned_DMTVAndroid-firetv-prod-arm32-release.apk) | 28.0MB | 2d86b9cde3f51c6cb37cc700cf884c23 |
 | Amazon Music | 2024-10-30 | [24.21.0.55 (424210010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/30/b810a668-394a-4e39-8ac3-6117a1816832/1730308709675-DMTVAndroid-firetv-prod-arm32-release.55_signed.apk) | 26.2MB | 42d4d5afef9e02edf63eda042ed3fad4 |
 | Amazon Music | 2024-11-06 | [24.21.1.70 (424210110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/6/e1d5d444-ed72-4c6f-a00f-a7a147021982/1730914314647-signed_DMTVAndroid-firetv-prod-arm32-release.apk) | 26.2MB | ce7722b45809c65b048fd27ba5dce0a7 |
+| Amazon Music | 2024-11-11 | [24.21.2.74 (424210210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/11/d04ff0f6-8728-4a96-9b7f-964bbef631b5/1731366997160-signed_DMTVAndroid-firetv-prod-arm32-release.apk) | 26.2MB | 46713c6c60f334e4f289937a969de06a |
 |||_com.amazon.bueller.music_
 |<br>
 | Amazon Photos | 2022-02-25 | [2.14.0-883278710 (883278710)](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
@@ -287,6 +288,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon Photos | 2023-06-10 | [2.17.1-889305010 (889305010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/163779665c4ccd977a7013f46738eed8/signed_Gallery-4.0.0.3050-fireTvRelease-armeabi-v7a.apk) | 16.6MB | dfda011a63b799c0c91a120e8d6f54fb |
 | Amazon Photos | 2023-10-16 | [2.18.0-890309810 (890309810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9b42e6af19c078eb9372dc2c3261a02d/signed_Gallery-4.0.0.3098-fireTvRelease-armeabi-v7a.apk) | 16.6MB | 4ea51d23803702bbf0faab5639165a33 |
 | Amazon Photos | 2023-12-21 | [2.19.0-891312110 (891312110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/eac6f87ec8c8b9045885b48cc48dda65/signed_Gallery-4.0.0.3121-fireTvRelease-armeabi-v7a.apk) | 16.7MB | a0fda3ba751132c40c61235c3625e844 |
+| Amazon Photos | 2024-09-11 | [2.22.0-894317210 (894317210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/11/90037c1c-6c75-4eae-bf51-a12045c57f7e/1726079779784-com.amazon.bueller.photos.apk) | 16.7MB | ca4f3819df5862c149bbb2916327ddca |
 |||_com.amazon.bueller.photos_
 |<br>
 | Amazon System WebView | 2022-05-16 | [100.amazon-webview-v100-4896-tv.4896.127.36 (60334632)](https://d1s31zyz7dcc2d.cloudfront.net/fb86d93c0919cf733d3a8a76004896ce/signed_AmazonWebView-debug-32-signed.apk) | 48.7MB | 3e9c436025fd2be6da60fde5016750b2 |
@@ -562,6 +564,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | MiniTV | 2023-07-30 | [1.2.0.100 (2002110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/55d50845b657587ccb26188fd6f5c124/signed_com.amazon.minitv.android.app.release.apk) | 1.4MB | e76115f295a914f5333b484e497d66cf |
 | MiniTV | 2024-03-28 | [1.2.1.100 (2002210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/28/db70b4f1-de6a-4469-af60-d75624af2a41/1711623033768-signed_com.amazon.minitv.android.app.release_V2.apk) | 2.8MB | 72568859ef6788316b3b192786dc98a4 |
 | MiniTV | 2024-05-06 | [1.2.2.100 (2002510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/6/03ecbc24-f7d7-476a-a537-372d91886191/1714992770215-signed_com.amazon.minitv.android.app.release.apk) | 2.8MB | 2fcd933d925e07d36e0dd948e398afa7 |
+| MiniTV | 2024-10-29 | [2.0.18.100 (2004810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/29/e310bca8-3d1a-480a-9917-b2bbd40e7bfb/1730228012456-main-fireTv-release-signed(10).apk) | 6.5MB | 398a1c2cbd2bc0964e62199cd0087af0 |
 |||_com.amazon.minitv.android.app_
 |<br>
 | Multimodal SmartHome | 2020-08-28 | [1.0.204315.0_1927310 (1927310)](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 8.9MB | 499d490732d9d843249280914832675b |
