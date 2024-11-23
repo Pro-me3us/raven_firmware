@@ -228,6 +228,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon Appstore | 2024-04-23 | [release-8.5030.5.v.x.226796.0_424950710 (424950710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/23/71c156de-7490-4f8f-9711-49400d328098/1713852608993-com.amazon.venezia-5.v.x.226796.0-AR2.apk) | 22.4MB | f1d5fbb0f64e35fd562458684e92f533 |
 | Amazon Appstore | 2024-07-18 | [release-8.5032.5.v.x.228309.0_425474110 (425474110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/18/4e8e24b9-8f0d-424f-b822-dc069cebaaee/1721318593338-AR3_DOT_8.5032.5.v.x.228309.0_425474110.apk) | 22.5MB | 8392f8104c260a5a811e8eeecf76b3c1 |
 | Amazon Appstore | 2024-09-25 | [release-8.5037.5.v.x.229699.0_425816810 (425816810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/25/61d90a5f-c67c-4d47-a6b3-dc590530fa60/com.amazon.venezia.apk) | 17.2MB | cbb0a35276bbe38488f7d457ac2d861f |
+| Amazon Appstore | 2024-11-05 | [release-8.5040.5.v.x.230614.0_426039810 (426039810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/5/ac532cf2-e97f-4b61-bfa8-82feab511fc4/1730797543116-com.amazon.venezia(1).apk) | 15.4MB | 2e76c907c1f71cce36ff7d1b59e2dd74 |
 |||_com.amazon.venezia_
 |<br>
 | Amazon Game Center | 2022-10-14 | [1.0.735.0-com.amazon.gamehub-tv_1042710 (1042710)](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | 8.2MB | b6b5467b8ac9bb2968c0dd8e9f475801 |
@@ -322,6 +323,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Ceviche | 2022-09-12 | [1.0.2625.0_1397010 (1397010)](https://d1s31zyz7dcc2d.cloudfront.net/2de0ba9f24c6cb67a63fa05dc9777d6c/signed_CevicheService-release1.apk) | 0.5MB | 01df45e28a18d649f0f6ed4b7df67994 | 
 | Ceviche | 2023-04-11 | [1.0.3136.0_1444910 (1444910)](https://d1s31zyz7dcc2d.cloudfront.net/525afe9dba5d5a64d7f698cd70dad5f5/signed_CevicheService-release_1444910.apk) | 0.5MB | 12731deb3a9e31a90467397ef6a87bc7 | 
 | Ceviche | 2023-05-16 | [1.0.3211.0_1451210 (1451210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/436b576ff075bb5b027d56eaf03819fc/CevicheService-release.apk) | 0.5MB | 852101533993489589d8dfd135969e23 |
+| Ceviche | 2024-10-21 | [1.0.3693.0_1490510 (1490510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/21/cbcbe3d5-19be-4b1c-9323-4aa240b525a7/1729545131768-signed_CevicheService-armeabi-v7a-release.apk) | 1.9MB | 70ea9904e34ff5350ecf675b40e97f1a |
 |||_com.amazon.ceviche_
 |<br>
 | ClientRenderer | 2023-01-23 | [1.3 (103050010)](https://d1s31zyz7dcc2d.cloudfront.net/8a452aa24a7cde6fc0a17cc9d8fca2be/FXPArc-release_500.apk) | 12.4MB | c53e982a2ef64770abca9708b5e6bb57 |
@@ -445,6 +447,9 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | FireTV Player | 2024-09-30 | [FireTv.382.500601 (382500610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/30/cb69eb99-1cae-4032-a60e-8acf2f620b16/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_382500610.apk) | 39.7MB | 9690b96b6c978b6e7705106bcc005218 |
 | FireTV Player | 2024-10-15 | [FireTv.384.500901 (384500910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/15/4d8afa7b-0e62-4339-9a4d-94b80a15b7e1/1728979105522-com.amazon.avod.apk) | 39.9MB | 85dd43dbffc412e743f138e306435318 |
 | FireTV Player | 2024-11-01 | [FireTv.387.501001 (387501010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/1/de687644-489a-4cdc-bc66-2b6721c85b9b/1730483044127-com.amazon.avod.apk) | 40.1MB | eb9c12c890d1267d2b90567af86827d1 |
+| FireTV Player | 2024-11-12 | [FireTv.388.500801 (388500810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/12/4471d83b-20e1-44aa-b50a-36f3b008d845/1731438281226-com.amazon.avod.apk) | 40.1MB | b69c5ae92a3e890f7e792358d48e48b4 |
+| FireTV Player | 2024-11-17 | [FireTv.388.500901 (388500910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/17/1f64fada-dc79-4157-a801-1a1d61469db5/1731875370318-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_388500910.apk) | 40.1MB | 0ace2082d2f3a2d1ccb660df1c983a30 |
+| FireTV Player | 2024-11-21 | [FireTv.389.501501 (389501510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/21/85b806c1-9b6c-4234-a48d-f7d3ea8b5c1c/1732178276127-com.amazon.avod.apk) | 40.2MB | 60ab89078f4bb008c3125b82c24be5eb |
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1 (106000110)](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
@@ -709,6 +714,8 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Prime Video | 2024-10-04 | [PVFTV-90.0136-L (90013610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/4/a604bf49-4943-48ab-a3a3-d3b53eab9e34/1728073498122-Firebat-livingRoom-release-signed_90013610.apk) | 21.7MB | 33c1366da945b1bf16abde2bc8218882 |
 | Prime Video | 2024-10-18 | [PVFTV-91.0154-L (91015410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/18/2bcab8c8-19db-4ef9-923b-7613bf8e91ab/1729295158314-Firebat-livingRoom-release-signed_91015410.apk) | 22.1MB | 086895e694c5added19f13912fd13010 |
 | Prime Video | 2024-11-01 | [PVFTV-92.0150-L (92015010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/1/3be6b489-d717-41c0-a446-2d21ca9c9609/1730478442882-signed_Firebat-livingRoom-release_92015010.apk) | 23.3MB | 55a58617ee9c4e4a637483be94ae0443 |
+| Prime Video | 2024-11-12 | [PVFTV-93.0150-L (93015010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/12/9565f299-c1d0-4706-8e48-dc8d1be9763b/1731435248254-signed_Firebat-livingRoom-release_93015010.apk) | 23.4MB | 69f3341bb281d71886724a8467838ef8 |
+| Prime Video | 2024-11-18 | [PVFTV-93.0154-L (93015410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/18/537bc65e-46d8-42f5-8145-5ffdbdc2d87f/1731899461226-signed_Firebat-livingRoom-release_93015410.apk) | 23.4MB | 9a27272ed2d21ecea6e7e93fcf4f505a |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
