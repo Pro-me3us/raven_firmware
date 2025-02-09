@@ -459,6 +459,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | FireTV Player | 2024-11-25 | [FireTv.389.501801 (389501810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/25/ca5f9a82-c64d-483c-ba5e-d6c4b576ed96/1732554013397-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_389501810.apk) | 40.2MB | 70c42317ba0001910b77800838f46ecd |
 | FireTV Player | 2024-12-03 | [FireTv.390.500301 (390500310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/12/3/df5046b4-835b-48f4-b0bb-044b99844f1f/1733211345248-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_390500310.apk) | 41.3MB | 7a2126170f2b86092a65e9af93d44757 |
 | FireTV Player | 2024-12-14 | [FireTv.391.501801 (391501810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/12/14/0aea84e7-1baf-4ac1-9332-d739b6ac6ea2/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_391501810.apk) | 41.4MB | e023bbaba3b2ededbbe3db6716d48e88 |
+| FireTV Player | 2025-02-05 | [FireTv.395.502101 (395502110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/2/5/cf96e5e9-514b-4897-8827-c0e39496c2d4/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_395502110.apk) | 43.5MB | 549385700e65a98b58658f77fd795ac5 |
 |||_com.amazon.avod_
 |<br>
 | FireTV Remote | 2021-10-27 | [1060001.1 (106000110)](https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk) | 0.9MB | 5349ae80ee15963ab18663eb4756336b |
@@ -602,6 +603,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | News | 2024-09-24 | [1.0.14381.0_12539410 (12539410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/24/d120b777-d4c2-442b-ae97-6bb68a58e1f3/1727221212251-signed-FC-R6-V6-3.apk) | 11.0MB | 22e8b357fbf4225d8e0ecf69ed818400 |
 | News | 2024-10-17 | [1.0.14561.0_12562110 (12562110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/17/96fc5da8-e90d-48ca-b7c7-0aa79003e76f/1729154303932-signed-HedwigNews-release-R6-V7-2.apk) | 11.0MB | ad01f405f9d50235bd3b5ff229671c40 |
 | News | 2024-12-12 | [1.0.14946.0_12613410 (12613410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/12/12/34e45a9e-cbcf-457b-9138-7ceb30446ed1/1733984367534-signed_HedwigNews-release-R7-V14(1).apk) | 11.6MB | 25235d4340fcb19dc113c4c6102bed2c |
+| News | 2025-01-20 | [1.0.15113.0_12633210 (12633210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/20/66a0f87e-8609-424d-a8ab-b923506384e7/1737352830211-FC-R8-HOTFIX-1.apk) | 11.6MB | d80f5b3cf327a888af277a783458802d |
 |||_com.amazon.hedwig_
 |<br>
 | OOBE (Out-of-Box-Experience) | 2022-08-07 | [1.0.6460.0-com.amazon.tv.oobe-jarvis_624016310 (624016310)](https://d1s31zyz7dcc2d.cloudfront.net/1280b8179678dc072c1bcb9503a5c5e9/signed_FireTvOobe-jarvis-release_1.0.6460.0_GM_Oakwood.apk) | 11.3MB | 78648873671d85927440ee7797e67b33 |
@@ -731,6 +733,8 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Prime Video | 2024-12-11 | [PVFTV-94.0208-L (94020810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/12/11/2e17bfef-7787-4f14-9503-de7e5cd7d3de/1733880431780-signed_Firebat-livingRoom-release_94020810.apk) | 23.9MB | 807f5690bfedbd070258d7561aaa3b6e |
 | Prime Video | 2024-12-27 | [PVFTV-94.0218-L (94021810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/12/27/62ce5146-203f-410f-aa6d-8f484841dce4/1735318409268-signed_Firebat-livingRoom-release_94021810.apk) | 23.9MB | 17743d478e5c89933f5504c829496297 |
 | Prime Video | 2025-01-18 | [PVFTV-94.0220-L (94022010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/18/085fa21e-44d4-4643-be30-f02a37d61bfa/1737234080263-signed_Firebat-livingRoom-release_94022010.apk) | 23.9MB | af647055af14553e717bf8d3dbd99c1d |
+| Prime Video | 2025-01-22 | [PVFTV-95.0363-L (95036310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/22/974b2fb7-86b9-4d56-b96c-3794c70de52a/1737579698843-signed_Firebat-release_95036310.apk) | 23.0MB | d547f1fcf129d25bc49de9dddf9d7f25 |
+| Prime Video | 2025-02-07 | [PVFTV-95.0399-L (95039910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/2/7/fab321c7-1220-4db3-829c-8a51aca445b9/1738962055242-signed_Firebat-release_95039910.apk) | 23.0MB | e079785fb694030151853834d3fac92d |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
@@ -751,6 +755,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Settings Menu | 2023-08-23 | [1.0.8739.0-com.amazon.tv.settings.v2-jarvis_635006110 (635006110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6942d8d7e89864e01adda35015247e2e/signed_FireTvSettings-jarvis-release_1.0.8739.0.apk) | 13.1MB | 4dd2830008b49f03a0110baa8a3e6dff |
 | Settings Menu | 2023-09-25 | [1.0.8947.0-com.amazon.tv.settings.v2-jarvis_636078010 (636078010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0d2145b9f8d258e4ca8b431088024e02/signed_FireTvSettings-jarvis-release_1.0.8947.0_RNfixlatest.apk) | 13.1MB | 9d439951f0d229ed49a554504fa887cc |
 | Settings Menu | 2023-11-14 | [1.0.9315.0-com.amazon.tv.settings.v2-jarvis_638022010 (638022010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/07974d128c31fa5203d2a3870048f19e/signed_FireTvSettings-jarvis-release__1.0.9315.0_Dublin.apk) | 14.1MB | 5ab1cd10a4e92418cf5af8bc02d5c6e1 |
+| Settings Menu | 2025-01-28 | [1.0.11801.0-com.amazon.tv.settings.v2-jarvis_639555610 (639555610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/28/534d5507-b665-4c9a-8fdb-886445457eca/1738053756281-signed_FireTvSettings-jarvis-release1.0.11801.0.apk) | 16.3MB | 5b3f391c916e773fd19af5d6fd888a53 |
 |||_com.amazon.tv.settings.v2_
 |<br>
 | Settings Help Menu | 2022-12-05 | [7.0.77.0-com.amazon.tv.csapp-jarvis_700015610 (700015610)](https://d1s31zyz7dcc2d.cloudfront.net/868de86918ce7ed442b8f364f9183dc2/signed_CSAppFireTV-jarvis-release-7.0.77.0.apk) | 0.9MB | 103778b74ea3c1320f7c19e26ec14539 |	
