@@ -123,6 +123,8 @@ Note: superscript v1-7 indicate bootloader version
 | 2024-07-25 | FireOS 7.6.7.9 | [FireTVCubeGen2-7.6.7.9-20240725.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/K7UWJChhsqfeEMmKmN1grMNbYc/FireTVCubeGen2-7.6.7.9-20240725.tar.bz2) | 2431.0MB | 796c23291aa828a98f4212fe163f7451 |
 | 2024-11-24 | FireOS 7.6.8.5 | [FireTVCubeGen2-7.6.8.5-20241124.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/Op7kI5PEkq1tvmwoeEAgLpc0BY/FireTVCubeGen2-7.6.8.5-20241124.tar.bz2) | 1693.9MB | 2904ea0e8dfa4a8b5063437369434af2 |
 | 2025-03-14 | FireOS 7.6.9.0 | [FireTVCubeGen2-7.6.9.0-20250314.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/jDZZcW9uDmu8gntUldALHCAfYv/FireTVCubeGen2-7.6.9.0-20250314.tar.bz2) | 2206.7MB | 3458f971e1cc6713c7def2da837bcf8c |
+| 2025-05-14 | FireOS 7.6.9.7 | [FireTVCubeGen2-7.6.9.7-20250514.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/mSIBvt7NTV2EHC8FyOuC9SbovT/FireTVCubeGen2-7.6.9.7-20250514.tar.bz2) | 1550.0MB | 385a7fb053befc5d4e84d7838563b248 |
+
 
 
 
@@ -333,6 +335,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon System WebView | 2024-05-24 | [122.amazon-webview-v122-6261-tv.6261.140.42 (60902632)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/24/12e9f1b4-9a52-47d7-9599-f6e8b59230f1/1716594397103-signed_AmazonWebView-debug-32-signed.apk) | 50.2MB | 2c4f7f5020b60633cff5199fa054d8d6 |
 | Amazon System WebView | 2024-06-17 | [124.amazon-webview-v124-6367-tv.6367.248.61 (60925032)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/6/17/d7a44f60-88b2-4aa0-a7bc-ff8dabe96f7e/1718660695820-signed_AmazonWebView-debug-32-signed-2.apk) | 51.3MB | ead045210c0d37bec8df9fe876f80969 |
 | Amazon System WebView | 2024-08-29 | [124.amazon-webview-v124-6367-tv.6367.248.109 (61002232)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/29/301dc664-e0b1-4f02-9790-663f5c8c2663/1724965493655-109_signed_AmazonWebView-debug-signed-2.apk) | 51.3MB | 4d8413b993d0a668a444dfa5443ff1ff |
+| Amazon System WebView | 2024-08-29 | [124.amazon-webview-v124-6367-tv.6367.248.110 (61002632)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/29/2b1e1368-f0d1-4a33-aae6-6cdb84fab646/1724966469889-110_signed_AmazonWebView-uncompressed-32-SIGNME-6.apk) | 82.9MB | 1adde9b88aadfde735075b814dc6e927 |
 |||_com.amazon.webview.chromium_
 |<br>
 | Aria | 2022-04-20 | [AriaRuntime-1.10.334.0 (3894410)](https://d1s31zyz7dcc2d.cloudfront.net/c5e9a97ead16e216fed59fa456106921/signed_AriaRuntime-1.10.334.0-standard-universal-release.apk) | 12.4MB | 09266735e13bbd997cc7b2c20eeff98a |
@@ -613,6 +616,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 |<br>
 | Luna | 2025-04-17 | [1.13101.0017.0-release (131001710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/17/782950af-5577-4055-9de2-a2e2c46acec4/1744881509975-signed_SpiderPorkClientAndroidAPK-tv-universal-14903release.apk) | 19.3MB | 59d393785be027b38c2f93995dc655a4 |
 | Luna | 2025-06-02 | [1.13201.0014.0-release (132001410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/6/2/6bfa47f2-0d62-4a30-83dd-4e05c5fb481e/1748858862547-signed_SpiderPorkClientAndroidAPK-tv-universal-15145release.apk) | 19.4MB | 6d1e3ae3f3fdec00e4964d66bf4dc07f |
+| Luna | 2025-07-21 | [1.13300.0003.0-release (133000310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/21/ec969db7-465b-40fa-909c-d8927cb4520a/1753083513625-signed_SpiderPorkClientAndroidAPK-tv-universal-15264release.apk) | 18.6MB | 92ec9080b01756546c5b15d0d84b167e |
 |||_com.amazon.spiderpork_
 |<br>
 | MiniTV | 2023-07-30 | [1.2.0.100 (2002110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/55d50845b657587ccb26188fd6f5c124/signed_com.amazon.minitv.android.app.release.apk) | 1.4MB | e76115f295a914f5333b484e497d66cf |
@@ -799,6 +803,8 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Prime Video | 2025-07-15 | [PVFTV-103.0157-L (103015710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/15/f067d6a0-2c20-4d88-9f4a-1890b1d6fa23/1752558065409-signed_Firebat-release_103015710.apk) | 49.2MB | d22bd76f594a1b03159a3a818bce4856 |
 | Prime Video | 2025-07-22 | [PVFTV-103.0175-L (103017510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/22/0776a713-73ce-4c5c-8a57-3ddab095e73f/1753211468432-signed_Firebat-release_103017510.apk) | 49.3MB | b2791b2dbefd966897aac87e7477f262 |
 | Prime Video | 2025-07-31 | [PVFTV-103.0181-L (103018110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/31/7738db28-9f06-402f-adec-0faf541ae598/1753973856211-signed_Firebat-release_103018110.apk) | 49.3MB | abc103415d026ef0f785f5131df0625c |
+| Prime Video | 2025-08-12 | [PVFTV-104.0379-L (104037910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/12/a3ad490a-e41c-496c-a0be-413f6eff7e44/1754974089439-signed_Firebat-release_104037910.apk) | 47.9MB | e39119eafcfa5fea54d32775fd812e65 |
+| Prime Video | 2025-08-15 | [PVFTV-104.0391-L (104039110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/15/4db0b9f4-94b7-4ad9-ae0d-fd5dc81a7dc1/1755237063290-signed_Firebat-release_104039110.apk) | 47.9MB | ee625f97c7597b13a61cfb0f28b5071b |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
