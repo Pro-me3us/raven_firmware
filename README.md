@@ -47,6 +47,7 @@ For other FireTV device firmware visit the following:<br>
 | 2025-05-30 | FireOS 7.6.9.9 (PS7699/4894) | [update-kindle-raven-PS7699_user_4894_0033052368516.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/5/30/6f0e3740-77ff-46e7-8104-aac4dac9dc05/update-kindle-raven-PS7699_user_4894_0033052368516.bin) | 860.0MB | 345a8132feb4657ba15f62c2ea0432e2 |
 | 2025-06-20 | FireOS 7.6.9.9 (PS7699/4896) | [update-kindle-raven-PS7699_user_4896_0033052369028.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/6/21/a5d456ba-2a01-4a10-9d51-8dee575a10f6/update-kindle-raven-PS7699_user_4896_0033052369028.bin) | 860.0MB | dbd656d0e19c9a47c864dbf537137aad |
 | 2025-07-16 | FireOS 7.7.0.2 (PS7702/4965) | [update-kindle-raven-PS7702_user_4965_0033455039876.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/17/a9851908-281e-433f-b8f4-d94e035b8a00/update-kindle-raven-PS7702_user_4965_0033455039876.bin) | 859.4MB | 30ab848f5c8e5a49b4b80800d1eb456f |
+| 2025-08-16 | FireOS 7.7.0.4 (PS7704/5024) | [update-kindle-raven-PS7704_user_5024_0033723490436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/18/3b119f74-fb49-4c99-a712-f0c2b9a66160/update-kindle-raven-PS7704_user_5024_0033723490436.bin) | 856.7MB | b1919004e99dc3806a32c7ded92cba87 |
 
 Note: superscript v1-7 indicate bootloader version
 
@@ -92,6 +93,8 @@ Note: superscript v1-7 indicate bootloader version
 | <sub>2025-05-30</sub> | <sub>FireOS 7.6.9.7 (PS7697/4800)</sub> | <sub>FireOS 7.6.9.9 (PS7699/4894)</sub> | <sub>[update-raven-diff-PS7697.4800N_4800_0032783908996-to-PS7699_user_4894_0033052368516.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/5/30/cf9fe07e-e489-4f38-b772-f7dd6bac8271/update-raven-diff-PS7697.4800N_4800_0032783908996-to-PS7699_user_4894_0033052368516.bin)</sub> | <sub>134.8MB</sub> | <sub>e049571aa5081b32a162deb169599dfc</sub> |
 | <sub>2025-06-20</sub> | <sub>FireOS 7.6.9.9 (PS7699/4894)</sub> | <sub>FireOS 7.6.9.9 (PS7699/4896)</sub> | <sub>[update-raven-diff-PS7699.4894N_4894_0033052368516-to-PS7699_user_4896_0033052369028.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/6/21/27c5f6dd-7746-47ac-99f2-e330326b32c3/update-raven-diff-PS7699.4894N_4894_0033052368516-to-PS7699_user_4896_0033052369028.bin)</sub> | <sub>36.6MB</sub> | <sub>8a3abb32afc3af234773d8c56b0fec19</sub> |
 | <sub>2025-07-16</sub> | <sub>FireOS 7.6.9.9 (PS7699/4896)</sub> | <sub>FireOS 7.7.0.2 (PS7702/4965)</sub> | <sub>[update-raven-diff-PS7699.4894N_4894_0033052368516-to-PS7702_user_4965_0033455039876.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/17/adc9e42b-f854-47c3-8027-50564c5721e7/update-raven-diff-PS7699.4894N_4894_0033052368516-to-PS7702_user_4965_0033455039876.bin)</sub> | <sub>152.6MB</sub> | <sub>b69db4de1df5a1504af2e91f7fea25ae</sub> |
+| <sub>2025-08-16</sub> | <sub>FireOS 7.7.0.2 (PS7702/4965)</sub> | <sub>FireOS 7.7.0.4 (PS7704/5024)</sub> | <sub>[update-raven-diff-PS7702.4965N_4965_0033455039876-to-PS7704_user_5024_0033723490436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/16/18427364-ef11-4a09-883a-9f6138d3aeab/update-raven-diff-PS7702.4965N_4965_0033455039876-to-PS7704_user_5024_0033723490436.bin)</sub> | <sub>121.5MB</sub> | <sub>76ba40415c355fa6ef28eea3b43e540c</sub> |
+
 
 
 ### Source Code
@@ -253,6 +256,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon Appstore | 2024-07-18 | [release-8.5032.5.v.x.228309.0_425474110 (425474110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/18/4e8e24b9-8f0d-424f-b822-dc069cebaaee/1721318593338-AR3_DOT_8.5032.5.v.x.228309.0_425474110.apk) | 22.5MB | 8392f8104c260a5a811e8eeecf76b3c1 |
 | Amazon Appstore | 2024-09-25 | [release-8.5037.5.v.x.229699.0_425816810 (425816810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/25/61d90a5f-c67c-4d47-a6b3-dc590530fa60/com.amazon.venezia.apk) | 17.2MB | cbb0a35276bbe38488f7d457ac2d861f |
 | Amazon Appstore | 2024-11-05 | [release-8.5040.5.v.x.230614.0_426039810 (426039810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/5/ac532cf2-e97f-4b61-bfa8-82feab511fc4/1730797543116-com.amazon.venezia(1).apk) | 15.4MB | 2e76c907c1f71cce36ff7d1b59e2dd74 |
+| Amazon Appstore | 2025-08-25 | [release-8.5082.5.v.x.237127.0_427448510 (427448510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/25/70e6b403-422b-4547-bc16-9594c86290ca/1756089231278-MASClientNapkinAPK-ftv-release-signed.apk) | 16.2MB | 0ddbe04e301a08bc5046faa933092ef6 |
 |||_com.amazon.venezia_
 |<br>
 | Amazon Game Center | 2022-10-14 | [1.0.735.0-com.amazon.gamehub-tv_1042710 (1042710)](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | 8.2MB | b6b5467b8ac9bb2968c0dd8e9f475801 |
@@ -805,6 +809,8 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Prime Video | 2025-07-31 | [PVFTV-103.0181-L (103018110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/31/7738db28-9f06-402f-adec-0faf541ae598/1753973856211-signed_Firebat-release_103018110.apk) | 49.3MB | abc103415d026ef0f785f5131df0625c |
 | Prime Video | 2025-08-12 | [PVFTV-104.0379-L (104037910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/12/a3ad490a-e41c-496c-a0be-413f6eff7e44/1754974089439-signed_Firebat-release_104037910.apk) | 47.9MB | e39119eafcfa5fea54d32775fd812e65 |
 | Prime Video | 2025-08-15 | [PVFTV-104.0391-L (104039110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/15/4db0b9f4-94b7-4ad9-ae0d-fd5dc81a7dc1/1755237063290-signed_Firebat-release_104039110.apk) | 47.9MB | ee625f97c7597b13a61cfb0f28b5071b |
+| Prime Video | 2025-08-29 | [PVFTV-105.0259-L (105025910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/29/a9d028da-59aa-47c2-9d0a-7f5527405312/1756433475697-signed_Firebat-release_105025910.apk) | 48.0MB | 1197daae61fb6bb137015f8ae8b2a48a |
+| Prime Video | 2025-09-04 | [PVFTV-105.2607-L (105260710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/4/e70c7874-149d-45a8-85a2-8cd6150e8fb2/1756964643116-signed_Firebat-release_105260710.apk) | 47.9MB | 59184c2528bd62b6fa2fca0750fbf3af |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
