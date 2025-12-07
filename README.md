@@ -49,6 +49,8 @@ For other FireTV device firmware visit the following:<br>
 | 2025-07-16 | FireOS 7.7.0.2 (PS7702/4965) | [update-kindle-raven-PS7702_user_4965_0033455039876.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/17/a9851908-281e-433f-b8f4-d94e035b8a00/update-kindle-raven-PS7702_user_4965_0033455039876.bin) | 859.4MB | 30ab848f5c8e5a49b4b80800d1eb456f |
 | 2025-08-16 | FireOS 7.7.0.4 (PS7704/5024) | [update-kindle-raven-PS7704_user_5024_0033723490436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/18/3b119f74-fb49-4c99-a712-f0c2b9a66160/update-kindle-raven-PS7704_user_5024_0033723490436.bin) | 856.7MB | b1919004e99dc3806a32c7ded92cba87 |
 | 2025-09-27 | FireOS 7.7.0.6 (PS7706/5106) | [update-kindle-raven-PS7706_user_5106_0033924838020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/30/cb9d21a7-02bc-47bb-9916-87b7f7314526/update-kindle-raven-PS7706_user_5106_0033924838020.bin) | 870.8MB | 37c4a48618a9891d5232219152e3a508 |
+| 2025-11-21 | FireOS 7.7.0.8 (PS7708/5501) | [update-kindle-raven-PS7708_user_5501_0034394701188.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/23/7bbc12a2-bbe1-44f8-b3b7-612fd85fc631/update-kindle-raven-PS7708_user_5501_0034394701188.bin) | 831.4MB | 4d043e3bbf5da26498bff3dabe35e76a |
+
 
 Note: superscript v1-7 indicate bootloader version
 
@@ -96,7 +98,7 @@ Note: superscript v1-7 indicate bootloader version
 | <sub>2025-07-16</sub> | <sub>FireOS 7.6.9.9 (PS7699/4896)</sub> | <sub>FireOS 7.7.0.2 (PS7702/4965)</sub> | <sub>[update-raven-diff-PS7699.4894N_4894_0033052368516-to-PS7702_user_4965_0033455039876.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/17/adc9e42b-f854-47c3-8027-50564c5721e7/update-raven-diff-PS7699.4894N_4894_0033052368516-to-PS7702_user_4965_0033455039876.bin)</sub> | <sub>152.6MB</sub> | <sub>b69db4de1df5a1504af2e91f7fea25ae</sub> |
 | <sub>2025-08-16</sub> | <sub>FireOS 7.7.0.2 (PS7702/4965)</sub> | <sub>FireOS 7.7.0.4 (PS7704/5024)</sub> | <sub>[update-raven-diff-PS7702.4965N_4965_0033455039876-to-PS7704_user_5024_0033723490436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/16/18427364-ef11-4a09-883a-9f6138d3aeab/update-raven-diff-PS7702.4965N_4965_0033455039876-to-PS7704_user_5024_0033723490436.bin)</sub> | <sub>121.5MB</sub> | <sub>76ba40415c355fa6ef28eea3b43e540c</sub> |
 | <sub>2025-09-27</sub> | <sub>FireOS 7.7.0.4 (PS7704/5024)</sub> | <sub>FireOS 7.7.0.6 (PS7706/5106)</sub> | <sub>[update-raven-diff-PS7704.5024N_5024_0033723490436-to-PS7706_user_5106_0033924838020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/10/1/9afa7cff-92aa-486d-8416-a5bd91ea7f54/update-raven-diff-PS7704.5024N_5024_0033723490436-to-PS7706_user_5106_0033924838020.bin)</sub> | <sub>211.8MB</sub> | <sub>f332f97f2acae138558544b470f5e610</sub> |
-
+| <sub>2025-11-24</sub> | <sub>FireOS 7.7.0.6 (PS7706/5106)</sub> | <sub>FireOS 7.7.0.8 (PS7708/5501)</sub> | <sub>[update-raven-diff-PS7706.5106N_5106_0033924838020-to-PS7708_user_5501_0034394701188.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/24/8880ae65-5297-4217-a96f-f9d9e0d1c147/update-raven-diff-PS7706.5106N_5106_0033924838020-to-PS7708_user_5501_0034394701188.bin)</sub> | <sub>137.3MB</sub> | <sub>8253e95930b03af12ea19c40f876dc7f</sub> |
 
 
 ### Source Code
@@ -235,6 +237,10 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Alexa Voice Layer | 2023-03-08 | [1.0.201071.0-stark_901042510 (901042510)](https://d1s31zyz7dcc2d.cloudfront.net/b56f7bc4a8a6b8ddcf110ea13bbb75ba/com.amazon.avl-stark-release-signed1071.apk) | 1.0MB | e9c7c0a2487b8896f49fec21685911ee |
 |||_com.amazon.avl.stark_
 |<br>
+| AVLS UI Experiences | 2025-11-21 | [1.0.1091.0_1142310 (1142310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/21/e4d629c5-27df-49af-90cb-62e51b5ecf8e/1763769471290-com.amazon.avls.experience.apk) | 2.4MB | b3fed45e0352bbbe7a91ada2633f6796 |
+| AVLS UI Experiences | 2025-12-02 | [1.0.1123.0_1145910 (1145910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/2/986e7f51-fd35-43e9-9fca-13db1740bfda/1764647147940-com.amazon.avls.experience.apk) | 2.4MB | c03b0e3c956d1a78908cfa08f7a7eefa |
+|||_com.amazon.avls.experience_
+|<br>
 | Amazon Appstore | 2022-06-24 | [release-8.5008.5.v.x.217228.0_422192810 (422192810)](https://d1s31zyz7dcc2d.cloudfront.net/43ac9f3a54fe7b0cb774f4be8f041958/com.amazon.venezia.apk) | 20.3MB | 462dae6ef05a806e6ecb67cf7ff313fd |
 | Amazon Appstore | 2022-07-22 | [release-8.5009.5.v.x.217419.0_422229310 (422229310)](https://d1s31zyz7dcc2d.cloudfront.net/e7aa630fadb8e5819b4ec5ce4a55d832/Cincinnati_Signed_5.v.x.217419.0.apk) | 20.4MB | 9e8b2e165ef074b123a8c12e6e22fb88 |
 | Amazon Appstore | 2022-08-30 | [release-8.5010.5.v.x.217901.0_422303610 (422303610)](https://d1s31zyz7dcc2d.cloudfront.net/cb7946c99bcf75e3eddfabbd0163f1be/com.amazon.venezia.apk) | 20.5MB | d422ea1e70b64e6fc37b9d2897fa6699 |
@@ -332,6 +338,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon Music | 2025-10-15 | [25.13.1.466 (425130110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/10/15/66c0d79c-fe2b-409d-99fd-c2b7e8ba06be/1760512851429-signed_DMTVAndroid-firetv-prod-arm32-release-25.13.1.466.466.0.apk) | 20.7MB | 1d72cf4891349e032e4e311f8da4cb04 |
 | Amazon Music | 2025-10-24 | [25.13.2.493 (425130210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/10/24/81051319-06c4-4d45-95bc-bcbd1e83d839/1761291097212-signed_DMTVAndroid-firetv-prod-arm32-release-25.13.2.493.0.apk) | 20.7MB | 73465f02e9806b3c7c1b8eff364ed83f |
 | Amazon Music | 2025-11-05 | [25.14.0.552 (425140010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/5/8973b509-708a-4e33-9e49-54541d6c9d8c/1762360645945-signed_DMTVAndroid-firetv-prod-arm32-release-25.14.0.552.552.0.apk) | 32.0MB | 03c1346d1c7ff1c8630464264b99e316 |
+| Amazon Music | 2025-12-03 | [25.15.0.735 (425150010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/3/993eec05-9085-49a1-9694-dffc89973585/1764789069802-signed_DMTVAndroid-firetv-prod-arm32-release-25.15.0.735.735.0.apk) | 32.2MB | 472b8beb7a9af697b4ad57cc07989352 |
 |||_com.amazon.bueller.music_
 |<br>
 | Amazon Photos | 2022-02-25 | [2.14.0-883278710 (883278710)](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
@@ -851,6 +858,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Prime Video | 2025-11-06 | [PVFTV-110.0187-L (110018710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/6/57d0a9b5-e53d-4729-bd3e-c65ec89e4c0c/1762463549385-signed_Firebat-release_110018710.apk) | 49.4MB | 77ff7fab0fbc4d575ff1d63670987fe1 |
 | Prime Video | 2025-11-13 | [PVFTV-111.1504-L (111150410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/13/87db374e-a03c-4c01-b5d8-24e1eb900587/1763076248800-signed_Firebat-release_111150410.apk) | 49.5MB | 34a7fa604173af95c4e39a6579638bf7 |
 | Prime Video | 2025-11-18 | [PVFTV-111.6051-L (111605110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/18/f2cb60dc-c3d7-43bc-9c0a-186c9ad7858e/1763427606707-signed_Firebat-release_111605110.apk) | 49.5MB | c2b66f722f914ea5bb681c4695c5ef90 |
+| Prime Video | 2025-11-19 | [PVFTV-111.7007-L (111700710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/19/f64e24f7-26e0-4e08-a114-25c8089cad86/1763591954907-signed_Firebat-release_111700710.apk) | 49.5MB | 0cfe6939ae655ea45ccc30418c461b4a |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
@@ -859,6 +867,11 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Release Notes | 2021-06-17 | [1.0.706.0-com.amazon.tv.releasenotes-jarvis_620255310 (620255310)](https://d1s31zyz7dcc2d.cloudfront.net/ff1b908f13fba6e0e5f152f46b7c8415/signed_FireTvReleaseNotes-jarvis-release-juv.apk) | 2.0MB | 5dd89d795f42177af5041c0d47a98cf6 |
 | Release Notes | 2023-01-11 | [1.0.949.0-com.amazon.tv.releasenotes-jarvis_621041110 (621041110)](https://d1s31zyz7dcc2d.cloudfront.net/06d9089ac002c8ca75d448d6f013b5df/signed_FireTvReleaseNotes-jarvis-release-1.0.949.0.apk) | 2.2MB | f71d35419440421a431e3aab614ab0fd |
 |||_com.amazon.tv.releasenotes_ 
+|<br>
+| Settings (Alexa Home Theater) | 2025-11-08 | [1.0.1086.0-com.amazon.whasettings-jarvis_1450910 (1450910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/8/d5575af0-6fcf-42af-a5cd-59ac1c954bdd/1762635352761-com.amazon.whasettings.apk) | 5.3MB | 8b8dc83de5d81afb55b61199f0674f0c |
+| Settings (Alexa Home Theater) | 2025-11-21 | [1.0.1156.0-com.amazon.whasettings-jarvis_1465010 (1465010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/21/4ff2703e-17f8-4010-9a13-9b55ec41a63f/1763769323001-com.amazon.whasettings.apk) | 5.3MB | 4ebaa3b95862ca1b99cff25608e70916 |
+| Settings (Alexa Home Theater) | 2025-12-02 | [1.0.1195.0-com.amazon.whasettings-jarvis_1473610 (1473610)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/2/ab5a7a3d-7519-4907-99b8-b5a5ba180c0d/1764646464298-com.amazon.whasettings.apk) | 5.3MB | a9b6f48ed46ff0a53ca9f1460cb4e1d3 |
+|||_com.amazon.whasettings_ 
 |<br>
 | Settings Menu | 2022-08-03 | [1.0.5579.0-com.amazon.tv.settings.v2-jarvis_623019510 (623019510)](https://d1s31zyz7dcc2d.cloudfront.net/626d9f707554433f08e98728a25db9de/signed_FireTvSettings-jarvis-release_1.0.5579.0.apk) | 9.5MB | e756258030e520f4508ab4d58335c121 |
 | Settings Menu | 2022-10-12 | [1.0.6176.0-com.amazon.tv.settings.v2-jarvis_624091410 (624091410)](https://d1s31zyz7dcc2d.cloudfront.net/d5cb45546eeacf98fdd44966eb223664/signed_FireTvSettings-jarvis-release_1.0.6176.0.apk) | 10.4MB | 22cd2ea93c0d5c045b8d8cf3acf98de0 |
@@ -960,8 +973,6 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | System Status Monitor | 2023-03-20 | [1.0.781.0-com.amazon.ssmsys_5067810 (5067810)](https://d1s31zyz7dcc2d.cloudfront.net/a4ce11d43e860bd91024aa5526cf1d08/com.amazon.ssmsys.apk) | 3.1MB | 59cea1fbb9774bccb15e864e9b60fc3a |
 | System Status Monitor | 2023-10-11 | [1.0.989.0-com.amazon.ssmsys_5087810 (5087810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/d806cc37b03dfdcf8e35814a3eef098c/com.amazon.ssmsys.apk) | 4.2MB | c627090aac45cc9257313820a2e6434b |
 |||_com.amazon.ssmsys_
-| <br>
-| Whole Home Audio (Alexa Home Theater Settings) | 2025-11-08 | [1.0.1086.0-com.amazon.whasettings-jarvis_1450910 (1450910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/8/d5575af0-6fcf-42af-a5cd-59ac1c954bdd/1762635352761-com.amazon.whasettings.apk) | 5.3MB | 8b8dc83de5d81afb55b61199f0674f0c |
-|||_com.amazon.whasettings_|
+
 
 Note: Many apps are not device specific, so the same version is used on the Cube as other FireStick models.  Check the <a href="https://gist.github.com/JulyIghor/d3d3dd460527a1d2b5b67954160d4abf">4K Stick page</a> for a more comprehensive  list of apps and versions.  Use the MD5 value for any app above to verify that the 4K stick is using the same app version line.  Listed app dates are an approximation based on the server availability date.
