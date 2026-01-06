@@ -862,6 +862,8 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Prime Video | 2025-11-19 | [PVFTV-111.7007-L (111700710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/19/f64e24f7-26e0-4e08-a114-25c8089cad86/1763591954907-signed_Firebat-release_111700710.apk) | 49.5MB | 0cfe6939ae655ea45ccc30418c461b4a |
 | Prime Video | 2025-12-04 | [PVFTV-112.3001-L (112300110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/4/60ca5422-ccd7-4b0f-a15c-b315c42b733d/1764873777974-Signed_Firebat-release_112300110.apk) | 45.8MB | 6a8b9beede822398dc8fefebb5e4dc6e |
 | Prime Video | 2025-12-08 | [PVFTV-213.1002-L (213100210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/8/3d772226-156a-494f-93bd-9b3a691e8ae0/1765214305220-Signed_Firebat-ignitionx-release_213100210.apk) | 66.0MB | 97acaae37e7b0f1cb5cb1d172173482a |
+| Prime Video | 2025-12-15 | [PVFTV-213.1008-L (213100810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/15/b4e24c32-9f92-4dcc-a573-ad7aa911cd1a/1765819722422-Signed_Firebat-ignitionx-release_213100810.apk) | 66.0MB | 948b2fa33704e9019b3c29379b30f570 |
+| Prime Video | 2026-01-05 | [PVFTV-213.1015-L (213101510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/5/e07b3256-cc06-43b7-aa9c-a356bfe47bcd/1767637953356-Signed_Firebat-ignitionx-release_213101510.apk) | 66.0MB | 000307db5d806d904a68c30cf542f018 |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
