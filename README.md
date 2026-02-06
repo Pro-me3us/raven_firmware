@@ -50,7 +50,7 @@ For other FireTV device firmware visit the following:<br>
 | 2025-08-16 | FireOS 7.7.0.4 (PS7704/5024) | [update-kindle-raven-PS7704_user_5024_0033723490436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/18/3b119f74-fb49-4c99-a712-f0c2b9a66160/update-kindle-raven-PS7704_user_5024_0033723490436.bin) | 856.7MB | b1919004e99dc3806a32c7ded92cba87 |
 | 2025-09-27 | FireOS 7.7.0.6 (PS7706/5106) | [update-kindle-raven-PS7706_user_5106_0033924838020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/30/cb9d21a7-02bc-47bb-9916-87b7f7314526/update-kindle-raven-PS7706_user_5106_0033924838020.bin) | 870.8MB | 37c4a48618a9891d5232219152e3a508 |
 | 2025-11-21 | FireOS 7.7.0.8 (PS7708/5501) | [update-kindle-raven-PS7708_user_5501_0034394701188.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/23/7bbc12a2-bbe1-44f8-b3b7-612fd85fc631/update-kindle-raven-PS7708_user_5501_0034394701188.bin) | 831.4MB | 4d043e3bbf5da26498bff3dabe35e76a |
-
+| 2026-01-05 | FireOS 7.7.1.1 (PS7711/5272) | [update-kindle-raven-PS7711_user_5272_0034763741316.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/8/e503f201-dda6-4815-b64f-047af75436a7/update-kindle-raven-PS7711_user_5272_0034763741316.bin) | 830.6MB | 88111ca4f45a3be57af0899bdcbe0899 
 
 Note: superscript v1-7 indicate bootloader version
 
@@ -99,6 +99,8 @@ Note: superscript v1-7 indicate bootloader version
 | <sub>2025-08-16</sub> | <sub>FireOS 7.7.0.2 (PS7702/4965)</sub> | <sub>FireOS 7.7.0.4 (PS7704/5024)</sub> | <sub>[update-raven-diff-PS7702.4965N_4965_0033455039876-to-PS7704_user_5024_0033723490436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/16/18427364-ef11-4a09-883a-9f6138d3aeab/update-raven-diff-PS7702.4965N_4965_0033455039876-to-PS7704_user_5024_0033723490436.bin)</sub> | <sub>121.5MB</sub> | <sub>76ba40415c355fa6ef28eea3b43e540c</sub> |
 | <sub>2025-09-27</sub> | <sub>FireOS 7.7.0.4 (PS7704/5024)</sub> | <sub>FireOS 7.7.0.6 (PS7706/5106)</sub> | <sub>[update-raven-diff-PS7704.5024N_5024_0033723490436-to-PS7706_user_5106_0033924838020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/10/1/9afa7cff-92aa-486d-8416-a5bd91ea7f54/update-raven-diff-PS7704.5024N_5024_0033723490436-to-PS7706_user_5106_0033924838020.bin)</sub> | <sub>211.8MB</sub> | <sub>f332f97f2acae138558544b470f5e610</sub> |
 | <sub>2025-11-24</sub> | <sub>FireOS 7.7.0.6 (PS7706/5106)</sub> | <sub>FireOS 7.7.0.8 (PS7708/5501)</sub> | <sub>[update-raven-diff-PS7706.5106N_5106_0033924838020-to-PS7708_user_5501_0034394701188.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/24/8880ae65-5297-4217-a96f-f9d9e0d1c147/update-raven-diff-PS7706.5106N_5106_0033924838020-to-PS7708_user_5501_0034394701188.bin)</sub> | <sub>137.3MB</sub> | <sub>8253e95930b03af12ea19c40f876dc7f</sub> |
+| <sub>2026-01-12</sub> | <sub>FireOS 7.7.0.8 (PS7708/5501)</sub> | <sub>FireOS 7.7.1.1 (PS7711/5272)</sub> | <sub>[update-raven-diff-PS7708.5501N_5501_0034394701188-to-PS7711_user_5272_0034763741316.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/12/8c094586-95ec-481b-9800-ef53f669172b/update-raven-diff-PS7708.5501N_5501_0034394701188-to-PS7711_user_5272_0034763741316.bin)</sub> | <sub>177.7MB</sub> | <sub>e60be45a78d0b9e82992c9b2d49b6a94</sub> |
+
 
 
 ### Source Code
@@ -220,6 +222,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Alexa Media Player for FireTV | 2025-03-10 | [1.0.55951.0_16083310 (16083310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/3/10/267033d4-fbbc-479d-ba4f-0c57070dbd78/1741601567429-signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release_1.0.55951.0.apk) | 24.0MB | 706bd5b1f9df9f2bab373f0afb6f1265 |
 | Alexa Media Player for FireTV | 2025-07-12 | [1.0.61097.0_16168410 (16168410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/12/f9d87d17-dd8e-4437-b424-bd95a38e7b98/1752279579221-signed-AlexaMediaPlayer-Android-Runtime-FTV-armeabi-v7a-release.apk) | 48.1MB | d1b48516e22b052b2f967db0a64d05e7 |
 | Alexa Media Player for FireTV | 2025-09-22 | [1.0.63498.0_16225910 (16225910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/22/e29d6b28-2370-4527-b5dc-68d2eb8a1b89/1758574030527-signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release-R71.apk) | 46.4MB | 148b70c6b7698b3baf7683526202fa4e |
+| Alexa Media Player for FireTV | 2026-01-23 | [1.0.66772.0_16391910 (16391910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/23/14947021-302d-44fb-b686-03d3a45cc17b/1769144631533-signed_AlexaMediaPlayer-Android-Runtime-FTV-armeabi-v7a-release.apk) | 49.2MB | 5aa961d724dcf8b895155ab8d4d76409 |
 |||_com.amazon.alexamediaplayer.runtime.ftv_
 |<br>
 | Alexa Shopping on FireTV | 2021-04-21 | [2.0.147.0 (7033910)](https://d1s31zyz7dcc2d.cloudfront.net/539164335c11ca0caa3360651d6c340d/signed_AlexaShoppingOnFireTV-release_RC1.apk) | 7.2MB | eaad5890a4106b9eb3b68df952fc6c34 |
@@ -342,6 +345,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon Music | 2025-12-03 | [25.15.0.735 (425150010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/3/993eec05-9085-49a1-9694-dffc89973585/1764789069802-signed_DMTVAndroid-firetv-prod-arm32-release-25.15.0.735.735.0.apk) | 32.2MB | 472b8beb7a9af697b4ad57cc07989352 |
 | Amazon Music | 2025-12-09 | [25.15.1.766 (425150110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/9/4a2b4fc6-9c79-4859-9ef7-ef4cdae3460c/1765306601876-signed_DMTVAndroid-firetv-prod-arm32-release-25.15.1.766.766.0.apk) | 32.2MB | 47daae81381d2715f11d7b3dfe2ab73e |
 | Amazon Music | 2026-01-06 | [26.1.0.782 (426010010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/6/32102ded-65b2-4c3c-a2ca-25e0abd5402c/1767682973409-signed_DMTVAndroid-firetv-prod-arm32-release-26.1.0.782.782.0.apk) | 32.1MB | 0c9355c4425b76fb3ee68a45130c57d3 |
+| Amazon Music | 2026-02-03 | [26.2.0.861 (426020010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/3/62dcbd4e-564b-45a4-86f8-02371388c851/1770117035886-signed_DMTVAndroid-firetv-prod-arm32-release-26.2.0.861.861.0.apk) | 32.2MB | 8c9dcd8a5cb03885de68666e6cea953f |
 |||_com.amazon.bueller.music_
 |<br>
 | Amazon Photos | 2022-02-25 | [2.14.0-883278710 (883278710)](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
@@ -691,6 +695,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | News (firetv channels) | 2025-10-27 | [1.0.16883.0_12843210 (12843210)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/10/27/ee59f136-213a-4ddd-bb4a-44c81772ccd9/1761546949388-signed_HedwigNews-release-R12-V13.apk) | 10.4MB | a5b51b42267e80a5992de37811b09d0b |
 | News (firetv channels) | 2025-11-13 | [1.0.16946.0_12848110 (12848110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/13/7c30cf2a-0e31-45a9-a37c-e003b25072fe/1763072920097-signed-fc-r12-v14.apk) | 10.4MB | 4fe815d3f3ce9947b37cde6a518cf142 |
 | News (firetv channels) | 2025-12-30 | [1.0.17108.0_12868510 (12868510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/30/03311746-9205-4417-a7b9-2f2a207afc71/1767076224380-R13_V6.apk) | 10.4MB | ee73ef0075b7570b4b249999406b52e8 |
+| News (firetv channels) | 2026-01-27 | [1.0.17191.0_12875310 (12875310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/27/8274c920-ced5-4389-a002-1c4e3b909d85/1769539230642-signed_HedwigNews-release-R13-HF.apk) | 10.4MB | ad32510eacb02bbe7a5954fa89076877 |
 |||_com.amazon.hedwig_
 |<br>
 | OOBE (Out-of-Box-Experience) | 2022-08-07 | [1.0.6460.0-com.amazon.tv.oobe-jarvis_624016310 (624016310)](https://d1s31zyz7dcc2d.cloudfront.net/1280b8179678dc072c1bcb9503a5c5e9/signed_FireTvOobe-jarvis-release_1.0.6460.0_GM_Oakwood.apk) | 11.3MB | 78648873671d85927440ee7797e67b33 |
@@ -868,6 +873,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Prime Video | 2025-12-15 | [PVFTV-213.1008-L (213100810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/15/b4e24c32-9f92-4dcc-a573-ad7aa911cd1a/1765819722422-Signed_Firebat-ignitionx-release_213100810.apk) | 66.0MB | 948b2fa33704e9019b3c29379b30f570 |
 | Prime Video | 2026-01-05 | [PVFTV-213.1015-L (213101510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/5/e07b3256-cc06-43b7-aa9c-a356bfe47bcd/1767637953356-Signed_Firebat-ignitionx-release_213101510.apk) | 66.0MB | 000307db5d806d904a68c30cf542f018 |
 | Prime Video | 2026-01-20 | [PVFTV-214.0050-L (214005010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/20/81945fd3-5765-4547-ae58-3a3a483c6c44/1768950913113-Signed_Firebat-ignitionx-release_214005010.apk) | 66.2MB | 00c54fd6285249cfc0c9ce4d882457b4 |
+| Prime Video | 2026-01-30 | [PVFTV-214.0054-L (214005410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/30/bc5fd6e8-0343-41bc-b0ba-f7b5d920d84e/1769808299542-Signed_Firebat-ignitionx-release_214005410.apk) | 66.0MB | 2786b503ab82724055f3612b37707d49 |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
@@ -967,6 +973,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Silk | 2025-11-17 | [140.7.11.0.7339.251.30 (1407511010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/17/b9ff3355-4fd6-407f-93d7-0bfeb2eb60e3/1763375815675-signed_slate_fire_tv_v140_7_11_arm.apk) | 119.7MB | f05965cba0e08ad2abf6a7a0fb6fbdeb |
 | Silk | 2025-12-05 | [142.4.24.0.7444.225.30 (1424524010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/5/edc53be9-52d1-442a-90d1-b1cdb07b5a0b/1764946824452-signed_slate_fire_tv_v142_4_24_arm.apk) | 124.0MB | fe3de6b45771494b0b9329e2a43cfcb7 |
 | Silk | 2026-01-08 | [142.6.6.0.7444.251.30 (1426506010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/8/6589c63c-13b7-4841-a7c6-b5be9a97cffd/1767883957528-signed_slate_fire_tv_v142_6_6_arm.apk) | 124.0MB | 7f9115e31ac491596536b3cb13647e09 |
+| Silk | 2026-01-21 | [142.7.11.0.7444.251.30 (1427511010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/21/8f1e0fe7-bb90-486d-bad2-3b8ce079ec3d/1769012716919-signed_slate_fire_tv_v142_7_11_arm.apk) | 124.0MB | af7d245f0c0d699a8e4b572770e07f7f |
 |||_com.amazon.cloud9_
 |<br>	
 | SSDP Service | 2022-09-28 | [1.0.100053.00 (10005310) ](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
