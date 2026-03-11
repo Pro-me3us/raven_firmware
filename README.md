@@ -51,6 +51,7 @@ For other FireTV device firmware visit the following:<br>
 | 2025-09-27 | FireOS 7.7.0.6 (PS7706/5106) | [update-kindle-raven-PS7706_user_5106_0033924838020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/30/cb9d21a7-02bc-47bb-9916-87b7f7314526/update-kindle-raven-PS7706_user_5106_0033924838020.bin) | 870.8MB | 37c4a48618a9891d5232219152e3a508 |
 | 2025-11-21 | FireOS 7.7.0.8 (PS7708/5501) | [update-kindle-raven-PS7708_user_5501_0034394701188.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/23/7bbc12a2-bbe1-44f8-b3b7-612fd85fc631/update-kindle-raven-PS7708_user_5501_0034394701188.bin) | 831.4MB | 4d043e3bbf5da26498bff3dabe35e76a |
 | 2026-01-05 | FireOS 7.7.1.1 (PS7711/5272) | [update-kindle-raven-PS7711_user_5272_0034763741316.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/8/e503f201-dda6-4815-b64f-047af75436a7/update-kindle-raven-PS7711_user_5272_0034763741316.bin) | 830.6MB | 88111ca4f45a3be57af0899bdcbe0899 
+| 2026-02-21 | FireOS 7.7.1.2 (PS7712/5370) | [update-kindle-raven-PS7712_user_5370_0035199974020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/24/1d4b58f1-3063-4e5e-a437-a0866286c40d/update-kindle-raven-PS7712_user_5370_0035199974020.bin) | 827.7MB | 0a39dc8474eb12b0b0f816fcd3b6d6ed 
 
 Note: superscript v1-7 indicate bootloader version
 
@@ -100,7 +101,7 @@ Note: superscript v1-7 indicate bootloader version
 | <sub>2025-09-27</sub> | <sub>FireOS 7.7.0.4 (PS7704/5024)</sub> | <sub>FireOS 7.7.0.6 (PS7706/5106)</sub> | <sub>[update-raven-diff-PS7704.5024N_5024_0033723490436-to-PS7706_user_5106_0033924838020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/10/1/9afa7cff-92aa-486d-8416-a5bd91ea7f54/update-raven-diff-PS7704.5024N_5024_0033723490436-to-PS7706_user_5106_0033924838020.bin)</sub> | <sub>211.8MB</sub> | <sub>f332f97f2acae138558544b470f5e610</sub> |
 | <sub>2025-11-24</sub> | <sub>FireOS 7.7.0.6 (PS7706/5106)</sub> | <sub>FireOS 7.7.0.8 (PS7708/5501)</sub> | <sub>[update-raven-diff-PS7706.5106N_5106_0033924838020-to-PS7708_user_5501_0034394701188.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/24/8880ae65-5297-4217-a96f-f9d9e0d1c147/update-raven-diff-PS7706.5106N_5106_0033924838020-to-PS7708_user_5501_0034394701188.bin)</sub> | <sub>137.3MB</sub> | <sub>8253e95930b03af12ea19c40f876dc7f</sub> |
 | <sub>2026-01-12</sub> | <sub>FireOS 7.7.0.8 (PS7708/5501)</sub> | <sub>FireOS 7.7.1.1 (PS7711/5272)</sub> | <sub>[update-raven-diff-PS7708.5501N_5501_0034394701188-to-PS7711_user_5272_0034763741316.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/12/8c094586-95ec-481b-9800-ef53f669172b/update-raven-diff-PS7708.5501N_5501_0034394701188-to-PS7711_user_5272_0034763741316.bin)</sub> | <sub>177.7MB</sub> | <sub>e60be45a78d0b9e82992c9b2d49b6a94</sub> |
-
+| <sub>2026-02-27</sub> | <sub>FireOS 7.7.1.1 (PS7711/5272)</sub> | <sub>FireOS 7.7.1.2 (PS7712/5370)</sub> | <sub>[update-raven-diff-PS7711.5272N_5272_0034763741316-to-PS7712_user_5370_0035199974020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/27/ce7c1f8c-430f-4c99-86bc-a7507ca1149f/update-raven-diff-PS7711.5272N_5272_0034763741316-to-PS7712_user_5370_0035199974020.bin)</sub> | <sub>129.0MB</sub> | <sub>f93c2eb7f8b6bff1f11235a05f692f86</sub> |
 
 
 ### Source Code
@@ -347,6 +348,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Amazon Music | 2026-01-06 | [26.1.0.782 (426010010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/6/32102ded-65b2-4c3c-a2ca-25e0abd5402c/1767682973409-signed_DMTVAndroid-firetv-prod-arm32-release-26.1.0.782.782.0.apk) | 32.1MB | 0c9355c4425b76fb3ee68a45130c57d3 |
 | Amazon Music | 2026-02-03 | [26.2.0.861 (426020010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/3/62dcbd4e-564b-45a4-86f8-02371388c851/1770117035886-signed_DMTVAndroid-firetv-prod-arm32-release-26.2.0.861.861.0.apk) | 32.2MB | 8c9dcd8a5cb03885de68666e6cea953f |
 | Amazon Music | 2026-02-17 | [26.2.1.891 (426020110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/17/69b7baf0-1b19-46df-9ad5-d13a88083982/1771323927526-signed_DMTVAndroid-firetv-prod-arm32-release-26.2.1.891.891.0.apk) | 32.2MB | 6c47bf6af6180db7f912e8bc458fb9ad |
+| Amazon Music | 2026-03-02 | [26.3.0.925 (426030010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/3/2/6c346a88-f07b-4de2-8ae4-0e14a702b2c2/1772468533975-signed_DMTVAndroid-firetv-prod-arm32-release-26.3.0.925.0.apk) | 32.2MB | b270636c896c5c93b6bdca8309d51179 |
 |||_com.amazon.bueller.music_
 |<br>
 | Amazon Photos | 2022-02-25 | [2.14.0-883278710 (883278710)](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | 16.5MB | e4479ac50b4956f9ee5b65720839cfd9 |
@@ -660,6 +662,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Luna | 2025-04-17 | [1.13101.0017.0-release (131001710)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/17/782950af-5577-4055-9de2-a2e2c46acec4/1744881509975-signed_SpiderPorkClientAndroidAPK-tv-universal-14903release.apk) | 19.3MB | 59d393785be027b38c2f93995dc655a4 |
 | Luna | 2025-06-02 | [1.13201.0014.0-release (132001410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/6/2/6bfa47f2-0d62-4a30-83dd-4e05c5fb481e/1748858862547-signed_SpiderPorkClientAndroidAPK-tv-universal-15145release.apk) | 19.4MB | 6d1e3ae3f3fdec00e4964d66bf4dc07f |
 | Luna | 2025-07-21 | [1.13300.0003.0-release (133000310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/21/ec969db7-465b-40fa-909c-d8927cb4520a/1753083513625-signed_SpiderPorkClientAndroidAPK-tv-universal-15264release.apk) | 18.6MB | 92ec9080b01756546c5b15d0d84b167e |
+| Luna | 2026-02-11 | [1.13600.0015.0-release (136001510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/11/bc476e7c-eb15-43f1-a318-11eb96f7e2b4/1770796075612-signed_SpiderPorkClientAndroidAPK-tv17372-universal-release.apk) | 20.8MB | 4f741e59ed16477aaf0d21f39d3b6a83 |
 |||_com.amazon.spiderpork_
 |<br>
 | MiniTV | 2023-07-30 | [1.2.0.100 (2002110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/55d50845b657587ccb26188fd6f5c124/signed_com.amazon.minitv.android.app.release.apk) | 1.4MB | e76115f295a914f5333b484e497d66cf |
@@ -697,6 +700,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | News (firetv channels) | 2025-11-13 | [1.0.16946.0_12848110 (12848110)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/13/7c30cf2a-0e31-45a9-a37c-e003b25072fe/1763072920097-signed-fc-r12-v14.apk) | 10.4MB | 4fe815d3f3ce9947b37cde6a518cf142 |
 | News (firetv channels) | 2025-12-30 | [1.0.17108.0_12868510 (12868510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/30/03311746-9205-4417-a7b9-2f2a207afc71/1767076224380-R13_V6.apk) | 10.4MB | ee73ef0075b7570b4b249999406b52e8 |
 | News (firetv channels) | 2026-01-27 | [1.0.17191.0_12875310 (12875310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/27/8274c920-ced5-4389-a002-1c4e3b909d85/1769539230642-signed_HedwigNews-release-R13-HF.apk) | 10.4MB | ad32510eacb02bbe7a5954fa89076877 |
+| News (firetv channels) | 2026-02-23 | [2.0.184.0_12896010 (12896010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/23/f2aa032d-a637-47ea-87d5-a8eee54cf5e1/1771821810218-V3-signed_HedwigNews-releaseJDK17V11.apk) | 10.7MB | 5343e2842b55a41dd83b197e06b2b121 |
 |||_com.amazon.hedwig_
 |<br>
 | OOBE (Out-of-Box-Experience) | 2022-08-07 | [1.0.6460.0-com.amazon.tv.oobe-jarvis_624016310 (624016310)](https://d1s31zyz7dcc2d.cloudfront.net/1280b8179678dc072c1bcb9503a5c5e9/signed_FireTvOobe-jarvis-release_1.0.6460.0_GM_Oakwood.apk) | 11.3MB | 78648873671d85927440ee7797e67b33 |
