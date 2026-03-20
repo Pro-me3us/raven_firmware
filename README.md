@@ -52,6 +52,7 @@ For other FireTV device firmware visit the following:<br>
 | 2025-11-21 | FireOS 7.7.0.8 (PS7708/5501) | [update-kindle-raven-PS7708_user_5501_0034394701188.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/23/7bbc12a2-bbe1-44f8-b3b7-612fd85fc631/update-kindle-raven-PS7708_user_5501_0034394701188.bin) | 831.4MB | 4d043e3bbf5da26498bff3dabe35e76a |
 | 2026-01-05 | FireOS 7.7.1.1 (PS7711/5272) | [update-kindle-raven-PS7711_user_5272_0034763741316.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/8/e503f201-dda6-4815-b64f-047af75436a7/update-kindle-raven-PS7711_user_5272_0034763741316.bin) | 830.6MB | 88111ca4f45a3be57af0899bdcbe0899 
 | 2026-02-21 | FireOS 7.7.1.2 (PS7712/5370) | [update-kindle-raven-PS7712_user_5370_0035199974020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/24/1d4b58f1-3063-4e5e-a437-a0866286c40d/update-kindle-raven-PS7712_user_5370_0035199974020.bin) | 827.7MB | 0a39dc8474eb12b0b0f816fcd3b6d6ed 
+| 2026-03-12 | FireOS 7.7.1.2 (PS7712/5374) | [update-kindle-raven-PS7712_user_5374_0035199975044.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/3/12/629ea5ac-2d42-4b80-9c86-e6d01169103c/update-kindle-raven-PS7712_user_5374_0035199975044.bin) | 829.7MB | 9db30c1cd4125acdfc3569625ff67826 
 
 Note: superscript v1-7 indicate bootloader version
 
@@ -102,6 +103,8 @@ Note: superscript v1-7 indicate bootloader version
 | <sub>2025-11-24</sub> | <sub>FireOS 7.7.0.6 (PS7706/5106)</sub> | <sub>FireOS 7.7.0.8 (PS7708/5501)</sub> | <sub>[update-raven-diff-PS7706.5106N_5106_0033924838020-to-PS7708_user_5501_0034394701188.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/24/8880ae65-5297-4217-a96f-f9d9e0d1c147/update-raven-diff-PS7706.5106N_5106_0033924838020-to-PS7708_user_5501_0034394701188.bin)</sub> | <sub>137.3MB</sub> | <sub>8253e95930b03af12ea19c40f876dc7f</sub> |
 | <sub>2026-01-12</sub> | <sub>FireOS 7.7.0.8 (PS7708/5501)</sub> | <sub>FireOS 7.7.1.1 (PS7711/5272)</sub> | <sub>[update-raven-diff-PS7708.5501N_5501_0034394701188-to-PS7711_user_5272_0034763741316.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/12/8c094586-95ec-481b-9800-ef53f669172b/update-raven-diff-PS7708.5501N_5501_0034394701188-to-PS7711_user_5272_0034763741316.bin)</sub> | <sub>177.7MB</sub> | <sub>e60be45a78d0b9e82992c9b2d49b6a94</sub> |
 | <sub>2026-02-27</sub> | <sub>FireOS 7.7.1.1 (PS7711/5272)</sub> | <sub>FireOS 7.7.1.2 (PS7712/5370)</sub> | <sub>[update-raven-diff-PS7711.5272N_5272_0034763741316-to-PS7712_user_5370_0035199974020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/27/ce7c1f8c-430f-4c99-86bc-a7507ca1149f/update-raven-diff-PS7711.5272N_5272_0034763741316-to-PS7712_user_5370_0035199974020.bin)</sub> | <sub>129.0MB</sub> | <sub>f93c2eb7f8b6bff1f11235a05f692f86</sub> |
+| <sub>2026-03-12</sub> | <sub>FireOS 7.7.1.2 (PS7712/5370)</sub> | <sub>FireOS 7.7.1.2 (PS7712/5374)</sub> | <sub>[update-raven-diff-PS7712.5370N_5370_0035199974020-to-PS7712_user_5374_0035199975044.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/3/12/4f586042-aeb6-4990-9bb5-9cc27246cc8d/update-raven-diff-PS7712.5370N_5370_0035199974020-to-PS7712_user_5374_0035199975044.bin)</sub> | <sub>34.9MB</sub> | <sub>08a5618aacd33cb482cc2d2eba07297e</sub> |
+
 
 
 ### Source Code
@@ -701,6 +704,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | News (firetv channels) | 2025-12-30 | [1.0.17108.0_12868510 (12868510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/12/30/03311746-9205-4417-a7b9-2f2a207afc71/1767076224380-R13_V6.apk) | 10.4MB | ee73ef0075b7570b4b249999406b52e8 |
 | News (firetv channels) | 2026-01-27 | [1.0.17191.0_12875310 (12875310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/27/8274c920-ced5-4389-a002-1c4e3b909d85/1769539230642-signed_HedwigNews-release-R13-HF.apk) | 10.4MB | ad32510eacb02bbe7a5954fa89076877 |
 | News (firetv channels) | 2026-02-23 | [2.0.184.0_12896010 (12896010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/23/f2aa032d-a637-47ea-87d5-a8eee54cf5e1/1771821810218-V3-signed_HedwigNews-releaseJDK17V11.apk) | 10.7MB | 5343e2842b55a41dd83b197e06b2b121 |
+| News (firetv channels) | 2026-03-12 | [2.0.307.0_12908510 (12908510)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/3/12/8c3eb74b-b65c-44a2-a21d-4d1c7ac5ff54/1773293569532-signed_FC-R14-V8.apk) | 9.0MB | 24f7638e04f2eb8e39fdd3c07a7d54b5 |
 |||_com.amazon.hedwig_
 |<br>
 | OOBE (Out-of-Box-Experience) | 2022-08-07 | [1.0.6460.0-com.amazon.tv.oobe-jarvis_624016310 (624016310)](https://d1s31zyz7dcc2d.cloudfront.net/1280b8179678dc072c1bcb9503a5c5e9/signed_FireTvOobe-jarvis-release_1.0.6460.0_GM_Oakwood.apk) | 11.3MB | 78648873671d85927440ee7797e67b33 |
@@ -881,6 +885,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Prime Video | 2026-01-30 | [PVFTV-214.0054-L (214005410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/30/bc5fd6e8-0343-41bc-b0ba-f7b5d920d84e/1769808299542-Signed_Firebat-ignitionx-release_214005410.apk) | 66.0MB | 2786b503ab82724055f3612b37707d49 |
 | Prime Video | 2026-02-17 | [PVFTV-215.0053-L (215005310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/17/b9ec7d19-94d8-4b69-b721-55502616c9ed/1771359393794-Signed_Firebat-ignitionx-release_215005310.apk) | 66.0MB | ee82c6d8d978a3a67bba2281c40602bb |
 | Prime Video | 2026-02-19 | [PVFTV-215.4058-L (215405810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/19/a8a15dfe-4e34-4cc5-8b6b-6b02bc87c58a/1771545059935-Signed_Firebat-ignitionx-release_215405810.apk) | 66.0MB | 4d5200e37b2053c83b15893bd24b4865 |
+| Prime Video | 2026-03-13 | [PVFTV-215.5200-L (215520010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/3/13/8b355e64-32a5-46a3-bf95-9f626f0ddd0c/1773442958200-Signed_Firebat-ignitionx-release_215520010.apk) | 65.7MB | c01bd2ef2ed7127c1b3e7a9477076633 |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
@@ -978,6 +983,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Silk | 2025-10-24 | [138.8.21.0.7204.244.30 (1388521010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/10/24/dfeaf907-cbcb-4752-9841-85f5902053f2/1761311235291-signed_slate_fire_tv_v138_8_21_arm.apk) | 108.7MB | 07ba62e9d785e9c711387a0c164c9375 |
 | Silk | 2026-11-17 | [138.10.4.0.7204.244.30 (1390504010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/17/7565346a-48e2-4fbe-a5f7-19075e8349d1/1763381826063-signed_slate_fire_tv_v138_10_4_arm.apk) | 108.7MB | 8c65528c87dc3f27212a6eb43c765d47 |
 | Silk | 2026-02-16 | [138.12.2.0.7204.244.30 (1392502010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/16/47f39915-72d8-410c-ad4e-a7fb67a58287/1771235398414-signed_slate_fire_tv_v138_12_2_arm.apk) | 108.7MB | 8060fa1e2d90f84d9c05e3dd5419bb22 |
+| Silk | 2026-03-14 | [138.13.4.0.7204.244.30 (1393504010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/3/14/bbe4812a-ef93-492a-b247-c2d8b4bb3673/1773462862560-signed_slate_fire_tv_v138_13_4_arm.apk) | 108.7MB | 162a959b9ef782dde94d5481ca47b942 |
 |||_com.amazon.cloud9_
 |<br>	
 | SSDP Service | 2022-09-28 | [1.0.100053.00 (10005310) ](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | 0.3MB | e27ecb0f81a23020db36d9e0d1ed6598 |
