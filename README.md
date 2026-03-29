@@ -227,6 +227,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Alexa Media Player for FireTV | 2025-07-12 | [1.0.61097.0_16168410 (16168410)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/12/f9d87d17-dd8e-4437-b424-bd95a38e7b98/1752279579221-signed-AlexaMediaPlayer-Android-Runtime-FTV-armeabi-v7a-release.apk) | 48.1MB | d1b48516e22b052b2f967db0a64d05e7 |
 | Alexa Media Player for FireTV | 2025-09-22 | [1.0.63498.0_16225910 (16225910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/22/e29d6b28-2370-4527-b5dc-68d2eb8a1b89/1758574030527-signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release-R71.apk) | 46.4MB | 148b70c6b7698b3baf7683526202fa4e |
 | Alexa Media Player for FireTV | 2026-01-23 | [1.0.66772.0_16391910 (16391910)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/23/14947021-302d-44fb-b686-03d3a45cc17b/1769144631533-signed_AlexaMediaPlayer-Android-Runtime-FTV-armeabi-v7a-release.apk) | 49.2MB | 5aa961d724dcf8b895155ab8d4d76409 |
+| Alexa Media Player for FireTV | 2026-03-23 | [1.0.68670.0_16456810 (16456810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/3/23/c573363b-a291-46dd-8490-2c19f6e112b8/1774301523746-candidate_signed_AlexaMediaPlayer-Android-Runtime-FTV-armeabi-v7a-release.apk) | 49.1MB | c23c316a2d2c6021e3a48a60faa911e9 |
 |||_com.amazon.alexamediaplayer.runtime.ftv_
 |<br>
 | Alexa Shopping on FireTV | 2021-04-21 | [2.0.147.0 (7033910)](https://d1s31zyz7dcc2d.cloudfront.net/539164335c11ca0caa3360651d6c340d/signed_AlexaShoppingOnFireTV-release_RC1.apk) | 7.2MB | eaad5890a4106b9eb3b68df952fc6c34 |
@@ -886,6 +887,7 @@ In early 2023, Amazon purged the source page of any source older than mid 2020. 
 | Prime Video | 2026-02-17 | [PVFTV-215.0053-L (215005310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/17/b9ec7d19-94d8-4b69-b721-55502616c9ed/1771359393794-Signed_Firebat-ignitionx-release_215005310.apk) | 66.0MB | ee82c6d8d978a3a67bba2281c40602bb |
 | Prime Video | 2026-02-19 | [PVFTV-215.4058-L (215405810)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/19/a8a15dfe-4e34-4cc5-8b6b-6b02bc87c58a/1771545059935-Signed_Firebat-ignitionx-release_215405810.apk) | 66.0MB | 4d5200e37b2053c83b15893bd24b4865 |
 | Prime Video | 2026-03-13 | [PVFTV-215.5200-L (215520010)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/3/13/8b355e64-32a5-46a3-bf95-9f626f0ddd0c/1773442958200-Signed_Firebat-ignitionx-release_215520010.apk) | 65.7MB | c01bd2ef2ed7127c1b3e7a9477076633 |
+| Prime Video | 2026-03-23 | [PVFTV-215.6073-L (215607310)](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/3/23/3cdf380a-5fad-4a3f-b049-1c5068c06445/1774298849884-Signed_Firebat-ignitionx-release_215607310.apk) | 65.7MB | c4938080d1338633061ac61c5fff3124 |
 |||_com.amazon.firebat_
 |<br>
 | Prism | 2022-04-25 | [1.2.489.0_100117310 (100117310)](https://d1s31zyz7dcc2d.cloudfront.net/32fd9b5943b3c3ca1730e00961aaa9ae/PrismAndroidService-release-signed-1.2.489.0.apk) | 2.4MB | 442d52e951faa96ba29d40dec5d0c165 |
